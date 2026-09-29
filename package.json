@@ -1,0 +1,25 @@
+{
+  "name": "itagency-website",
+  "version": "1.0.0",
+  "description": "IT Agency website migrated to Next.js, preserving the original theme",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "migrate:source": "node scripts/migrate.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^16.3.7",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "parse5": "^8.0.1",
+    "prettier": "^3.9.9"
+  },
+  "private": true
+}

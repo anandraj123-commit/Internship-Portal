@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/anandraj/Desktop/My%20Project/pages/index.jsx"],"sourcesContent":["import Root from \"../components/Root\";\nimport Header from \"../components/Header\";\nimport HomePage from \"../components/home/Page\";\nimport PageStyles from \"../components/home/PageStyles\";\n\nexport default function Home() {\n  return (\n    <Root pageKey=\"home\" Styles={PageStyles}>\n      <HomePage header={<Header />} />\n    </Root>\n  );\n}\n"],"names":["Home","pageKey","Styles","header"],"mappings":";;;;;AAAA;AACA;AACA;AACA;;;;;;AAEe,SAASA;IACtB,qBACE,qKAAC,uHAAI;QAACC,SAAQ;QAAOC,QAAQ,qIAAU;kBACrC,cAAA,qKAAC,+HAAQ;YAACC,sBAAQ,qKAAC,yHAAM;;;;;;;;;;;;;;;AAG/B"}}]
+}
