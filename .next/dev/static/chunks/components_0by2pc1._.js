@@ -173,9 +173,9 @@ function Navbar({ variant = 0 }) {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             id: "menu-item-6908",
-                            className: "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6908",
+                            className: "menu-item menu-item-type-custom menu-item-object-custom menu-item-6908",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                href: "/#",
+                                href: "/service",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "pxl-menu-item-text",
                                     children: [
@@ -555,9 +555,9 @@ function Navbar({ variant = 0 }) {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            className: "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6908",
+                            className: "menu-item menu-item-type-custom menu-item-object-custom menu-item-6908",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                href: "/#",
+                                href: "/service",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "pxl-menu-item-text",
                                     children: [
@@ -897,9 +897,9 @@ function Navbar({ variant = 0 }) {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                            className: "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6908",
+                            className: "menu-item menu-item-type-custom menu-item-object-custom menu-item-6908",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                href: "/#",
+                                href: "/service",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     children: "Services"
                                 }, void 0, false, {
@@ -1280,20 +1280,22 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$head$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/head.js [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$LegacyScripts$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/components/LegacyScripts.jsx [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$pages$2e$json$2e5b$json$5d2e$cjs__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/data/pages.json.[json].cjs [client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$service$2d$pages$2e$json$2e5b$json$5d2e$cjs__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/data/service-pages.json.[json].cjs [client] (ecmascript)");
 ;
 ;
 ;
 ;
-function Root({ children, pageKey, Styles }) {
+;
+function Root({ children, pageKey, Styles, title = "IT Agency" }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["Fragment"], {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$head$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("title", {
-                        children: "IT Agency"
+                        children: title
                     }, void 0, false, {
                         fileName: "[project]/components/Root.jsx",
-                        lineNumber: 9,
+                        lineNumber: 15,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
@@ -1301,32 +1303,32 @@ function Root({ children, pageKey, Styles }) {
                         content: "width=device-width, initial-scale=1, maximum-scale=1"
                     }, void 0, false, {
                         fileName: "[project]/components/Root.jsx",
-                        lineNumber: 10,
+                        lineNumber: 16,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/Root.jsx",
-                lineNumber: 8,
+                lineNumber: 14,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Styles, {}, void 0, false, {
                 fileName: "[project]/components/Root.jsx",
-                lineNumber: 15,
+                lineNumber: 21,
                 columnNumber: 7
             }, this),
             children,
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$LegacyScripts$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                scripts: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$pages$2e$json$2e5b$json$5d2e$cjs__$5b$client$5d$__$28$ecmascript$29$__["default"][pageKey].scripts
+                scripts: (__TURBOPACK__imported__module__$5b$project$5d2f$data$2f$pages$2e$json$2e5b$json$5d2e$cjs__$5b$client$5d$__$28$ecmascript$29$__["default"][pageKey] || __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$service$2d$pages$2e$json$2e5b$json$5d2e$cjs__$5b$client$5d$__$28$ecmascript$29$__["default"][pageKey]).scripts
             }, void 0, false, {
                 fileName: "[project]/components/Root.jsx",
-                lineNumber: 17,
+                lineNumber: 23,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/Root.jsx",
-        lineNumber: 7,
+        lineNumber: 13,
         columnNumber: 5
     }, this);
 }

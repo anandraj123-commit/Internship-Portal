@@ -166,7 +166,7 @@ export default function ServicesSection() {
                                 ></i>
                               </div>
                               <h3 className={"pxl-post--title"}>
-                                <a href={"index.html%3Fp=735.html"}>
+                                <a href={"/service/we-mobile-development"}>
                                   {"We & Mobile Development"}
                                 </a>
                               </h3>
@@ -178,7 +178,7 @@ export default function ServicesSection() {
                               <div className={"pxl-post--readmore"}>
                                 <a
                                   className={"btn-readmore-1"}
-                                  href={"index.html%3Fp=735.html"}
+                                  href={"/service/we-mobile-development"}
                                 >
                                   <span>{"Read more"}</span>
                                   <i
@@ -208,7 +208,7 @@ export default function ServicesSection() {
                                 ></i>
                               </div>
                               <h3 className={"pxl-post--title"}>
-                                <a href={"index.html%3Fp=733.html"}>
+                                <a href={"/service/motion-branding-design"}>
                                   {"Motion & Branding Design"}
                                 </a>
                               </h3>
@@ -220,7 +220,7 @@ export default function ServicesSection() {
                               <div className={"pxl-post--readmore"}>
                                 <a
                                   className={"btn-readmore-1"}
-                                  href={"index.html%3Fp=733.html"}
+                                  href={"/service/motion-branding-design"}
                                 >
                                   <span>{"Read more"}</span>
                                   <i
@@ -250,7 +250,7 @@ export default function ServicesSection() {
                                 ></i>
                               </div>
                               <h3 className={"pxl-post--title"}>
-                                <a href={"index.html%3Fp=731.html"}>
+                                <a href={"/service/international-seo-services"}>
                                   {"International SEO Services"}
                                 </a>
                               </h3>
@@ -262,7 +262,7 @@ export default function ServicesSection() {
                               <div className={"pxl-post--readmore"}>
                                 <a
                                   className={"btn-readmore-1"}
-                                  href={"index.html%3Fp=731.html"}
+                                  href={"/service/international-seo-services"}
                                 >
                                   <span>{"Read more"}</span>
                                   <i
@@ -292,7 +292,7 @@ export default function ServicesSection() {
                                 ></i>
                               </div>
                               <h3 className={"pxl-post--title"}>
-                                <a href={"index.html%3Fp=2133.html"}>
+                                <a href={"/service/ui-ux-product-design"}>
                                   {"UI/UX & Product Design"}
                                 </a>
                               </h3>
@@ -304,7 +304,7 @@ export default function ServicesSection() {
                               <div className={"pxl-post--readmore"}>
                                 <a
                                   className={"btn-readmore-1"}
-                                  href={"index.html%3Fp=2133.html"}
+                                  href={"/service/ui-ux-product-design"}
                                 >
                                   <span>{"Read more"}</span>
                                   <i
@@ -334,7 +334,7 @@ export default function ServicesSection() {
                                 ></i>
                               </div>
                               <h3 className={"pxl-post--title"}>
-                                <a href={"index.html%3Fp=2135.html"}>
+                                <a href={"/service/mobile-application-design"}>
                                   {"Mobile Application Design"}
                                 </a>
                               </h3>
@@ -346,7 +346,7 @@ export default function ServicesSection() {
                               <div className={"pxl-post--readmore"}>
                                 <a
                                   className={"btn-readmore-1"}
-                                  href={"index.html%3Fp=2135.html"}
+                                  href={"/service/mobile-application-design"}
                                 >
                                   <span>{"Read more"}</span>
                                   <i
@@ -376,7 +376,7 @@ export default function ServicesSection() {
                                 ></i>
                               </div>
                               <h3 className={"pxl-post--title"}>
-                                <a href={"index.html%3Fp=2137.html"}>
+                                <a href={"/service/branding-and-illustration"}>
                                   {"Branding and Illustration"}
                                 </a>
                               </h3>
@@ -388,7 +388,7 @@ export default function ServicesSection() {
                               <div className={"pxl-post--readmore"}>
                                 <a
                                   className={"btn-readmore-1"}
-                                  href={"index.html%3Fp=2137.html"}
+                                  href={"/service/branding-and-illustration"}
                                 >
                                   <span>{"Read more"}</span>
                                   <i
@@ -468,7 +468,7 @@ export default function ServicesSection() {
                             data-wow-delay={"ms"}
                           >
                             <a
-                              href={"service/index.html"}
+                              href={"/service"}
                               className={
                                 "btn pxl-icon-active  btn-stroke  pxl-icon--left"
                               }

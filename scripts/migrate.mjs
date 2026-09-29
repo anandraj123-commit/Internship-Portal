@@ -186,11 +186,31 @@ for (const [key, file] of [
   navs.forEach((n, i) => replacements.set(n, `Navbar variant={${i}}`));
   const header = all(body, (n) => n.tagName === "header")[0];
   if (key === "home") {
-    component("Header", header, "import Navbar from './Navbar';");
-    write("components/home/Header.jsx", 'export { default } from "../Header";\n');
-    write("components/home/Navbar.jsx", 'export { default } from "../Navbar";\n');
+    component(
+      "Header",
+      header,
+      "import Navbar from './Navbar';\nimport HeaderStyles from './HeaderStyles';",
+    );
+    const headerPath = "components/Header.jsx";
+    fs.writeFileSync(
+      headerPath,
+      fs
+        .readFileSync(headerPath, "utf8")
+        .replace("return (<>", "return (<><HeaderStyles />"),
+    );
+    write(
+      "components/home/Header.jsx",
+      'export { default } from "../Header";\n',
+    );
+    write(
+      "components/home/Navbar.jsx",
+      'export { default } from "../Navbar";\n',
+    );
   } else {
-    write("components/about/Header.jsx", 'export { default } from "../Header";\n');
+    write(
+      "components/about/Header.jsx",
+      'export { default } from "../Header";\n',
+    );
   }
   replacements.set(header, "Header");
   const footer = all(body, (n) => n.tagName === "footer")[0];

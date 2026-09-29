@@ -1,7 +1,9 @@
 import Navbar from "./Navbar";
+import HeaderStyles from "./HeaderStyles";
 export default function Header() {
   return (
     <>
+      <HeaderStyles />
       <header
         id={"pxl-header-elementor"}
         className={"is-sticky pxl-header-show"}

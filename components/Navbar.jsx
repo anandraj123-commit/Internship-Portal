@@ -34,15 +34,20 @@ export default function Navbar({ variant = 0 }) {
           <li
             id={"menu-item-6908"}
             className={
-              "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6908"
+              "menu-item menu-item-type-custom menu-item-object-custom menu-item-6908"
             }
           >
-            <a href={"/#"}>
+            <a href={"/service"}>
               <span className={"pxl-menu-item-text"}>
                 {"Services"}
                 <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
                 <span className={"pxl-item-menu-icon pxl-hide "}></span>
               </span>
+            </a>
+          </li>
+          <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-apply-job">
+            <a href="/apply-job">
+              <span className="pxl-menu-item-text">Apply</span>
             </a>
           </li>
           <li
@@ -79,7 +84,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6929"
                 }
               >
-                <a href={"index.html%3Fp=1151.html"}>
+                <a href={"/apply-job"}>
                   <span className={"pxl-menu-item-text"}>
                     {"Job Apply"}
                     <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
@@ -165,15 +170,20 @@ export default function Navbar({ variant = 0 }) {
           </li>
           <li
             className={
-              "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6908"
+              "menu-item menu-item-type-custom menu-item-object-custom menu-item-6908"
             }
           >
-            <a href={"/#"}>
+            <a href={"/service"}>
               <span className={"pxl-menu-item-text"}>
                 {"Services"}
                 <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
                 <span className={"pxl-item-menu-icon pxl-hide "}></span>
               </span>
+            </a>
+          </li>
+          <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-apply-job">
+            <a href="/apply-job">
+              <span className="pxl-menu-item-text">Apply</span>
             </a>
           </li>
           <li
@@ -207,7 +217,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6929"
                 }
               >
-                <a href={"index.html%3Fp=1151.html"}>
+                <a href={"/apply-job"}>
                   <span className={"pxl-menu-item-text"}>
                     {"Job Apply"}
                     <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
@@ -282,11 +292,16 @@ export default function Navbar({ variant = 0 }) {
           </li>
           <li
             className={
-              "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6908"
+              "menu-item menu-item-type-custom menu-item-object-custom menu-item-6908"
             }
           >
-            <a href={"/#"}>
+            <a href={"/service"}>
               <span>{"Services"}</span>
+            </a>
+          </li>
+          <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-apply-job">
+            <a href="/apply-job">
+              <span className="pxl-menu-item-text">Apply</span>
             </a>
           </li>
           <li
@@ -388,7 +403,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6929"
                 }
               >
-                <a href={"index.html%3Fp=1151.html"}>
+                <a href={"/apply-job"}>
                   <span>{"Internship Apply"}</span>
                 </a>
               </li>

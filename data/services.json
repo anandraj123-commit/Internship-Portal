@@ -1,0 +1,945 @@
+{
+  "listing": {
+    "title": "\n\t\t\t\t\t\t\tOur Services\t\n\t\t\t\t\n\t\t",
+    "heading": "\n\t\t\t\t\t\t\tServices We’re Offering\t\n\t\t\t\t\n\t\t",
+    "description": "Sakira is a design studio founded in London and expanded our services, and become a multinational firm, offering solutions Worldwide. Our team have designed game changing app."
+  },
+  "services": [
+    {
+      "slug": "we-mobile-development",
+      "title": "We & Mobile Development",
+      "icon": "flaticon flaticon-mobile-app",
+      "summary": "Build responsive websites and mobile experiences around the needs of your users.",
+      "overview": "Web and mobile development brings your product ideas into working applications. The focus is on clear navigation, responsive interfaces and dependable experiences across screen sizes.",
+      "approach": "Start with the user journeys and essential functionality, then translate approved designs into reusable components and connected application flows.",
+      "features": [
+        {
+          "title": "Responsive interfaces",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-mobile-development"
+        },
+        {
+          "title": "Application development",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-1"
+        },
+        {
+          "title": "API integration",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-megaphone"
+        },
+        {
+          "title": "Testing and handover",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-2"
+        }
+      ],
+      "deliverables": "The project scope can include responsive page templates, application features, integrations and technical documentation. Agree on supported devices and required functionality before development begins.",
+      "id": 735,
+      "href": "/service/we-mobile-development",
+      "card": {
+        "description": "\n                            Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in arcu commodo cursus tincidunt.                        ",
+        "readMoreLabel": "Read more",
+        "readMoreIcon": "flaticon-arrow-right rtl-reverse",
+        "animationDuration": "1.2s"
+      },
+      "media": [
+        {
+          "image": {
+            "fetchpriority": "high",
+            "decoding": "async",
+            "width": "1200",
+            "height": "626",
+            "src": "/wp-content/uploads/2023/07/service-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/07/service-01.jpg 1200w, /wp-content/uploads/2023/07/service-01-600x313.jpg 600w, /wp-content/uploads/2023/07/service-01-300x157.jpg 300w, /wp-content/uploads/2023/07/service-01-1024x534.jpg 1024w, /wp-content/uploads/2023/07/service-01-768x401.jpg 768w, /wp-content/uploads/2023/07/service-01-1170x610.jpg 1170w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          }
+        },
+        {
+          "image": {
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-1.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-1.jpg 1400w, /wp-content/uploads/2023/08/gallery-1-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-1-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-1-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-1-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-1-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-1-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "850",
+            "src": "/wp-content/uploads/2023/08/blog-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/blog-01.jpg 1200w, /wp-content/uploads/2023/08/blog-01-600x425.jpg 600w, /wp-content/uploads/2023/08/blog-01-300x213.jpg 300w, /wp-content/uploads/2023/08/blog-01-1024x725.jpg 1024w, /wp-content/uploads/2023/08/blog-01-768x544.jpg 768w, /wp-content/uploads/2023/08/blog-01-1002x710.jpg 1002w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/blog-01-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-4.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-4.jpg 1200w, /wp-content/uploads/2023/08/gallery-4-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-4-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-4-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-4-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-4-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-4.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-2.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-2.jpg 1400w, /wp-content/uploads/2023/08/gallery-2-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-2-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-2-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-2-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-2-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-2-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-3.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-3.jpg 1200w, /wp-content/uploads/2023/08/gallery-3-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-3-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-3-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-3-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-3-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-3.jpg"
+        }
+      ],
+      "detailIcon": "flaticon flaticon-development",
+      "handover": "Review the scope, priorities and handover requirements together before the project begins. Final deliverables depend on the agreed brief.",
+      "faqHeading": "\n\t\t\t\t\t\t\tFrequently Asked Question\t\n\t\t\t\t\n\t\t",
+      "faqs": [
+        {
+          "question": "What does this service include?",
+          "answer": "The project scope can include responsive page templates, application features, integrations and technical documentation. Agree on supported devices and required functionality before development begins.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-f0abc49",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "Can you work with an existing project?",
+          "answer": "Existing designs, assets and requirements can form the starting point. Review them against the goals of the new brief before deciding what to reuse.",
+          "initiallyOpen": true,
+          "id": "pxl_accordion-a31e278-4689-8909023",
+          "itemClass": "pxl--item active"
+        },
+        {
+          "question": "How is the timeline agreed?",
+          "answer": "The timeline depends on the agreed scope, review stages and required deliverables. Confirm milestones before work begins.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-3f2bf8a",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "What do I need to get started?",
+          "answer": "Share your objectives, audience, current website or assets, and any requirements or constraints so the brief can be defined.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-21ae2db",
+          "itemClass": "pxl--item "
+        }
+      ]
+    },
+    {
+      "slug": "motion-branding-design",
+      "title": "Motion & Branding Design",
+      "icon": "flaticon flaticon-laptop",
+      "summary": "Bring a brand to life with a consistent visual identity and purposeful motion.",
+      "overview": "Motion and branding design connects how a brand looks with how it moves. Animation, typography and visual direction work together to make digital communication clear and recognisable.",
+      "approach": "Define the brand personality and visual direction, explore concepts, and develop a motion language that can be applied consistently across channels.",
+      "features": [
+        {
+          "title": "Brand direction",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-mobile-development"
+        },
+        {
+          "title": "Motion concepts",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-1"
+        },
+        {
+          "title": "Animated assets",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-megaphone"
+        },
+        {
+          "title": "Usage guidelines",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-2"
+        }
+      ],
+      "deliverables": "Depending on the brief, deliverables can include visual identity elements, storyboards, animated brand assets and guidance for using them across digital touchpoints.",
+      "id": 733,
+      "href": "/service/motion-branding-design",
+      "card": {
+        "description": "\n                            Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in arcu commodo cursus tincidunt.                        ",
+        "readMoreLabel": "Read more",
+        "readMoreIcon": "flaticon-arrow-right rtl-reverse",
+        "animationDuration": "1.2s"
+      },
+      "media": [
+        {
+          "image": {
+            "fetchpriority": "high",
+            "decoding": "async",
+            "width": "1200",
+            "height": "626",
+            "src": "/wp-content/uploads/2023/07/service-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/07/service-01.jpg 1200w, /wp-content/uploads/2023/07/service-01-600x313.jpg 600w, /wp-content/uploads/2023/07/service-01-300x157.jpg 300w, /wp-content/uploads/2023/07/service-01-1024x534.jpg 1024w, /wp-content/uploads/2023/07/service-01-768x401.jpg 768w, /wp-content/uploads/2023/07/service-01-1170x610.jpg 1170w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          }
+        },
+        {
+          "image": {
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-1.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-1.jpg 1400w, /wp-content/uploads/2023/08/gallery-1-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-1-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-1-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-1-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-1-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-1-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "850",
+            "src": "/wp-content/uploads/2023/08/blog-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/blog-01.jpg 1200w, /wp-content/uploads/2023/08/blog-01-600x425.jpg 600w, /wp-content/uploads/2023/08/blog-01-300x213.jpg 300w, /wp-content/uploads/2023/08/blog-01-1024x725.jpg 1024w, /wp-content/uploads/2023/08/blog-01-768x544.jpg 768w, /wp-content/uploads/2023/08/blog-01-1002x710.jpg 1002w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/blog-01-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-4.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-4.jpg 1200w, /wp-content/uploads/2023/08/gallery-4-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-4-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-4-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-4-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-4-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-4.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-2.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-2.jpg 1400w, /wp-content/uploads/2023/08/gallery-2-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-2-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-2-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-2-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-2-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-2-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-3.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-3.jpg 1200w, /wp-content/uploads/2023/08/gallery-3-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-3-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-3-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-3-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-3-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-3.jpg"
+        }
+      ],
+      "detailIcon": "flaticon flaticon-development",
+      "handover": "Review the scope, priorities and handover requirements together before the project begins. Final deliverables depend on the agreed brief.",
+      "faqHeading": "\n\t\t\t\t\t\t\tFrequently Asked Question\t\n\t\t\t\t\n\t\t",
+      "faqs": [
+        {
+          "question": "What does this service include?",
+          "answer": "Depending on the brief, deliverables can include visual identity elements, storyboards, animated brand assets and guidance for using them across digital touchpoints.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-f0abc49",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "Can you work with an existing project?",
+          "answer": "Existing designs, assets and requirements can form the starting point. Review them against the goals of the new brief before deciding what to reuse.",
+          "initiallyOpen": true,
+          "id": "pxl_accordion-a31e278-4689-8909023",
+          "itemClass": "pxl--item active"
+        },
+        {
+          "question": "How is the timeline agreed?",
+          "answer": "The timeline depends on the agreed scope, review stages and required deliverables. Confirm milestones before work begins.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-3f2bf8a",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "What do I need to get started?",
+          "answer": "Share your objectives, audience, current website or assets, and any requirements or constraints so the brief can be defined.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-21ae2db",
+          "itemClass": "pxl--item "
+        }
+      ]
+    },
+    {
+      "slug": "international-seo-services",
+      "title": "International SEO Services",
+      "icon": "flaticon flaticon-seo",
+      "summary": "Plan search visibility for the languages and markets your business wants to reach.",
+      "overview": "International SEO considers how people search in different languages and regions. It combines market research, relevant content and technical website structure to support discovery in those markets.",
+      "approach": "Review target audiences, search intent and the current website, then prioritise content and technical improvements for each selected market.",
+      "features": [
+        {
+          "title": "Market research",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-mobile-development"
+        },
+        {
+          "title": "Technical review",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-1"
+        },
+        {
+          "title": "Content planning",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-megaphone"
+        },
+        {
+          "title": "Performance measurement",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-2"
+        }
+      ],
+      "deliverables": "The scope can include a market-focused keyword plan, a technical audit, recommendations for language and regional pages, and a measurement framework. Search rankings are influenced by many factors and are not guaranteed.",
+      "id": 731,
+      "href": "/service/international-seo-services",
+      "card": {
+        "description": "\n                            Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in arcu commodo cursus tincidunt.                        ",
+        "readMoreLabel": "Read more",
+        "readMoreIcon": "flaticon-arrow-right rtl-reverse",
+        "animationDuration": "1.2s"
+      },
+      "media": [
+        {
+          "image": {
+            "fetchpriority": "high",
+            "decoding": "async",
+            "width": "1200",
+            "height": "626",
+            "src": "/wp-content/uploads/2023/07/service-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/07/service-01.jpg 1200w, /wp-content/uploads/2023/07/service-01-600x313.jpg 600w, /wp-content/uploads/2023/07/service-01-300x157.jpg 300w, /wp-content/uploads/2023/07/service-01-1024x534.jpg 1024w, /wp-content/uploads/2023/07/service-01-768x401.jpg 768w, /wp-content/uploads/2023/07/service-01-1170x610.jpg 1170w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          }
+        },
+        {
+          "image": {
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-1.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-1.jpg 1400w, /wp-content/uploads/2023/08/gallery-1-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-1-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-1-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-1-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-1-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-1-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "850",
+            "src": "/wp-content/uploads/2023/08/blog-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/blog-01.jpg 1200w, /wp-content/uploads/2023/08/blog-01-600x425.jpg 600w, /wp-content/uploads/2023/08/blog-01-300x213.jpg 300w, /wp-content/uploads/2023/08/blog-01-1024x725.jpg 1024w, /wp-content/uploads/2023/08/blog-01-768x544.jpg 768w, /wp-content/uploads/2023/08/blog-01-1002x710.jpg 1002w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/blog-01-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-4.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-4.jpg 1200w, /wp-content/uploads/2023/08/gallery-4-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-4-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-4-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-4-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-4-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-4.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-2.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-2.jpg 1400w, /wp-content/uploads/2023/08/gallery-2-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-2-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-2-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-2-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-2-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-2-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-3.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-3.jpg 1200w, /wp-content/uploads/2023/08/gallery-3-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-3-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-3-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-3-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-3-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-3.jpg"
+        }
+      ],
+      "detailIcon": "flaticon flaticon-development",
+      "handover": "Review the scope, priorities and handover requirements together before the project begins. Final deliverables depend on the agreed brief.",
+      "faqHeading": "\n\t\t\t\t\t\t\tFrequently Asked Question\t\n\t\t\t\t\n\t\t",
+      "faqs": [
+        {
+          "question": "What does this service include?",
+          "answer": "The scope can include a market-focused keyword plan, a technical audit, recommendations for language and regional pages, and a measurement framework. Search rankings are influenced by many factors and are not guaranteed.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-f0abc49",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "Can you work with an existing project?",
+          "answer": "Existing designs, assets and requirements can form the starting point. Review them against the goals of the new brief before deciding what to reuse.",
+          "initiallyOpen": true,
+          "id": "pxl_accordion-a31e278-4689-8909023",
+          "itemClass": "pxl--item active"
+        },
+        {
+          "question": "How is the timeline agreed?",
+          "answer": "The timeline depends on the agreed scope, review stages and required deliverables. Confirm milestones before work begins.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-3f2bf8a",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "What do I need to get started?",
+          "answer": "Share your objectives, audience, current website or assets, and any requirements or constraints so the brief can be defined.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-21ae2db",
+          "itemClass": "pxl--item "
+        }
+      ]
+    },
+    {
+      "slug": "ui-ux-product-design",
+      "title": "UI/UX & Product Design",
+      "icon": "flaticon flaticon-development",
+      "summary": "Turn user needs into intuitive interfaces and coherent digital product experiences.",
+      "overview": "UI/UX and product design connects user research with practical interface decisions. Clear journeys, understandable content and consistent visual patterns help people complete the tasks that matter.",
+      "approach": "Map the problem and key user journeys, explore wireframes, and refine interactive prototypes before preparing the interface for development.",
+      "features": [
+        {
+          "title": "User journeys",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-mobile-development"
+        },
+        {
+          "title": "Wireframes",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-1"
+        },
+        {
+          "title": "Interface design",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-megaphone"
+        },
+        {
+          "title": "Interactive prototypes",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-2"
+        }
+      ],
+      "deliverables": "The scope can include user flows, wireframes, high-fidelity screens, interactive prototypes and a reusable set of interface components with handover notes for developers.",
+      "id": 2133,
+      "href": "/service/ui-ux-product-design",
+      "card": {
+        "description": "\n                            Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in arcu commodo cursus tincidunt.                        ",
+        "readMoreLabel": "Read more",
+        "readMoreIcon": "flaticon-arrow-right rtl-reverse",
+        "animationDuration": "1.2s"
+      },
+      "media": [
+        {
+          "image": {
+            "fetchpriority": "high",
+            "decoding": "async",
+            "width": "1200",
+            "height": "626",
+            "src": "/wp-content/uploads/2023/07/service-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/07/service-01.jpg 1200w, /wp-content/uploads/2023/07/service-01-600x313.jpg 600w, /wp-content/uploads/2023/07/service-01-300x157.jpg 300w, /wp-content/uploads/2023/07/service-01-1024x534.jpg 1024w, /wp-content/uploads/2023/07/service-01-768x401.jpg 768w, /wp-content/uploads/2023/07/service-01-1170x610.jpg 1170w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          }
+        },
+        {
+          "image": {
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-1.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-1.jpg 1400w, /wp-content/uploads/2023/08/gallery-1-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-1-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-1-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-1-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-1-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-1-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "850",
+            "src": "/wp-content/uploads/2023/08/blog-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/blog-01.jpg 1200w, /wp-content/uploads/2023/08/blog-01-600x425.jpg 600w, /wp-content/uploads/2023/08/blog-01-300x213.jpg 300w, /wp-content/uploads/2023/08/blog-01-1024x725.jpg 1024w, /wp-content/uploads/2023/08/blog-01-768x544.jpg 768w, /wp-content/uploads/2023/08/blog-01-1002x710.jpg 1002w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/blog-01-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-4.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-4.jpg 1200w, /wp-content/uploads/2023/08/gallery-4-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-4-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-4-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-4-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-4-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-4.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-2.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-2.jpg 1400w, /wp-content/uploads/2023/08/gallery-2-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-2-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-2-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-2-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-2-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-2-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-3.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-3.jpg 1200w, /wp-content/uploads/2023/08/gallery-3-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-3-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-3-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-3-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-3-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-3.jpg"
+        }
+      ],
+      "detailIcon": "flaticon flaticon-development",
+      "handover": "Review the scope, priorities and handover requirements together before the project begins. Final deliverables depend on the agreed brief.",
+      "faqHeading": "\n\t\t\t\t\t\t\tFrequently Asked Question\t\n\t\t\t\t\n\t\t",
+      "faqs": [
+        {
+          "question": "What does this service include?",
+          "answer": "The scope can include user flows, wireframes, high-fidelity screens, interactive prototypes and a reusable set of interface components with handover notes for developers.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-f0abc49",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "Can you work with an existing project?",
+          "answer": "Existing designs, assets and requirements can form the starting point. Review them against the goals of the new brief before deciding what to reuse.",
+          "initiallyOpen": true,
+          "id": "pxl_accordion-a31e278-4689-8909023",
+          "itemClass": "pxl--item active"
+        },
+        {
+          "question": "How is the timeline agreed?",
+          "answer": "The timeline depends on the agreed scope, review stages and required deliverables. Confirm milestones before work begins.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-3f2bf8a",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "What do I need to get started?",
+          "answer": "Share your objectives, audience, current website or assets, and any requirements or constraints so the brief can be defined.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-21ae2db",
+          "itemClass": "pxl--item "
+        }
+      ]
+    },
+    {
+      "slug": "mobile-application-design",
+      "title": "Mobile Application Design",
+      "icon": "flaticon flaticon-web-design",
+      "summary": "Design focused mobile screens and flows that feel natural on smaller devices.",
+      "overview": "Mobile application design makes complex tasks manageable on a small screen. Navigation, touch interactions and readable content are considered together to create a coherent app experience.",
+      "approach": "Identify the core tasks and platform requirements, map the application flow, and test screen concepts through an interactive prototype.",
+      "features": [
+        {
+          "title": "App navigation",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-mobile-development"
+        },
+        {
+          "title": "Screen design",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-1"
+        },
+        {
+          "title": "Interaction patterns",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-megaphone"
+        },
+        {
+          "title": "Prototype review",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-2"
+        }
+      ],
+      "deliverables": "A mobile design project can include app flows, screen layouts, reusable components, interactive prototypes and design specifications for implementation.",
+      "id": 2135,
+      "href": "/service/mobile-application-design",
+      "card": {
+        "description": "\n                            Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in arcu commodo cursus tincidunt.                        ",
+        "readMoreLabel": "Read more",
+        "readMoreIcon": "flaticon-arrow-right rtl-reverse",
+        "animationDuration": "1.2s"
+      },
+      "media": [
+        {
+          "image": {
+            "fetchpriority": "high",
+            "decoding": "async",
+            "width": "1200",
+            "height": "626",
+            "src": "/wp-content/uploads/2023/07/service-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/07/service-01.jpg 1200w, /wp-content/uploads/2023/07/service-01-600x313.jpg 600w, /wp-content/uploads/2023/07/service-01-300x157.jpg 300w, /wp-content/uploads/2023/07/service-01-1024x534.jpg 1024w, /wp-content/uploads/2023/07/service-01-768x401.jpg 768w, /wp-content/uploads/2023/07/service-01-1170x610.jpg 1170w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          }
+        },
+        {
+          "image": {
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-1.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-1.jpg 1400w, /wp-content/uploads/2023/08/gallery-1-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-1-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-1-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-1-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-1-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-1-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "850",
+            "src": "/wp-content/uploads/2023/08/blog-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/blog-01.jpg 1200w, /wp-content/uploads/2023/08/blog-01-600x425.jpg 600w, /wp-content/uploads/2023/08/blog-01-300x213.jpg 300w, /wp-content/uploads/2023/08/blog-01-1024x725.jpg 1024w, /wp-content/uploads/2023/08/blog-01-768x544.jpg 768w, /wp-content/uploads/2023/08/blog-01-1002x710.jpg 1002w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/blog-01-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-4.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-4.jpg 1200w, /wp-content/uploads/2023/08/gallery-4-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-4-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-4-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-4-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-4-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-4.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-2.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-2.jpg 1400w, /wp-content/uploads/2023/08/gallery-2-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-2-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-2-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-2-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-2-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-2-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-3.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-3.jpg 1200w, /wp-content/uploads/2023/08/gallery-3-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-3-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-3-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-3-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-3-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-3.jpg"
+        }
+      ],
+      "detailIcon": "flaticon flaticon-development",
+      "handover": "Review the scope, priorities and handover requirements together before the project begins. Final deliverables depend on the agreed brief.",
+      "faqHeading": "\n\t\t\t\t\t\t\tFrequently Asked Question\t\n\t\t\t\t\n\t\t",
+      "faqs": [
+        {
+          "question": "What does this service include?",
+          "answer": "A mobile design project can include app flows, screen layouts, reusable components, interactive prototypes and design specifications for implementation.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-f0abc49",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "Can you work with an existing project?",
+          "answer": "Existing designs, assets and requirements can form the starting point. Review them against the goals of the new brief before deciding what to reuse.",
+          "initiallyOpen": true,
+          "id": "pxl_accordion-a31e278-4689-8909023",
+          "itemClass": "pxl--item active"
+        },
+        {
+          "question": "How is the timeline agreed?",
+          "answer": "The timeline depends on the agreed scope, review stages and required deliverables. Confirm milestones before work begins.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-3f2bf8a",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "What do I need to get started?",
+          "answer": "Share your objectives, audience, current website or assets, and any requirements or constraints so the brief can be defined.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-21ae2db",
+          "itemClass": "pxl--item "
+        }
+      ]
+    },
+    {
+      "slug": "branding-and-illustration",
+      "title": "Branding and Illustration",
+      "icon": "flaticon flaticon-illustration",
+      "summary": "Create a recognisable visual identity supported by a consistent illustration style.",
+      "overview": "Branding and illustration give a business a visual vocabulary. Identity elements and custom artwork work together to communicate its character across websites, products and marketing materials.",
+      "approach": "Explore the brand story and audience, establish a visual direction, and develop identity concepts and illustrations that share the same style.",
+      "features": [
+        {
+          "title": "Visual identity",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-mobile-development"
+        },
+        {
+          "title": "Illustration concepts",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-1"
+        },
+        {
+          "title": "Brand assets",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-megaphone"
+        },
+        {
+          "title": "Style guidelines",
+          "description": "Plan this part of the project around the agreed goals, audience and requirements.",
+          "icon": "flaticon flaticon-web-design-2"
+        }
+      ],
+      "deliverables": "The scope can include identity concepts, a colour and typography system, illustration assets and guidelines for consistent use in digital and print materials.",
+      "id": 2137,
+      "href": "/service/branding-and-illustration",
+      "card": {
+        "description": "\n                            Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in arcu commodo cursus tincidunt.                        ",
+        "readMoreLabel": "Read more",
+        "readMoreIcon": "flaticon-arrow-right rtl-reverse",
+        "animationDuration": "1.2s"
+      },
+      "media": [
+        {
+          "image": {
+            "fetchpriority": "high",
+            "decoding": "async",
+            "width": "1200",
+            "height": "626",
+            "src": "/wp-content/uploads/2023/07/service-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/07/service-01.jpg 1200w, /wp-content/uploads/2023/07/service-01-600x313.jpg 600w, /wp-content/uploads/2023/07/service-01-300x157.jpg 300w, /wp-content/uploads/2023/07/service-01-1024x534.jpg 1024w, /wp-content/uploads/2023/07/service-01-768x401.jpg 768w, /wp-content/uploads/2023/07/service-01-1170x610.jpg 1170w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          }
+        },
+        {
+          "image": {
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-1.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-1.jpg 1400w, /wp-content/uploads/2023/08/gallery-1-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-1-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-1-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-1-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-1-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-1-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "850",
+            "src": "/wp-content/uploads/2023/08/blog-01.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/blog-01.jpg 1200w, /wp-content/uploads/2023/08/blog-01-600x425.jpg 600w, /wp-content/uploads/2023/08/blog-01-300x213.jpg 300w, /wp-content/uploads/2023/08/blog-01-1024x725.jpg 1024w, /wp-content/uploads/2023/08/blog-01-768x544.jpg 768w, /wp-content/uploads/2023/08/blog-01-1002x710.jpg 1002w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/blog-01-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-4.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-4.jpg 1200w, /wp-content/uploads/2023/08/gallery-4-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-4-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-4-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-4-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-4-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-4.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1400",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-2.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-2.jpg 1400w, /wp-content/uploads/2023/08/gallery-2-600x343.jpg 600w, /wp-content/uploads/2023/08/gallery-2-300x171.jpg 300w, /wp-content/uploads/2023/08/gallery-2-1024x585.jpg 1024w, /wp-content/uploads/2023/08/gallery-2-768x439.jpg 768w, /wp-content/uploads/2023/08/gallery-2-1170x669.jpg 1170w",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-2-1200x800.jpg"
+        },
+        {
+          "image": {
+            "loading": "lazy",
+            "decoding": "async",
+            "width": "1200",
+            "height": "800",
+            "src": "/wp-content/uploads/2023/08/gallery-3.jpg",
+            "className": "no-lazyload attachment-full",
+            "alt": "",
+            "srcSet": "/wp-content/uploads/2023/08/gallery-3.jpg 1200w, /wp-content/uploads/2023/08/gallery-3-600x400.jpg 600w, /wp-content/uploads/2023/08/gallery-3-300x200.jpg 300w, /wp-content/uploads/2023/08/gallery-3-1024x683.jpg 1024w, /wp-content/uploads/2023/08/gallery-3-768x512.jpg 768w, /wp-content/uploads/2023/08/gallery-3-1065x710.jpg 1065w",
+            "sizes": "(max-width: 1200px) 100vw, 1200px"
+          },
+          "href": "/wp-content/uploads/2023/08/gallery-3.jpg"
+        }
+      ],
+      "detailIcon": "flaticon flaticon-development",
+      "handover": "Review the scope, priorities and handover requirements together before the project begins. Final deliverables depend on the agreed brief.",
+      "faqHeading": "\n\t\t\t\t\t\t\tFrequently Asked Question\t\n\t\t\t\t\n\t\t",
+      "faqs": [
+        {
+          "question": "What does this service include?",
+          "answer": "The scope can include identity concepts, a colour and typography system, illustration assets and guidelines for consistent use in digital and print materials.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-f0abc49",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "Can you work with an existing project?",
+          "answer": "Existing designs, assets and requirements can form the starting point. Review them against the goals of the new brief before deciding what to reuse.",
+          "initiallyOpen": true,
+          "id": "pxl_accordion-a31e278-4689-8909023",
+          "itemClass": "pxl--item active"
+        },
+        {
+          "question": "How is the timeline agreed?",
+          "answer": "The timeline depends on the agreed scope, review stages and required deliverables. Confirm milestones before work begins.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-3f2bf8a",
+          "itemClass": "pxl--item "
+        },
+        {
+          "question": "What do I need to get started?",
+          "answer": "Share your objectives, audience, current website or assets, and any requirements or constraints so the brief can be defined.",
+          "initiallyOpen": false,
+          "id": "pxl_accordion-a31e278-4689-21ae2db",
+          "itemClass": "pxl--item "
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "service": {
+    "pxl-main": "43347604fbea444fc25a1980eaae4642110ea6f60fc3059948aefde9d8bf635a",
+    "pxl-header-elementor": "73552319c4ad39ad96ba594d5c8e16a064d59b359ed17730bbc6fb4e4eb8fa46",
+    "pxl-page-title-elementor": "bdeaac43fba5e58c8bf8a0d1f2cb052ead2008d7c9d738cd499e0825ebf39d73",
+    "pxl-footer-elementor": "97127695158a1ccfb3b858bbc6987ece3d1a0b038c8aa210937ef82beec7e7b1"
+  },
+  "service/we-mobile-development": {
+    "pxl-main": "e5df1bda294b60135b0658277f9c07b8264bdd6a7a76640394a786151e582f78",
+    "pxl-header-elementor": "73552319c4ad39ad96ba594d5c8e16a064d59b359ed17730bbc6fb4e4eb8fa46",
+    "pxl-page-title-elementor": "1b054e7d39c4b3157ca397ef90b85dfc3e5d1fc21b8f21a242dbca058b2bb166",
+    "pxl-footer-elementor": "97127695158a1ccfb3b858bbc6987ece3d1a0b038c8aa210937ef82beec7e7b1"
+  },
+  "service/motion-branding-design": {
+    "pxl-main": "ecbefc39aa24804ea017d0bcaf10c20e17d3848e6a95bc1c790613a9bf2b834e",
+    "pxl-header-elementor": "73552319c4ad39ad96ba594d5c8e16a064d59b359ed17730bbc6fb4e4eb8fa46",
+    "pxl-page-title-elementor": "54c25154b634e23fe3454ab8ce25eef1bdc1e520e87247db6234438be1cc327a",
+    "pxl-footer-elementor": "97127695158a1ccfb3b858bbc6987ece3d1a0b038c8aa210937ef82beec7e7b1"
+  },
+  "service/international-seo-services": {
+    "pxl-main": "236d1d983949b13eba42b10cb74c35e068ee49d009ace93d199df43a4b86b34a",
+    "pxl-header-elementor": "73552319c4ad39ad96ba594d5c8e16a064d59b359ed17730bbc6fb4e4eb8fa46",
+    "pxl-page-title-elementor": "81cdd3244ebce0553128ae6826a9756a9d4c5c6253a7d33a8e29621cd68b24fc",
+    "pxl-footer-elementor": "97127695158a1ccfb3b858bbc6987ece3d1a0b038c8aa210937ef82beec7e7b1"
+  },
+  "service/ui-ux-product-design": {
+    "pxl-main": "abd92e0493a4580bc26d827a23a7ed52aa6b7f2628b3055b1c93bac4107a6997",
+    "pxl-header-elementor": "73552319c4ad39ad96ba594d5c8e16a064d59b359ed17730bbc6fb4e4eb8fa46",
+    "pxl-page-title-elementor": "9bf497389ec1f585869c8c043145370d2294ccdaf5b8176ed873e2bfcf751847",
+    "pxl-footer-elementor": "97127695158a1ccfb3b858bbc6987ece3d1a0b038c8aa210937ef82beec7e7b1"
+  },
+  "service/mobile-application-design": {
+    "pxl-main": "9ba510923124d73738a4969e69ac1e977b05911ffc8f40e13f42b14c536c64eb",
+    "pxl-header-elementor": "73552319c4ad39ad96ba594d5c8e16a064d59b359ed17730bbc6fb4e4eb8fa46",
+    "pxl-page-title-elementor": "f7d0820512366b26d686994ceb18796590d20e53b626d2f4b451f404570bfe63",
+    "pxl-footer-elementor": "97127695158a1ccfb3b858bbc6987ece3d1a0b038c8aa210937ef82beec7e7b1"
+  },
+  "service/branding-and-illustration": {
+    "pxl-main": "41561be080477fa31ee9a2dc2b37b50ff2ceef3faf91629b606eb8a81006c321",
+    "pxl-header-elementor": "73552319c4ad39ad96ba594d5c8e16a064d59b359ed17730bbc6fb4e4eb8fa46",
+    "pxl-page-title-elementor": "5790689d19e3289820ea68a223f2c7c72c0eed2851ba51cfec9c1e7c0a2867d0",
+    "pxl-footer-elementor": "97127695158a1ccfb3b858bbc6987ece3d1a0b038c8aa210937ef82beec7e7b1"
+  }
+}

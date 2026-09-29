@@ -49,7 +49,7 @@ export default function ProcessSection() {
                         </h5>
                         <a
                           className={"pxl-item--button"}
-                          href={"index.html%3Fp=2137.html"}
+                          href={"/service/branding-and-illustration"}
                         >
                           <i className={"pxl-icon--plus"}></i>
                         </a>
@@ -71,13 +71,13 @@ export default function ProcessSection() {
                         </div>
                         <a
                           className={"pxl-item--button"}
-                          href={"index.html%3Fp=2137.html"}
+                          href={"/service/branding-and-illustration"}
                         >
                           <i className={"pxl-icon--plus"}></i>
                         </a>
                         <a
                           className={"pxl-item--link"}
-                          href={"index.html%3Fp=2137.html"}
+                          href={"/service/branding-and-illustration"}
                         ></a>
                       </div>
                     </div>
@@ -125,7 +125,7 @@ export default function ProcessSection() {
                         </h5>
                         <a
                           className={"pxl-item--button"}
-                          href={"index.html%3Fp=735.html"}
+                          href={"/service/we-mobile-development"}
                         >
                           <i className={"pxl-icon--plus"}></i>
                         </a>
@@ -147,13 +147,13 @@ export default function ProcessSection() {
                         </div>
                         <a
                           className={"pxl-item--button"}
-                          href={"index.html%3Fp=735.html"}
+                          href={"/service/we-mobile-development"}
                         >
                           <i className={"pxl-icon--plus"}></i>
                         </a>
                         <a
                           className={"pxl-item--link"}
-                          href={"index.html%3Fp=735.html"}
+                          href={"/service/we-mobile-development"}
                         ></a>
                       </div>
                     </div>
@@ -201,7 +201,7 @@ export default function ProcessSection() {
                         </h5>
                         <a
                           className={"pxl-item--button"}
-                          href={"index.html%3Fp=733.html"}
+                          href={"/service/motion-branding-design"}
                         >
                           <i className={"pxl-icon--plus"}></i>
                         </a>
@@ -223,13 +223,13 @@ export default function ProcessSection() {
                         </div>
                         <a
                           className={"pxl-item--button"}
-                          href={"index.html%3Fp=733.html"}
+                          href={"/service/motion-branding-design"}
                         >
                           <i className={"pxl-icon--plus"}></i>
                         </a>
                         <a
                           className={"pxl-item--link"}
-                          href={"index.html%3Fp=733.html"}
+                          href={"/service/motion-branding-design"}
                         ></a>
                       </div>
                     </div>
@@ -277,7 +277,7 @@ export default function ProcessSection() {
                         </h5>
                         <a
                           className={"pxl-item--button"}
-                          href={"index.html%3Fp=2133.html"}
+                          href={"/service/ui-ux-product-design"}
                         >
                           <i className={"pxl-icon--plus"}></i>
                         </a>
@@ -299,13 +299,13 @@ export default function ProcessSection() {
                         </div>
                         <a
                           className={"pxl-item--button"}
-                          href={"index.html%3Fp=2133.html"}
+                          href={"/service/ui-ux-product-design"}
                         >
                           <i className={"pxl-icon--plus"}></i>
                         </a>
                         <a
                           className={"pxl-item--link"}
-                          href={"index.html%3Fp=2133.html"}
+                          href={"/service/ui-ux-product-design"}
                         ></a>
                       </div>
                     </div>
