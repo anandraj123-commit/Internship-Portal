@@ -357,7 +357,7 @@ export default function Page({ header }) {
                               data-wow-delay={"ms"}
                             >
                               <a
-                                href={"index.html%3Fp=35.html"}
+                                href={"/contact-us"}
                                 className={
                                   "btn pxl-icon-active btn-text-nina btn-outline-gradient  pxl-icon--left"
                                 }

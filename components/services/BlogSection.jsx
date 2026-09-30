@@ -101,7 +101,7 @@ export default function BlogSection({ service }) {
                         >
                           <a
                             className={"pxl-post--link"}
-                            href={"/index.html%3Fp=709.html"}
+                            href={"//blog/double-down-on-marketing-spend-think-again"}
                           ></a>
                         </div>
                         <div
@@ -114,7 +114,7 @@ export default function BlogSection({ service }) {
                         >
                           <a
                             className={"pxl-post--link"}
-                            href={"/index.html%3Fp=707.html"}
+                            href={"//blog/private-blog-network-what-is-pbn-how-can-you-build-one"}
                           ></a>
                         </div>
                         <div
@@ -127,7 +127,7 @@ export default function BlogSection({ service }) {
                         >
                           <a
                             className={"pxl-post--link"}
-                            href={"/index.html%3Fp=705.html"}
+                            href={"//blog/what-we-like-about-teamwork-during-big-projects"}
                           ></a>
                         </div>
                         <div
@@ -140,7 +140,7 @@ export default function BlogSection({ service }) {
                         >
                           <a
                             className={"pxl-post--link"}
-                            href={"/index.html%3Fp=703.html"}
+                            href={"//blog/how-does-marketing-automation-help-lead-generation"}
                           ></a>
                         </div>
                       </div>
@@ -153,7 +153,7 @@ export default function BlogSection({ service }) {
                             data-image={"#pxl_post_modern-1bd4c42-7943-0"}
                           >
                             <div className={"pxl-post--featuredRight"}>
-                              <a href={"/index.html%3Fp=709.html"}>
+                              <a href={"//blog/double-down-on-marketing-spend-think-again"}>
                                 <img
                                   loading={"lazy"}
                                   decoding={"async"}
@@ -174,7 +174,7 @@ export default function BlogSection({ service }) {
                               }
                             ></div>
                             <h3 className={"pxl-post--title"}>
-                              <a href={"/index.html%3Fp=709.html"}>
+                              <a href={"//blog/double-down-on-marketing-spend-think-again"}>
                                 {"Double Down on Marketing Spend? Think Again."}
                               </a>
                             </h3>
@@ -202,7 +202,7 @@ export default function BlogSection({ service }) {
                               <div className={"pxl-post--button"}>
                                 <a
                                   className={"pxl-flex-center"}
-                                  href={"/index.html%3Fp=709.html"}
+                                  href={"//blog/double-down-on-marketing-spend-think-again"}
                                 >
                                   <i
                                     className={
@@ -225,7 +225,7 @@ export default function BlogSection({ service }) {
                             data-image={"#pxl_post_modern-1bd4c42-7943-1"}
                           >
                             <div className={"pxl-post--featuredRight"}>
-                              <a href={"/index.html%3Fp=707.html"}>
+                              <a href={"//blog/private-blog-network-what-is-pbn-how-can-you-build-one"}>
                                 <img
                                   loading={"lazy"}
                                   decoding={"async"}
@@ -246,7 +246,7 @@ export default function BlogSection({ service }) {
                               }
                             ></div>
                             <h3 className={"pxl-post--title"}>
-                              <a href={"/index.html%3Fp=707.html"}>
+                              <a href={"//blog/private-blog-network-what-is-pbn-how-can-you-build-one"}>
                                 {
                                   "Private Blog Network: What is PBN & How Can You Build One?"
                                 }
@@ -276,7 +276,7 @@ export default function BlogSection({ service }) {
                               <div className={"pxl-post--button"}>
                                 <a
                                   className={"pxl-flex-center"}
-                                  href={"/index.html%3Fp=707.html"}
+                                  href={"//blog/private-blog-network-what-is-pbn-how-can-you-build-one"}
                                 >
                                   <i
                                     className={
@@ -299,7 +299,7 @@ export default function BlogSection({ service }) {
                             data-image={"#pxl_post_modern-1bd4c42-7943-2"}
                           >
                             <div className={"pxl-post--featuredRight"}>
-                              <a href={"/index.html%3Fp=705.html"}>
+                              <a href={"//blog/what-we-like-about-teamwork-during-big-projects"}>
                                 <img
                                   loading={"lazy"}
                                   decoding={"async"}
@@ -320,7 +320,7 @@ export default function BlogSection({ service }) {
                               }
                             ></div>
                             <h3 className={"pxl-post--title"}>
-                              <a href={"/index.html%3Fp=705.html"}>
+                              <a href={"//blog/what-we-like-about-teamwork-during-big-projects"}>
                                 {
                                   "What We Like About Teamwork During Big Projects"
                                 }
@@ -350,7 +350,7 @@ export default function BlogSection({ service }) {
                               <div className={"pxl-post--button"}>
                                 <a
                                   className={"pxl-flex-center"}
-                                  href={"/index.html%3Fp=705.html"}
+                                  href={"//blog/what-we-like-about-teamwork-during-big-projects"}
                                 >
                                   <i
                                     className={
@@ -373,7 +373,7 @@ export default function BlogSection({ service }) {
                             data-image={"#pxl_post_modern-1bd4c42-7943-3"}
                           >
                             <div className={"pxl-post--featuredRight"}>
-                              <a href={"/index.html%3Fp=703.html"}>
+                              <a href={"//blog/how-does-marketing-automation-help-lead-generation"}>
                                 <img
                                   loading={"lazy"}
                                   decoding={"async"}
@@ -394,7 +394,7 @@ export default function BlogSection({ service }) {
                               }
                             ></div>
                             <h3 className={"pxl-post--title"}>
-                              <a href={"/index.html%3Fp=703.html"}>
+                              <a href={"//blog/how-does-marketing-automation-help-lead-generation"}>
                                 {
                                   "How Does Marketing Automation Help Lead Generation?"
                                 }
@@ -424,7 +424,7 @@ export default function BlogSection({ service }) {
                               <div className={"pxl-post--button"}>
                                 <a
                                   className={"pxl-flex-center"}
-                                  href={"/index.html%3Fp=703.html"}
+                                  href={"//blog/how-does-marketing-automation-help-lead-generation"}
                                 >
                                   <i
                                     className={

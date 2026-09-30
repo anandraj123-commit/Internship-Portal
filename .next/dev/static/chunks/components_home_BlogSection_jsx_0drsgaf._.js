@@ -141,7 +141,7 @@ function BlogSection() {
                                                                                 },
                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                     className: "pxl-post--link",
-                                                                                    href: "index.html%3Fp=709.html"
+                                                                                    href: "/blog/double-down-on-marketing-spend-think-again"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/BlogSection.jsx",
                                                                                     lineNumber: 133,
@@ -160,7 +160,7 @@ function BlogSection() {
                                                                                 },
                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                     className: "pxl-post--link",
-                                                                                    href: "index.html%3Fp=707.html"
+                                                                                    href: "/blog/private-blog-network-what-is-pbn-how-can-you-build-one"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/BlogSection.jsx",
                                                                                     lineNumber: 146,
@@ -179,7 +179,7 @@ function BlogSection() {
                                                                                 },
                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                     className: "pxl-post--link",
-                                                                                    href: "index.html%3Fp=705.html"
+                                                                                    href: "/blog/what-we-like-about-teamwork-during-big-projects"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/BlogSection.jsx",
                                                                                     lineNumber: 159,
@@ -198,7 +198,7 @@ function BlogSection() {
                                                                                 },
                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                     className: "pxl-post--link",
-                                                                                    href: "index.html%3Fp=703.html"
+                                                                                    href: "/blog/how-does-marketing-automation-help-lead-generation"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/BlogSection.jsx",
                                                                                     lineNumber: 172,
@@ -234,7 +234,7 @@ function BlogSection() {
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                             className: "pxl-post--featuredRight",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                                                href: "index.html%3Fp=709.html",
+                                                                                                href: "/blog/double-down-on-marketing-spend-think-again",
                                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                                                                     loading: "lazy",
                                                                                                     decoding: "async",
@@ -269,7 +269,7 @@ function BlogSection() {
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                                             className: "pxl-post--title",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                                                href: "index.html%3Fp=709.html",
+                                                                                                href: "/blog/double-down-on-marketing-spend-think-again",
                                                                                                 children: "Double Down on Marketing Spend? Think Again."
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/BlogSection.jsx",
@@ -335,7 +335,7 @@ function BlogSection() {
                                                                                                     className: "pxl-post--button",
                                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                                         className: "pxl-flex-center",
-                                                                                                        href: "index.html%3Fp=709.html",
+                                                                                                        href: "/blog/double-down-on-marketing-spend-think-again",
                                                                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                                                             className: "flaticon flaticon-down-right-arrow"
                                                                                                         }, void 0, false, {
@@ -386,7 +386,7 @@ function BlogSection() {
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                             className: "pxl-post--featuredRight",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                                                href: "index.html%3Fp=707.html",
+                                                                                                href: "/blog/private-blog-network-what-is-pbn-how-can-you-build-one",
                                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                                                                     loading: "lazy",
                                                                                                     decoding: "async",
@@ -421,7 +421,7 @@ function BlogSection() {
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                                             className: "pxl-post--title",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                                                href: "index.html%3Fp=707.html",
+                                                                                                href: "/blog/private-blog-network-what-is-pbn-how-can-you-build-one",
                                                                                                 children: "Private Blog Network: What is PBN & How Can You Build One?"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/BlogSection.jsx",
@@ -487,7 +487,7 @@ function BlogSection() {
                                                                                                     className: "pxl-post--button",
                                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                                         className: "pxl-flex-center",
-                                                                                                        href: "index.html%3Fp=707.html",
+                                                                                                        href: "/blog/private-blog-network-what-is-pbn-how-can-you-build-one",
                                                                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                                                             className: "flaticon flaticon-down-right-arrow"
                                                                                                         }, void 0, false, {
@@ -538,7 +538,7 @@ function BlogSection() {
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                             className: "pxl-post--featuredRight",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                                                href: "index.html%3Fp=705.html",
+                                                                                                href: "/blog/what-we-like-about-teamwork-during-big-projects",
                                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                                                                     loading: "lazy",
                                                                                                     decoding: "async",
@@ -573,7 +573,7 @@ function BlogSection() {
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                                             className: "pxl-post--title",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                                                href: "index.html%3Fp=705.html",
+                                                                                                href: "/blog/what-we-like-about-teamwork-during-big-projects",
                                                                                                 children: "What We Like About Teamwork During Big Projects"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/BlogSection.jsx",
@@ -639,7 +639,7 @@ function BlogSection() {
                                                                                                     className: "pxl-post--button",
                                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                                         className: "pxl-flex-center",
-                                                                                                        href: "index.html%3Fp=705.html",
+                                                                                                        href: "/blog/what-we-like-about-teamwork-during-big-projects",
                                                                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                                                             className: "flaticon flaticon-down-right-arrow"
                                                                                                         }, void 0, false, {
@@ -690,7 +690,7 @@ function BlogSection() {
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                             className: "pxl-post--featuredRight",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                                                href: "index.html%3Fp=703.html",
+                                                                                                href: "/blog/how-does-marketing-automation-help-lead-generation",
                                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                                                                     loading: "lazy",
                                                                                                     decoding: "async",
@@ -725,7 +725,7 @@ function BlogSection() {
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                                             className: "pxl-post--title",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                                                href: "index.html%3Fp=703.html",
+                                                                                                href: "/blog/how-does-marketing-automation-help-lead-generation",
                                                                                                 children: "How Does Marketing Automation Help Lead Generation?"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/BlogSection.jsx",
@@ -791,7 +791,7 @@ function BlogSection() {
                                                                                                     className: "pxl-post--button",
                                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                                         className: "pxl-flex-center",
-                                                                                                        href: "index.html%3Fp=703.html",
+                                                                                                        href: "/blog/how-does-marketing-automation-help-lead-generation",
                                                                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                                                             className: "flaticon flaticon-down-right-arrow"
                                                                                                         }, void 0, false, {

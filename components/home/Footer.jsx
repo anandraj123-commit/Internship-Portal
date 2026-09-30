@@ -565,7 +565,7 @@ export default function Footer() {
                                   <li className={"pxl-item--link  "}>
                                     <a
                                       className={""}
-                                      href={"index.html%3Fp=35.html"}
+                                      href={"/contact-us"}
                                     >
                                       <span>{"Contact"}</span>
                                     </a>

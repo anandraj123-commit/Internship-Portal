@@ -21,6 +21,7 @@ function copy(dir) {
 
 function url(s) {
   return s
+    .replace(/(?:\.\.\/)*blog\/index\.html/g, "/blog")
     .replace(/https?:\/\/itagency\.in\/(wp-content|wp-includes)\//g, "/$1/")
     .replace(/(?:\.\.\/)+(wp-content|wp-includes)\//g, "/$1/")
     .replace(/(?<![\w/])(wp-content|wp-includes)\//g, "/$1/")
@@ -34,6 +35,18 @@ function url(s) {
     .replace(/(?<![\w/])index\.html(?=[#"']|$)/g, "/");
 }
 const routes = {
+  709: "/blog/double-down-on-marketing-spend-think-again",
+  707: "/blog/private-blog-network-what-is-pbn-how-can-you-build-one",
+  705: "/blog/what-we-like-about-teamwork-during-big-projects",
+  703: "/blog/how-does-marketing-automation-help-lead-generation",
+  1210: "/blog/10-digital-marketing-stats-that-will-impact-your-business",
+  1208: "/blog/how-to-protect-your-brand-using-reputation-management",
+  1206: "/blog/what-is-the-best-frequency-for-sending-marketing-emails",
+  1204: "/blog/perfect-from-beginning-to-end-faster-and-more-efficiently",
+  1202: "/blog/creating-a-winning-content-marketing-strategy",
+  1145: "/faqs",
+  1141: "/testimonial",
+  35: "/contact-us",
   1133: "/about-us",
   1135: "/service",
   735: "/service/we-mobile-development",

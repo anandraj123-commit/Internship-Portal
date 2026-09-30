@@ -2,14 +2,14 @@ self.__BUILD_MANIFEST = {
   "/": [
     "static/chunks/pages/index.js"
   ],
-  "/_error": [
-    "static/chunks/pages/_error.js"
+  "/blog": [
+    "static/chunks/pages/blog.js"
   ],
-  "/apply-job": [
-    "static/chunks/pages/apply-job.js"
+  "/faqs": [
+    "static/chunks/pages/faqs.js"
   ],
-  "/service/[slug]": [
-    "static/chunks/pages/service/[slug].js"
+  "/testimonial": [
+    "static/chunks/pages/testimonial.js"
   ],
   "__rewrites": {
     "afterFiles": [],
@@ -22,7 +22,13 @@ self.__BUILD_MANIFEST = {
     "/_error",
     "/about-us",
     "/apply-job",
+    "/blog",
+    "/blog/[slug]",
+    "/category/[slug]",
+    "/contact-us",
+    "/faqs",
     "/service",
-    "/service/[slug]"
+    "/service/[slug]",
+    "/testimonial"
   ]
 };self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

@@ -8,7 +8,8 @@ __turbopack_load_page_chunks__("/", [
   "static/chunks/components_home_Page_jsx_1jlvp50._.js",
   "static/chunks/components_home_1slso9s._.js",
   "static/chunks/components_07pry6p._.js",
-  "static/chunks/_11yt2n3._.js",
+  "static/chunks/data_0fhekjm._.js",
+  "static/chunks/pages_index_jsx_06zt2j-._.js",
   "static/chunks/[root-of-the-server]__1q3by_x._.js",
   "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
   "static/chunks/node_modules_next_dist_shared_lib_1vsvqbg._.js",
@@ -20,5 +21,5 @@ __turbopack_load_page_chunks__("/", [
   "static/chunks/node_modules_react-dom_13voigl._.js",
   "static/chunks/node_modules_1z0m79v._.js",
   "static/chunks/pages_index_0du2_q-._.js",
-  "static/chunks/turbopack-pages_index_20yjemi._.js"
+  "static/chunks/turbopack-pages_index_1gh72j5._.js"
 ])

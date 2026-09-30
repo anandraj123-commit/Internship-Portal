@@ -10,7 +10,8 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/components_home_Page_jsx_1jlvp50._.js",
       "static/chunks/components_home_1slso9s._.js",
       "static/chunks/components_07pry6p._.js",
-      "static/chunks/_11yt2n3._.js",
+      "static/chunks/data_0fhekjm._.js",
+      "static/chunks/pages_index_jsx_06zt2j-._.js",
       "static/chunks/[root-of-the-server]__1q3by_x._.js",
       "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
       "static/chunks/node_modules_next_dist_shared_lib_1vsvqbg._.js",
@@ -22,7 +23,7 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/node_modules_react-dom_13voigl._.js",
       "static/chunks/node_modules_1z0m79v._.js",
       "static/chunks/pages_index_0du2_q-._.js",
-      "static/chunks/turbopack-pages_index_20yjemi._.js"
+      "static/chunks/turbopack-pages_index_1gh72j5._.js"
     ],
     "/_app": [
       "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
@@ -37,22 +38,25 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/pages__app_0du2_q-._.js",
       "static/chunks/turbopack-pages__app_0tmf4rv._.js"
     ],
-    "/_error": [
+    "/blog": [
+      "static/chunks/[root-of-the-server]__1ab3r5v._.js",
       "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
       "static/chunks/node_modules_next_dist_shared_lib_1vsvqbg._.js",
       "static/chunks/node_modules_next_dist_client_16lnmlo._.js",
-      "static/chunks/node_modules_next_dist_1atto1n._.js",
-      "static/chunks/[next]_entry_page-loader_ts_1aoli7m._.js",
+      "static/chunks/node_modules_next_dist_0zk-zb1._.js",
+      "static/chunks/node_modules_next_1orro0z._.js",
       "static/chunks/node_modules_react-dom_cjs_react-dom-client_development_1nq9a-7.js",
       "static/chunks/node_modules_react-dom_cjs_react-dom_development_0d3scg3.js",
       "static/chunks/node_modules_react-dom_13voigl._.js",
-      "static/chunks/node_modules_10e2-xo._.js",
-      "static/chunks/[root-of-the-server]__02sxxph._.js",
-      "static/chunks/pages__error_0du2_q-._.js",
-      "static/chunks/turbopack-pages__error_12-13_o._.js"
+      "static/chunks/node_modules_1z0m79v._.js",
+      "static/chunks/pages_blog_0du2_q-._.js",
+      "static/chunks/turbopack-pages_blog_1iy_5en._.js"
     ],
-    "/apply-job": [
-      "static/chunks/[root-of-the-server]__0v3iwt6._.js",
+    "/faqs": [
+      "static/chunks/components_158_a2j._.js",
+      "static/chunks/data_0fhekjm._.js",
+      "static/chunks/pages_faqs_jsx_1jrpsok._.js",
+      "static/chunks/[root-of-the-server]__20x7cd6._.js",
       "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
       "static/chunks/node_modules_next_dist_shared_lib_1vsvqbg._.js",
       "static/chunks/node_modules_next_dist_client_16lnmlo._.js",
@@ -62,11 +66,11 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/node_modules_react-dom_cjs_react-dom_development_0d3scg3.js",
       "static/chunks/node_modules_react-dom_13voigl._.js",
       "static/chunks/node_modules_1z0m79v._.js",
-      "static/chunks/pages_apply-job_0du2_q-._.js",
-      "static/chunks/turbopack-pages_apply-job_17mviuf._.js"
+      "static/chunks/pages_faqs_0du2_q-._.js",
+      "static/chunks/turbopack-pages_faqs_05pwj7m._.js"
     ],
-    "/service/[slug]": [
-      "static/chunks/[root-of-the-server]__1t7fcwa._.js",
+    "/testimonial": [
+      "static/chunks/[root-of-the-server]__0iea900._.js",
       "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
       "static/chunks/node_modules_next_dist_shared_lib_1vsvqbg._.js",
       "static/chunks/node_modules_next_dist_client_16lnmlo._.js",
@@ -76,8 +80,8 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/node_modules_react-dom_cjs_react-dom_development_0d3scg3.js",
       "static/chunks/node_modules_react-dom_13voigl._.js",
       "static/chunks/node_modules_1z0m79v._.js",
-      "static/chunks/pages_service_[slug]_jsx_0du2_q-._.js",
-      "static/chunks/turbopack-pages_service_[slug]_jsx_0wfkw1p._.js"
+      "static/chunks/pages_testimonial_0du2_q-._.js",
+      "static/chunks/turbopack-pages_testimonial_0u-n5l9._.js"
     ]
   },
   "devFiles": [],

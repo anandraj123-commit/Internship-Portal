@@ -95,7 +95,7 @@ export default function TestimonialsSection() {
                                   </div>
                                   <div className={"pxl-item--button"}>
                                     <a
-                                      href={"index.html%3Fp=1141.html"}
+                                      href={"/testimonial"}
                                       className={"btn btn-stroke"}
                                     >
                                       <span className={"pxl--btn-text"}>
@@ -164,7 +164,7 @@ export default function TestimonialsSection() {
                                   </div>
                                   <div className={"pxl-item--button"}>
                                     <a
-                                      href={"index.html%3Fp=1141.html"}
+                                      href={"/testimonial"}
                                       className={"btn btn-stroke"}
                                     >
                                       <span className={"pxl--btn-text"}>
@@ -233,7 +233,7 @@ export default function TestimonialsSection() {
                                   </div>
                                   <div className={"pxl-item--button"}>
                                     <a
-                                      href={"index.html%3Fp=1141.html"}
+                                      href={"/testimonial"}
                                       className={"btn btn-stroke"}
                                     >
                                       <span className={"pxl--btn-text"}>

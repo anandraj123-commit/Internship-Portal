@@ -132,7 +132,7 @@ export default function BlogSection() {
                                 >
                                   <a
                                     className={"pxl-post--link"}
-                                    href={"index.html%3Fp=709.html"}
+                                    href={"/blog/double-down-on-marketing-spend-think-again"}
                                   ></a>
                                 </div>
                                 <div
@@ -145,7 +145,7 @@ export default function BlogSection() {
                                 >
                                   <a
                                     className={"pxl-post--link"}
-                                    href={"index.html%3Fp=707.html"}
+                                    href={"/blog/private-blog-network-what-is-pbn-how-can-you-build-one"}
                                   ></a>
                                 </div>
                                 <div
@@ -158,7 +158,7 @@ export default function BlogSection() {
                                 >
                                   <a
                                     className={"pxl-post--link"}
-                                    href={"index.html%3Fp=705.html"}
+                                    href={"/blog/what-we-like-about-teamwork-during-big-projects"}
                                   ></a>
                                 </div>
                                 <div
@@ -171,7 +171,7 @@ export default function BlogSection() {
                                 >
                                   <a
                                     className={"pxl-post--link"}
-                                    href={"index.html%3Fp=703.html"}
+                                    href={"/blog/how-does-marketing-automation-help-lead-generation"}
                                   ></a>
                                 </div>
                               </div>
@@ -186,7 +186,7 @@ export default function BlogSection() {
                                     }
                                   >
                                     <div className={"pxl-post--featuredRight"}>
-                                      <a href={"index.html%3Fp=709.html"}>
+                                      <a href={"/blog/double-down-on-marketing-spend-think-again"}>
                                         <img
                                           loading={"lazy"}
                                           decoding={"async"}
@@ -207,7 +207,7 @@ export default function BlogSection() {
                                       }
                                     ></div>
                                     <h3 className={"pxl-post--title"}>
-                                      <a href={"index.html%3Fp=709.html"}>
+                                      <a href={"/blog/double-down-on-marketing-spend-think-again"}>
                                         {
                                           "Double Down on Marketing Spend? Think Again."
                                         }
@@ -247,7 +247,7 @@ export default function BlogSection() {
                                       <div className={"pxl-post--button"}>
                                         <a
                                           className={"pxl-flex-center"}
-                                          href={"index.html%3Fp=709.html"}
+                                          href={"/blog/double-down-on-marketing-spend-think-again"}
                                         >
                                           <i
                                             className={
@@ -272,7 +272,7 @@ export default function BlogSection() {
                                     }
                                   >
                                     <div className={"pxl-post--featuredRight"}>
-                                      <a href={"index.html%3Fp=707.html"}>
+                                      <a href={"/blog/private-blog-network-what-is-pbn-how-can-you-build-one"}>
                                         <img
                                           loading={"lazy"}
                                           decoding={"async"}
@@ -293,7 +293,7 @@ export default function BlogSection() {
                                       }
                                     ></div>
                                     <h3 className={"pxl-post--title"}>
-                                      <a href={"index.html%3Fp=707.html"}>
+                                      <a href={"/blog/private-blog-network-what-is-pbn-how-can-you-build-one"}>
                                         {
                                           "Private Blog Network: What is PBN & How Can You Build One?"
                                         }
@@ -333,7 +333,7 @@ export default function BlogSection() {
                                       <div className={"pxl-post--button"}>
                                         <a
                                           className={"pxl-flex-center"}
-                                          href={"index.html%3Fp=707.html"}
+                                          href={"/blog/private-blog-network-what-is-pbn-how-can-you-build-one"}
                                         >
                                           <i
                                             className={
@@ -358,7 +358,7 @@ export default function BlogSection() {
                                     }
                                   >
                                     <div className={"pxl-post--featuredRight"}>
-                                      <a href={"index.html%3Fp=705.html"}>
+                                      <a href={"/blog/what-we-like-about-teamwork-during-big-projects"}>
                                         <img
                                           loading={"lazy"}
                                           decoding={"async"}
@@ -379,7 +379,7 @@ export default function BlogSection() {
                                       }
                                     ></div>
                                     <h3 className={"pxl-post--title"}>
-                                      <a href={"index.html%3Fp=705.html"}>
+                                      <a href={"/blog/what-we-like-about-teamwork-during-big-projects"}>
                                         {
                                           "What We Like About Teamwork During Big Projects"
                                         }
@@ -419,7 +419,7 @@ export default function BlogSection() {
                                       <div className={"pxl-post--button"}>
                                         <a
                                           className={"pxl-flex-center"}
-                                          href={"index.html%3Fp=705.html"}
+                                          href={"/blog/what-we-like-about-teamwork-during-big-projects"}
                                         >
                                           <i
                                             className={
@@ -444,7 +444,7 @@ export default function BlogSection() {
                                     }
                                   >
                                     <div className={"pxl-post--featuredRight"}>
-                                      <a href={"index.html%3Fp=703.html"}>
+                                      <a href={"/blog/how-does-marketing-automation-help-lead-generation"}>
                                         <img
                                           loading={"lazy"}
                                           decoding={"async"}
@@ -465,7 +465,7 @@ export default function BlogSection() {
                                       }
                                     ></div>
                                     <h3 className={"pxl-post--title"}>
-                                      <a href={"index.html%3Fp=703.html"}>
+                                      <a href={"/blog/how-does-marketing-automation-help-lead-generation"}>
                                         {
                                           "How Does Marketing Automation Help Lead Generation?"
                                         }
@@ -505,7 +505,7 @@ export default function BlogSection() {
                                       <div className={"pxl-post--button"}>
                                         <a
                                           className={"pxl-flex-center"}
-                                          href={"index.html%3Fp=703.html"}
+                                          href={"/blog/how-does-marketing-automation-help-lead-generation"}
                                         >
                                           <i
                                             className={

@@ -56,7 +56,7 @@ export default function Navbar({ variant = 0 }) {
               "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6906"
             }
           >
-            <a href={"/#"}>
+            <a href={"/blog"}>
               <span className={"pxl-menu-item-text"}>
                 {"Blog"}
                 <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
@@ -98,7 +98,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6938"
                 }
               >
-                <a href={"index.html%3Fp=35.html"}>
+                <a href={"/contact-us"}>
                   <span className={"pxl-menu-item-text"}>
                     {"Contact Us"}
                     <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
@@ -112,7 +112,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6933"
                 }
               >
-                <a href={"index.html%3Fp=1141.html"}>
+                <a href={"/testimonial"}>
                   <span className={"pxl-menu-item-text"}>
                     {"Testimonial"}
                     <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
@@ -126,7 +126,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6932"
                 }
               >
-                <a href={"index.html%3Fp=1145.html"}>
+                <a href={"/faqs"}>
                   <span className={"pxl-menu-item-text"}>
                     {"FAQs"}
                     <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
@@ -191,7 +191,7 @@ export default function Navbar({ variant = 0 }) {
               "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6906"
             }
           >
-            <a href={"/#"}>
+            <a href={"/blog"}>
               <span className={"pxl-menu-item-text"}>
                 {"Blog"}
                 <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
@@ -230,7 +230,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6938"
                 }
               >
-                <a href={"index.html%3Fp=35.html"}>
+                <a href={"/contact-us"}>
                   <span className={"pxl-menu-item-text"}>
                     {"Contact Us"}
                     <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
@@ -243,7 +243,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6933"
                 }
               >
-                <a href={"index.html%3Fp=1141.html"}>
+                <a href={"/testimonial"}>
                   <span className={"pxl-menu-item-text"}>
                     {"Testimonial"}
                     <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
@@ -256,7 +256,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6932"
                 }
               >
-                <a href={"index.html%3Fp=1145.html"}>
+                <a href={"/faqs"}>
                   <span className={"pxl-menu-item-text"}>
                     {"FAQs"}
                     <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
@@ -385,7 +385,7 @@ export default function Navbar({ variant = 0 }) {
               "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6906"
             }
           >
-            <a href={"/#"}>
+            <a href={"/blog"}>
               <span>{"Blog"}</span>
             </a>
           </li>
@@ -412,7 +412,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6938"
                 }
               >
-                <a href={"index.html%3Fp=35.html"}>
+                <a href={"/contact-us"}>
                   <span>{"Contact Us"}</span>
                 </a>
               </li>
@@ -421,7 +421,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6933"
                 }
               >
-                <a href={"index.html%3Fp=1141.html"}>
+                <a href={"/testimonial"}>
                   <span>{"Testimonial"}</span>
                 </a>
               </li>
@@ -430,7 +430,7 @@ export default function Navbar({ variant = 0 }) {
                   "menu-item menu-item-type-post_type menu-item-object-page menu-item-6932"
                 }
               >
-                <a href={"index.html%3Fp=1145.html"}>
+                <a href={"/faqs"}>
                   <span>{"FAQs"}</span>
                 </a>
               </li>
