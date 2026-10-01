@@ -1,4 +1,45 @@
+import { useEffect } from "react";
+
 export default function HeroSection() {
+  useEffect(() => {
+    const slider = document.getElementById("rev_slider_2_1");
+    let frame;
+    const layout = () => {
+      if (window.innerWidth <= 1200) return;
+      slider.querySelectorAll("rs-group").forEach((group) => {
+        const heading = group.querySelector('rs-layer[id$="-layer-3"]');
+        const description = group.querySelector('rs-layer[id$="-layer-4"]');
+        if (!heading || !description) return;
+        const range = document.createRange();
+        range.selectNodeContents(heading.firstElementChild);
+        const headingWidth = range.getBoundingClientRect().width;
+        if (!headingWidth) return;
+        group.style.setProperty("--description-width", `${headingWidth * 0.8}px`);
+        const descriptionTop = heading.offsetHeight + 16;
+        const buttonsTop = descriptionTop + description.offsetHeight + 32;
+        const buttons = group.querySelectorAll('a[id$="-layer-5"], rs-layer[id$="-layer-7"]');
+        const buttonHeight = Math.max(...Array.from(buttons, (button) => button.offsetHeight));
+        group.style.setProperty("--description-top", `${descriptionTop}px`);
+        group.style.setProperty("--buttons-top", `${buttonsTop}px`);
+        group.parentElement.style.setProperty("--hero-copy-height", `${buttonsTop + buttonHeight}px`);
+      });
+    };
+    const schedule = () => {
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(layout);
+    };
+    const observer = new ResizeObserver(schedule);
+    slider.querySelectorAll('rs-layer[id$="-layer-3"], rs-layer[id$="-layer-4"], a[id$="-layer-5"], rs-layer[id$="-layer-7"]').forEach((layer) => observer.observe(layer));
+    window.addEventListener("resize", schedule);
+    document.fonts.ready.then(schedule);
+    schedule();
+    return () => {
+      observer.disconnect();
+      window.removeEventListener("resize", schedule);
+      cancelAnimationFrame(frame);
+    };
+  }, []);
+
   return (
     <>
       <section
@@ -164,7 +205,7 @@ export default function HeroSection() {
                                         "w:normal;s:20,17,12,7;l:0,21,15,9;"
                                       }
                                       data-dim={
-                                        "w:800px,800px,600px,300px;h:400px,400px,320px,350px;"
+                                        "w:800px,800px,600px,300px;h:300px,300px,320px,350px;"
                                       }
                                       data-rsp_o={"off"}
                                       data-rsp_bd={"off"}
@@ -312,7 +353,7 @@ export default function HeroSection() {
                                         id={"slider-2-slide-3-layer-4"}
                                         data-type={"text"}
                                         data-color={"#d2d2d2"}
-                                        data-xy={"yo:186px,186px,146px,96px;"}
+                                        data-xy={"yo:110px,110px,146px,96px;"}
                                         data-pos={"a"}
                                         data-text={
                                           "w:normal;s:20,20,17,15;l:36,36,30,24;"
@@ -365,8 +406,8 @@ export default function HeroSection() {
                                             className={"text-gradient"}
                                             style={{
                                               "--gradient-color-from":
-                                                "#9a46fd",
-                                              "--gradient-color-to": "#dd2687",
+                                                "var(--brand-color)",
+                                              "--gradient-color-to": "var(--brand-color)",
                                             }}
                                           >
                                             {"Today"}
@@ -455,7 +496,7 @@ export default function HeroSection() {
                                         "w:normal;s:20,17,12,7;l:0,21,15,9;"
                                       }
                                       data-dim={
-                                        "w:800px,800px,600px,300px;h:400px,400px,320px,350px;"
+                                        "w:800px,800px,600px,300px;h:300px,300px,320px,350px;"
                                       }
                                       data-rsp_o={"off"}
                                       data-rsp_bd={"off"}
@@ -603,7 +644,7 @@ export default function HeroSection() {
                                         id={"slider-2-slide-4-layer-4"}
                                         data-type={"text"}
                                         data-color={"#d2d2d2"}
-                                        data-xy={"yo:186px,186px,146px,96px;"}
+                                        data-xy={"yo:110px,110px,146px,96px;"}
                                         data-pos={"a"}
                                         data-text={
                                           "w:normal;s:20,20,17,15;l:36,36,30,24;"
@@ -656,8 +697,8 @@ export default function HeroSection() {
                                             className={"text-gradient"}
                                             style={{
                                               "--gradient-color-from":
-                                                "#9a46fd",
-                                              "--gradient-color-to": "#dd2687",
+                                                "var(--brand-color)",
+                                              "--gradient-color-to": "var(--brand-color)",
                                             }}
                                           >
                                             {"Today"}
@@ -746,7 +787,7 @@ export default function HeroSection() {
                                         "w:normal;s:20,17,12,7;l:0,21,15,9;"
                                       }
                                       data-dim={
-                                        "w:800px,800px,600px,300px;h:400px,400px,320px,350px;"
+                                        "w:800px,800px,600px,300px;h:300px,300px,320px,350px;"
                                       }
                                       data-rsp_o={"off"}
                                       data-rsp_bd={"off"}
@@ -894,7 +935,7 @@ export default function HeroSection() {
                                         id={"slider-2-slide-5-layer-4"}
                                         data-type={"text"}
                                         data-color={"#d2d2d2"}
-                                        data-xy={"yo:186px,186px,146px,96px;"}
+                                        data-xy={"yo:110px,110px,146px,96px;"}
                                         data-pos={"a"}
                                         data-text={
                                           "w:normal;s:20,20,17,15;l:36,36,30,24;"
@@ -947,8 +988,8 @@ export default function HeroSection() {
                                             className={"text-gradient"}
                                             style={{
                                               "--gradient-color-from":
-                                                "#9a46fd",
-                                              "--gradient-color-to": "#dd2687",
+                                                "var(--brand-color)",
+                                              "--gradient-color-to": "var(--brand-color)",
                                             }}
                                           >
                                             {"Today"}
@@ -1037,7 +1078,7 @@ export default function HeroSection() {
                                         "w:normal;s:20,17,12,7;l:0,21,15,9;"
                                       }
                                       data-dim={
-                                        "w:800px,800px,600px,300px;h:400px,400px,320px,350px;"
+                                        "w:800px,800px,600px,300px;h:300px,300px,320px,350px;"
                                       }
                                       data-rsp_o={"off"}
                                       data-rsp_bd={"off"}
@@ -1185,7 +1226,7 @@ export default function HeroSection() {
                                         id={"slider-2-slide-6-layer-4"}
                                         data-type={"text"}
                                         data-color={"#d2d2d2"}
-                                        data-xy={"yo:186px,186px,146px,96px;"}
+                                        data-xy={"yo:110px,110px,146px,96px;"}
                                         data-pos={"a"}
                                         data-text={
                                           "w:normal;s:20,20,17,15;l:36,36,30,24;"
@@ -1238,8 +1279,8 @@ export default function HeroSection() {
                                             className={"text-gradient"}
                                             style={{
                                               "--gradient-color-from":
-                                                "#9a46fd",
-                                              "--gradient-color-to": "#dd2687",
+                                                "var(--brand-color)",
+                                              "--gradient-color-to": "var(--brand-color)",
                                             }}
                                           >
                                             {"Today"}

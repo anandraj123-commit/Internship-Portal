@@ -96,11 +96,11 @@ export default function ContactSection() {
                           >
                             <stop
                               offset={"0%"}
-                              style={{ stopColor: "#0024ff", stopOpacity: "1" }}
+                              style={{ stopColor: "var(--brand-color)", stopOpacity: "1" }}
                             ></stop>
                             <stop
                               offset={"100%"}
-                              style={{ stopColor: "#008f00", stopOpacity: "1" }}
+                              style={{ stopColor: "var(--brand-color)", stopOpacity: "1" }}
                             ></stop>
                           </linearGradient>
                         </defs>
@@ -130,11 +130,11 @@ export default function ContactSection() {
                           >
                             <stop
                               offset={"0%"}
-                              style={{ stopColor: "#0042ff", stopOpacity: "1" }}
+                              style={{ stopColor: "var(--brand-color)", stopOpacity: "1" }}
                             ></stop>
                             <stop
                               offset={"100%"}
-                              style={{ stopColor: "#00f1f4", stopOpacity: "1" }}
+                              style={{ stopColor: "var(--brand-color)", stopOpacity: "1" }}
                             ></stop>
                           </linearGradient>
                         </defs>

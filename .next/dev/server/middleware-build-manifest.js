@@ -35,53 +35,23 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/node_modules_react-dom_13voigl._.js",
       "static/chunks/node_modules_1z0m79v._.js",
       "static/chunks/[root-of-the-server]__1xz7f06._.js",
+      "static/chunks/styles_brand_0a_y--e.css",
       "static/chunks/pages__app_0du2_q-._.js",
-      "static/chunks/turbopack-pages__app_0tmf4rv._.js"
+      "static/chunks/turbopack-pages__app_0t8foe9._.js"
     ],
-    "/blog": [
-      "static/chunks/[root-of-the-server]__1ab3r5v._.js",
+    "/_error": [
       "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
       "static/chunks/node_modules_next_dist_shared_lib_1vsvqbg._.js",
       "static/chunks/node_modules_next_dist_client_16lnmlo._.js",
-      "static/chunks/node_modules_next_dist_0zk-zb1._.js",
-      "static/chunks/node_modules_next_1orro0z._.js",
+      "static/chunks/node_modules_next_dist_1atto1n._.js",
+      "static/chunks/[next]_entry_page-loader_ts_1aoli7m._.js",
       "static/chunks/node_modules_react-dom_cjs_react-dom-client_development_1nq9a-7.js",
       "static/chunks/node_modules_react-dom_cjs_react-dom_development_0d3scg3.js",
       "static/chunks/node_modules_react-dom_13voigl._.js",
-      "static/chunks/node_modules_1z0m79v._.js",
-      "static/chunks/pages_blog_0du2_q-._.js",
-      "static/chunks/turbopack-pages_blog_1iy_5en._.js"
-    ],
-    "/faqs": [
-      "static/chunks/components_158_a2j._.js",
-      "static/chunks/data_0fhekjm._.js",
-      "static/chunks/pages_faqs_jsx_1jrpsok._.js",
-      "static/chunks/[root-of-the-server]__20x7cd6._.js",
-      "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
-      "static/chunks/node_modules_next_dist_shared_lib_1vsvqbg._.js",
-      "static/chunks/node_modules_next_dist_client_16lnmlo._.js",
-      "static/chunks/node_modules_next_dist_0zk-zb1._.js",
-      "static/chunks/node_modules_next_head_0wi9zur.js",
-      "static/chunks/node_modules_react-dom_cjs_react-dom-client_development_1nq9a-7.js",
-      "static/chunks/node_modules_react-dom_cjs_react-dom_development_0d3scg3.js",
-      "static/chunks/node_modules_react-dom_13voigl._.js",
-      "static/chunks/node_modules_1z0m79v._.js",
-      "static/chunks/pages_faqs_0du2_q-._.js",
-      "static/chunks/turbopack-pages_faqs_05pwj7m._.js"
-    ],
-    "/testimonial": [
-      "static/chunks/[root-of-the-server]__0iea900._.js",
-      "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
-      "static/chunks/node_modules_next_dist_shared_lib_1vsvqbg._.js",
-      "static/chunks/node_modules_next_dist_client_16lnmlo._.js",
-      "static/chunks/node_modules_next_dist_0zk-zb1._.js",
-      "static/chunks/node_modules_next_head_0wi9zur.js",
-      "static/chunks/node_modules_react-dom_cjs_react-dom-client_development_1nq9a-7.js",
-      "static/chunks/node_modules_react-dom_cjs_react-dom_development_0d3scg3.js",
-      "static/chunks/node_modules_react-dom_13voigl._.js",
-      "static/chunks/node_modules_1z0m79v._.js",
-      "static/chunks/pages_testimonial_0du2_q-._.js",
-      "static/chunks/turbopack-pages_testimonial_0u-n5l9._.js"
+      "static/chunks/node_modules_10e2-xo._.js",
+      "static/chunks/[root-of-the-server]__02sxxph._.js",
+      "static/chunks/pages__error_0du2_q-._.js",
+      "static/chunks/turbopack-pages__error_12-13_o._.js"
     ]
   },
   "devFiles": [],

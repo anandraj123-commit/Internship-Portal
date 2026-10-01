@@ -1,0 +1,3 @@
+export default function HomeFooter() {
+  return <footer className="home-footer"><div className="home-container home-footer-top"><a className="home-footer-wordmark" href="/" aria-label="IT Agency home">IT<span>.</span></a><p>Digital ideas, brought to life with care.</p><a className="home-footer-toplink" href="#top">Back to top ↑</a></div><div className="home-container home-footer-bottom"><span>IT Agency · Ahmedabad, India</span><nav aria-label="Footer"><a href="/about-us">About</a><a href="/service">Services</a><a href="/blog">Blog</a><a href="/contact-us">Contact</a></nav><a href="mailto:support@itagency.in">support@itagency.in</a></div></footer>;
+}

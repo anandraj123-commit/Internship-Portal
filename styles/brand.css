@@ -1,0 +1,167 @@
+/* Shared brand palette for every route, including the imported theme widgets. */
+:root {
+  --brand-color: #ff4a17;
+  --brand-hover: #df3508;
+  --brand-on-color: #fff;
+}
+
+body .btn,
+body button[type="submit"],
+body input[type="submit"],
+body .wp-block-button__link,
+body .pxl-scroll-top,
+body .pxl-pagination .page-numbers.current,
+body .pxl-pagination .page-numbers:hover,
+body .pxl-icon1 a:hover {
+  background: var(--brand-color) !important;
+  border-color: var(--brand-color) !important;
+  color: var(--brand-on-color) !important;
+  -webkit-text-fill-color: var(--brand-on-color);
+}
+
+body .btn:hover,
+body .btn:focus-visible,
+body button[type="submit"]:hover,
+body input[type="submit"]:hover {
+  background: var(--brand-hover) !important;
+  border-color: var(--brand-hover) !important;
+  color: var(--brand-on-color) !important;
+}
+
+body .btn .pxl--btn-text,
+body .btn .pxl--btn-text::before,
+body .btn i {
+  color: var(--brand-on-color) !important;
+  -webkit-text-fill-color: var(--brand-on-color);
+}
+
+/* Keep the theme's animated button layers in the same palette. */
+body .btn::before,
+body .btn::after {
+  background: var(--brand-color) !important;
+}
+
+body .btn:hover::before,
+body .btn:hover::after {
+  background: var(--brand-hover) !important;
+}
+
+/* The initial header overlays the hero; scrolled navigation is solid orange. */
+body #pxl-header-elementor .elementor-element-28f737d,
+body #pxl-header-elementor .pxl-menu-primary .sub-menu {
+  background-color: var(--brand-color) !important;
+}
+
+body #pxl-header-elementor .elementor-element-07ba50e {
+  margin-top: 0;
+}
+
+body #pxl-header-elementor .elementor-element-16bfe3c,
+body #pxl-header-elementor .elementor-element-46290c9,
+body #pxl-header-elementor .pxl-header-elementor-main .btn,
+body #pxl-header-elementor .pxl-header-elementor-main .btn::before,
+body #pxl-header-elementor .pxl-header-elementor-main .btn::after,
+body #pxl-header-elementor .pxl-header-elementor-main .pxl-language-switch,
+body #pxl-header-elementor .pxl-header-elementor-main .pxl-language-switch a,
+body #pxl-header-elementor .pxl-header-elementor-main .pxl-language-switch .pxl--item {
+  background: transparent !important;
+  border-color: transparent !important;
+  box-shadow: none;
+}
+
+@media (max-width: 1200px) {
+  body #pxl-header-elementor #pxl-header-mobile {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: transparent !important;
+    transition: background-color 0.25s ease;
+  }
+
+  body #pxl-header-elementor #pxl-header-mobile.pxl-header-mobile-fixed {
+    background: var(--brand-color) !important;
+  }
+}
+
+body #pxl-header-elementor .pxl-menu-primary > li > a,
+body #pxl-header-elementor .pxl-menu-primary .sub-menu a {
+  color: var(--brand-on-color) !important;
+}
+
+body #pxl-header-elementor .pxl-menu-primary a:hover {
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
+
+body #pxl-header-elementor .pxl-logo img {
+  filter: brightness(0) invert(1);
+}
+
+body input:focus,
+body textarea:focus,
+body select:focus {
+  border-color: var(--brand-color) !important;
+}
+
+body :is(a, button, input, textarea, select):focus-visible {
+  outline: 2px solid var(--brand-color);
+  outline-offset: 4px;
+}
+
+::selection {
+  background: var(--brand-color);
+  color: var(--brand-on-color);
+}
+
+/* Match the hero copy to the desktop logo's horizontal inset. */
+@media (min-width: 1201px) {
+  #rev_slider_2_1 {
+    --hero-inset: 157px;
+  }
+
+  #rev_slider_2_1 rs-group-wrap {
+    left: var(--hero-inset) !important;
+    top: calc((min(100svh, 100%) - var(--hero-copy-height, 260px)) / 2) !important;
+  }
+
+  #rev_slider_2_1 rs-group,
+  #rev_slider_2_1 rs-layer[id$="-layer-3"] {
+    width: calc(100vw - 2 * var(--hero-inset)) !important;
+  }
+
+  #rev_slider_2_1 rs-layer[id$="-layer-3"] {
+    font-size: clamp(48px, 4vw, 72px) !important;
+    line-height: 1.15 !important;
+    white-space: nowrap !important;
+  }
+
+  #rev_slider_2_1 rs-layer[id$="-layer-3"] br {
+    display: none;
+  }
+
+  #rev_slider_2_1 rs-layer[id$="-layer-4"] {
+    width: var(--description-width, 680px) !important;
+    font-size: clamp(14px, 1.25vw, 20px) !important;
+    line-height: 1.6 !important;
+    white-space: normal !important;
+  }
+
+  #rev_slider_2_1 rs-layer-wrap:has(rs-layer[id$="-layer-3"]) {
+    top: 0 !important;
+  }
+
+  #rev_slider_2_1 rs-layer-wrap:has(rs-layer[id$="-layer-4"]) {
+    top: var(--description-top, 82px) !important;
+  }
+
+  #rev_slider_2_1 rs-layer-wrap:has(a[id$="-layer-5"], rs-layer[id$="-layer-7"]) {
+    top: var(--buttons-top, 172px) !important;
+  }
+}
+
+@media (min-width: 1201px) and (max-width: 1440px) {
+  #rev_slider_2_1 {
+    --hero-inset: 117px;
+  }
+}

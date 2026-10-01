@@ -234,14 +234,14 @@ export default function Footer() {
                                         <stop
                                           offset={"0%"}
                                           style={{
-                                            stopColor: "#0024ff",
+                                            stopColor: "var(--brand-color)",
                                             stopOpacity: "1",
                                           }}
                                         ></stop>
                                         <stop
                                           offset={"100%"}
                                           style={{
-                                            stopColor: "#008f00",
+                                            stopColor: "var(--brand-color)",
                                             stopOpacity: "1",
                                           }}
                                         ></stop>
@@ -276,14 +276,14 @@ export default function Footer() {
                                         <stop
                                           offset={"0%"}
                                           style={{
-                                            stopColor: "#0042ff",
+                                            stopColor: "var(--brand-color)",
                                             stopOpacity: "1",
                                           }}
                                         ></stop>
                                         <stop
                                           offset={"100%"}
                                           style={{
-                                            stopColor: "#fde306",
+                                            stopColor: "var(--brand-color)",
                                             stopOpacity: "1",
                                           }}
                                         ></stop>

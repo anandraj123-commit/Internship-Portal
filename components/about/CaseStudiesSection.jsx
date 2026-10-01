@@ -101,14 +101,14 @@ export default function CaseStudiesSection() {
                                   <stop
                                     offset={"0%"}
                                     style={{
-                                      stopColor: "#fde306",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>
                                   <stop
                                     offset={"100%"}
                                     style={{
-                                      stopColor: "#fb593b",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>
@@ -222,14 +222,14 @@ export default function CaseStudiesSection() {
                                   <stop
                                     offset={"0%"}
                                     style={{
-                                      stopColor: "#fde306",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>
                                   <stop
                                     offset={"100%"}
                                     style={{
-                                      stopColor: "#fb593b",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>
@@ -343,14 +343,14 @@ export default function CaseStudiesSection() {
                                   <stop
                                     offset={"0%"}
                                     style={{
-                                      stopColor: "#fde306",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>
                                   <stop
                                     offset={"100%"}
                                     style={{
-                                      stopColor: "#fb593b",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>
@@ -464,14 +464,14 @@ export default function CaseStudiesSection() {
                                   <stop
                                     offset={"0%"}
                                     style={{
-                                      stopColor: "#fde306",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>
                                   <stop
                                     offset={"100%"}
                                     style={{
-                                      stopColor: "#fb593b",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>
@@ -585,14 +585,14 @@ export default function CaseStudiesSection() {
                                   <stop
                                     offset={"0%"}
                                     style={{
-                                      stopColor: "#fde306",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>
                                   <stop
                                     offset={"100%"}
                                     style={{
-                                      stopColor: "#fb593b",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>
@@ -706,14 +706,14 @@ export default function CaseStudiesSection() {
                                   <stop
                                     offset={"0%"}
                                     style={{
-                                      stopColor: "#fde306",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>
                                   <stop
                                     offset={"100%"}
                                     style={{
-                                      stopColor: "#fb593b",
+                                      stopColor: "var(--brand-color)",
                                       stopOpacity: "1",
                                     }}
                                   ></stop>

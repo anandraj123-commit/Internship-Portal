@@ -187,7 +187,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "0%",
                                                                                                 style: {
-                                                                                                    stopColor: "#EE2777",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {
@@ -198,7 +198,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "100%",
                                                                                                 style: {
-                                                                                                    stopColor: "#6302D1",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {
@@ -399,7 +399,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "0%",
                                                                                                 style: {
-                                                                                                    stopColor: "#EE2777",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {
@@ -410,7 +410,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "100%",
                                                                                                 style: {
-                                                                                                    stopColor: "#6302D1",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {
@@ -611,7 +611,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "0%",
                                                                                                 style: {
-                                                                                                    stopColor: "#EE2777",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {
@@ -622,7 +622,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "100%",
                                                                                                 style: {
-                                                                                                    stopColor: "#6302D1",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {
@@ -823,7 +823,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "0%",
                                                                                                 style: {
-                                                                                                    stopColor: "#EE2777",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {
@@ -834,7 +834,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "100%",
                                                                                                 style: {
-                                                                                                    stopColor: "#6302D1",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {
@@ -1035,7 +1035,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "0%",
                                                                                                 style: {
-                                                                                                    stopColor: "#EE2777",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {
@@ -1046,7 +1046,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "100%",
                                                                                                 style: {
-                                                                                                    stopColor: "#6302D1",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {
@@ -1247,7 +1247,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "0%",
                                                                                                 style: {
-                                                                                                    stopColor: "#EE2777",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {
@@ -1258,7 +1258,7 @@ function CaseStudiesSection() {
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("stop", {
                                                                                                 offset: "100%",
                                                                                                 style: {
-                                                                                                    stopColor: "#6302D1",
+                                                                                                    stopColor: "var(--brand-color)",
                                                                                                     stopOpacity: "1"
                                                                                                 }
                                                                                             }, void 0, false, {

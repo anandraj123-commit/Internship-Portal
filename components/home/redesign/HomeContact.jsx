@@ -1,0 +1,3 @@
+export default function HomeContact() {
+  return <section className="home-contact home-section" id="home-contact" aria-labelledby="home-contact-title"><div className="home-container home-contact-grid"><div><p className="home-eyebrow">Your next step starts here</p><h2 id="home-contact-title">Have something good in mind?</h2><p>Share the challenge, the idea, or the question. Let’s work out what comes next.</p></div><div className="home-contact-action"><a className="home-button home-button-light" href="/contact-us">Get in touch <span>↗</span></a><a href="mailto:support@itagency.in">support@itagency.in</a><a href="tel:+917567000423">+91 7567 000423</a></div></div></section>;
+}
