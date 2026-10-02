@@ -12,7 +12,7 @@ export default function ContactPage() {
               <div className={"loader-line"}></div>
             </div>
             <div className={"loader-logo"}>
-              <img src={"/wp-content/uploads/2023/08/h3-logo-light.png"} />
+              <span className="brand-wordmark">Radhika SkillForge</span>
             </div>
           </div>
         </div>
@@ -100,19 +100,7 @@ export default function ContactPage() {
                           <div className={"elementor-widget-container"}>
                             <div className={"pxl-logo "} data-wow-delay={"ms"}>
                               <a href={"/"}>
-                                <img
-                                  width={"315"}
-                                  height={"132"}
-                                  src={
-                                    "/wp-content/uploads/2023/08/h4-logo-icon.png"
-                                  }
-                                  className={"attachment-full"}
-                                  alt={""}
-                                  srcSet={
-                                    "/wp-content/uploads/2023/08/h4-logo-icon.png 315w, /wp-content/uploads/2023/08/h4-logo-icon-300x126.png 300w"
-                                  }
-                                  sizes={"(max-width: 315px) 100vw, 315px"}
-                                />
+                                <span className="brand-wordmark">Radhika SkillForge</span>
                               </a>
                             </div>
                           </div>
@@ -133,7 +121,7 @@ export default function ContactPage() {
                                 data-wow-delay={"ms"}
                               >
                                 {
-                                  "\n\t\tSaira is created to require to all needs of SEO agencies, experts & freelancers, Online Marketing, Digital Marketing Agencies, Web Studios.\t\t\n\t"
+                                  "\n\t\tRadhika SkillForge provides software and digital services. Parent Company: Apurva Software Solutions. Based in Gaya, Bihar.\t\t\n\t"
                                 }
                               </div>
                             </div>
@@ -162,12 +150,12 @@ export default function ContactPage() {
                                 </div>
                                 <div className={"pxl-item--holder"}>
                                   <h5 className={"pxl-item--title el-empty"}>
-                                    {" 380 St Kilda Road,"}
+                                    {" Veer Kuwar Singh Colony"}
                                   </h5>
                                   <div
                                     className={"pxl-item--description el-empty"}
                                   >
-                                    {"Melbourne, Australia"}
+                                    {"Gaya, Bihar"}
                                   </div>
                                 </div>
                                 <div className={"pxl-item--shape"}></div>
@@ -198,12 +186,12 @@ export default function ContactPage() {
                                 </div>
                                 <div className={"pxl-item--holder"}>
                                   <h5 className={"pxl-item--title el-empty"}>
-                                    {"Call Us: (210) 123-451"}
+                                    {"Call Us: +91 6203253537"}
                                   </h5>
                                   <div
                                     className={"pxl-item--description el-empty"}
                                   >
-                                    {"(Sat - Thursday)"}
+                                    {"WhatsApp: +91 8797044416"}
                                   </div>
                                 </div>
                                 <div className={"pxl-item--shape"}></div>
@@ -497,8 +485,8 @@ export default function ContactPage() {
                                 className={"pxl-item--inner "}
                                 data-wow-delay={"ms"}
                               >
-                                <a href={"mailto:hello@saira.com"}>
-                                  {"hello@saira.com "}
+                                <a href={"mailto:supports@apurvasoftwaresolutions.com"}>
+                                  {"supports@apurvasoftwaresolutions.com "}
                                 </a>
                               </div>
                             </div>
@@ -521,10 +509,10 @@ export default function ContactPage() {
                               <div className={"pxl--item"}>
                                 <div className={"pxl-item--content"}>
                                   <label className={"pxl-empty"}>
-                                    {"London:"}
+                                    {"Gaya, Bihar:"}
                                   </label>
                                   {
-                                    "\n                        +44(0)20 3156                    "
+                                    "\n                        +91 6203253537                    "
                                   }
                                 </div>
                               </div>
@@ -534,7 +522,7 @@ export default function ContactPage() {
                                     {"New York:"}
                                   </label>
                                   {
-                                    "\n                        +1 866 512 0268                    "
+                                    "\n                        +91 6203253537                    "
                                   }
                                 </div>
                               </div>
@@ -835,7 +823,7 @@ export default function ContactPage() {
                                                 }
                                               >
                                                 {
-                                                  "I'm happy to receive a seriously cool monthly newsletter from Sakira."
+                                                  "I'm happy to receive a seriously cool monthly newsletter from Radhika SkillForge."
                                                 }
                                               </span>
                                             </label>

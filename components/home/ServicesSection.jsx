@@ -45,7 +45,7 @@ export default function ServicesSection() {
                         data-wow-delay={"ms"}
                       >
                         <span className={"pxl-item--subtext"}>
-                          {"\n\t\t\t\t\t\t\t\t\t\tWe are Saira\t\t\t\t"}
+                          {"\n\t\t\t\t\t\t\t\t\t\tWe are Radhika SkillForge\t\t\t\t"}
                         </span>
                       </div>
                       <h3

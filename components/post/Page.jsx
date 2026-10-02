@@ -12,7 +12,7 @@ export default function PostPage() {
               <div className={"loader-line"}></div>
             </div>
             <div className={"loader-logo"}>
-              <img src={"/wp-content/uploads/2023/08/h3-logo-light.png"} />
+              <span className="brand-wordmark">Radhika SkillForge</span>
             </div>
           </div>
         </div>
@@ -163,8 +163,8 @@ export default function PostPage() {
                                 className={"pxl-item--inner "}
                                 data-wow-delay={"ms"}
                               >
-                                <a href={"mailto:hello@saira.com"}>
-                                  {"hello@saira.com "}
+                                <a href={"mailto:supports@apurvasoftwaresolutions.com"}>
+                                  {"supports@apurvasoftwaresolutions.com "}
                                 </a>
                               </div>
                             </div>
@@ -187,10 +187,10 @@ export default function PostPage() {
                               <div className={"pxl--item"}>
                                 <div className={"pxl-item--content"}>
                                   <label className={"pxl-empty"}>
-                                    {"London:"}
+                                    {"Gaya, Bihar:"}
                                   </label>
                                   {
-                                    "\n                        +44(0)20 3156                    "
+                                    "\n                        +91 6203253537                    "
                                   }
                                 </div>
                               </div>
@@ -200,7 +200,7 @@ export default function PostPage() {
                                     {"New York:"}
                                   </label>
                                   {
-                                    "\n                        +1 866 512 0268                    "
+                                    "\n                        +91 6203253537                    "
                                   }
                                 </div>
                               </div>
@@ -503,7 +503,7 @@ export default function PostPage() {
                                                 }
                                               >
                                                 {
-                                                  "I'm happy to receive a seriously cool monthly newsletter from Sakira."
+                                                  "I'm happy to receive a seriously cool monthly newsletter from Radhika SkillForge."
                                                 }
                                               </span>
                                             </label>

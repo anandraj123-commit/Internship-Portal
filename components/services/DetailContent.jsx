@@ -756,7 +756,7 @@ export default function DetailContent({ service }) {
                                     ></i>
                                   </div>
                                   <div className={"pxl-phone--number"}>
-                                    {"+215 5747 6654"}
+                                    {"+91 6203253537"}
                                   </div>
                                   <div className={"pxl-item--desc"}>
                                     {
@@ -765,7 +765,7 @@ export default function DetailContent({ service }) {
                                   </div>
                                   <a
                                     className={"pxl-phone--link"}
-                                    href={"tel:+21557476654"}
+                                    href={"tel:+916203253537"}
                                   ></a>
                                 </div>
                               </div>

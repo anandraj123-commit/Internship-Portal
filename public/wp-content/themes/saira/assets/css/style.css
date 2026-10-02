@@ -4054,12 +4054,12 @@ body.rtl .pxl-box-hover1 .pxl-item--inner:hover:before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: -webkit-linear-gradient(45deg, #ff0058, #5f01d3);
-  background-image: -moz-linear-gradient(45deg, #ff0058, #5f01d3);
-  background-image: -ms-linear-gradient(45deg, #ff0058, #5f01d3);
-  background-image: -o-linear-gradient(45deg, #ff0058, #5f01d3);
-  background-image: linear-gradient(45deg, #ff0058, #5f01d3);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#ff0058', endColorStr='#5f01d3');
+  background-image: -webkit-linear-gradient(45deg, #ff4a17, #ff4a17);
+  background-image: -moz-linear-gradient(45deg, #ff4a17, #ff4a17);
+  background-image: -ms-linear-gradient(45deg, #ff4a17, #ff4a17);
+  background-image: -o-linear-gradient(45deg, #ff4a17, #ff4a17);
+  background-image: linear-gradient(45deg, #ff4a17, #ff4a17);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#ff4a17', endColorStr='#ff4a17');
   -webkit-mask-repeat: no-repeat;
   -ms-mask-repeat: no-repeat;
   -o-mask-repeat: no-repeat;
@@ -6599,14 +6599,14 @@ body.rtl .pxl-box-hover1 .pxl-item--inner:hover:before {
   width: 100%;
   height: 100%;
   border-radius: 100%;
-  background-color: #ee2777;
-  background-image: -webkit-gradient(linear, right top, left top, from(#ee2777), to(#6302d1));
-  background-image: -webkit-linear-gradient(to right, #ee2777, #6302d1);
-  background-image: -moz-linear-gradient(to right, #ee2777, #6302d1);
-  background-image: -ms-linear-gradient(to right, #ee2777, #6302d1);
-  background-image: -o-linear-gradient(to right, #ee2777, #6302d1);
-  background-image: linear-gradient(to right, #ee2777, #6302d1);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#ee2777', endColorStr='#6302d1', gradientType='1');
+  background-color: #ff4a17;
+  background-image: -webkit-gradient(linear, right top, left top, from(#ff4a17), to(#ff4a17));
+  background-image: -webkit-linear-gradient(to right, #ff4a17, #ff4a17);
+  background-image: -moz-linear-gradient(to right, #ff4a17, #ff4a17);
+  background-image: -ms-linear-gradient(to right, #ff4a17, #ff4a17);
+  background-image: -o-linear-gradient(to right, #ff4a17, #ff4a17);
+  background-image: linear-gradient(to right, #ff4a17, #ff4a17);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#ff4a17', endColorStr='#ff4a17', gradientType='1');
   z-index: -1;
   -webkit-transition: opacity 300ms linear 0ms;
   -khtml-transition: opacity 300ms linear 0ms;
@@ -19022,7 +19022,7 @@ input[type="submit"]:hover {
   margin-bottom: 26px;
 }
 .pxl-icon-box2 .pxl-item--backdrop {
-  background-color: #5f01d3;
+  background-color: #ff4a17;
   background-image: url(../img/box-icon-overlay.png);
   background-position: right bottom;
   background-size: cover;
@@ -19243,7 +19243,7 @@ input[type="submit"]:hover {
 .pxl-counter2 {
   width: 204px;
   height: 204px;
-  background-color: #6202d1;
+  background-color: #ff4a17;
   border-radius: 204px;
   display: inline-flex;
   justify-content: center;

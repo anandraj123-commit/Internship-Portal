@@ -4,7 +4,7 @@ import PageStyles from "../../components/post/PageStyles";
 import data from "../../data/blogs.json";
 export default function SinglePost({ title }) {
   return (
-    <Root pageKey="post" Styles={PageStyles} title={`${title} – IT Agency`}>
+    <Root pageKey="post" Styles={PageStyles} title={`${title} – Radhika SkillForge`}>
       <PostPage />
     </Root>
   );

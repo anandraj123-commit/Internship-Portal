@@ -63,7 +63,7 @@ export default function TestimonialsSection({ service }) {
                                     </h3>
                                     <div className={"pxl-item--desc"}>
                                       {
-                                        "\n                                                We easily and quickly received the money from the consumers grow Sakira. After using our service, as well as communication.                                            "
+                                        "\n                                                We easily and quickly received the money from the consumers grow Radhika SkillForge. After using our service, as well as communication.                                            "
                                       }
                                     </div>
                                     <div className={"pxl-flex-middle"}>
@@ -132,7 +132,7 @@ export default function TestimonialsSection({ service }) {
                                     </h3>
                                     <div className={"pxl-item--desc"}>
                                       {
-                                        "\n                                                We easily and quickly received the money from the consumers grow Sakira. After using our service, as well as communication.                                            "
+                                        "\n                                                We easily and quickly received the money from the consumers grow Radhika SkillForge. After using our service, as well as communication.                                            "
                                       }
                                     </div>
                                     <div className={"pxl-flex-middle"}>
@@ -201,7 +201,7 @@ export default function TestimonialsSection({ service }) {
                                     </h3>
                                     <div className={"pxl-item--desc"}>
                                       {
-                                        "\n                                                We easily and quickly received the money from the consumers grow Sakira. After using our service, as well as communication.\n                                            "
+                                        "\n                                                We easily and quickly received the money from the consumers grow Radhika SkillForge. After using our service, as well as communication.\n                                            "
                                       }
                                     </div>
                                     <div className={"pxl-flex-middle"}>

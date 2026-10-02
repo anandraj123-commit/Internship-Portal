@@ -4,7 +4,7 @@ import PageStyles from "../components/contact/PageStyles";
 
 export default function ContactUs() {
   return (
-    <Root pageKey="contact" Styles={PageStyles} title="Contact Us – IT Agency">
+    <Root pageKey="contact" Styles={PageStyles} title="Contact Us – Radhika SkillForge">
       <ContactPage />
     </Root>
   );

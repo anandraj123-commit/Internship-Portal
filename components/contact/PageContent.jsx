@@ -186,9 +186,11 @@ export default function PageContent() {
                                               data-wow-delay={"ms"}
                                             >
                                               <p>
-                                                {"support@itagency.in"}
+                                                <a href="mailto:supports@apurvasoftwaresolutions.com">supports@apurvasoftwaresolutions.com</a>
                                                 <br />
-                                                {"+91 7567 000423"}
+                                                <a href="tel:+916203253537">+91 6203253537</a>
+                                                <br />
+                                                <a href="https://wa.me/918797044416">WhatsApp: +91 8797044416</a>
                                               </p>
                                             </div>
                                           </div>
@@ -269,7 +271,7 @@ export default function PageContent() {
                                             >
                                               <p>
                                                 {
-                                                  "423, Shivalik Shilp,                 Iscon Cross Road, Ahmedabad 380015"
+                                                  "Veer Kuwar Singh Colony, Gaya, Bihar"
                                                 }
                                               </p>
                                             </div>
@@ -556,13 +558,13 @@ export default function PageContent() {
                                     <iframe
                                       loading={"lazy"}
                                       src={
-                                        "https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&t=m&z=14&output=embed&iwloc=near"
+                                        "https://maps.google.com/maps?q=Veer%20Kuwar%20Singh%20Colony%2C%20Gaya%2C%20Bihar&t=m&z=14&output=embed&iwloc=near"
                                       }
                                       title={
-                                        "London Eye, London, United Kingdom"
+                                        "Veer Kuwar Singh Colony, Gaya, Bihar"
                                       }
                                       aria-label={
-                                        "London Eye, London, United Kingdom"
+                                        "Veer Kuwar Singh Colony, Gaya, Bihar"
                                       }
                                     ></iframe>
                                   </div>

@@ -561,35 +561,6 @@ function HeroSection() {
                                                                                         fileName: "[project]/components/home/HeroSection.jsx",
                                                                                         lineNumber: 418,
                                                                                         columnNumber: 37
-                                                                                    }, this),
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
-                                                                                        id: "slider-2-slide-3-layer-1",
-                                                                                        "data-type": "shape",
-                                                                                        "data-rsp_ch": "on",
-                                                                                        "data-text": "w:normal;s:20,16,12,7;l:0,20,15,9;",
-                                                                                        "data-dim": "w:100%;h:100%;",
-                                                                                        "data-basealign": "slide",
-                                                                                        "data-frame_0": "y:50;",
-                                                                                        "data-frame_1": "st:1700;sp:1000;",
-                                                                                        "data-frame_999": "o:0;st:w;sR:7000;",
-                                                                                        style: {
-                                                                                            zIndex: "7",
-                                                                                            backgroundColor: "rgba(0,0,0,0)"
-                                                                                        },
-                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-bg-elem", {
-                                                                                            style: {
-                                                                                                background: "url('/wp-content/uploads/2023/09/u-slider-overlay.png') no-repeat left top",
-                                                                                                backgroundSize: "cover"
-                                                                                            }
-                                                                                        }, void 0, false, {
-                                                                                            fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                            lineNumber: 451,
-                                                                                            columnNumber: 39
-                                                                                        }, this)
-                                                                                    }, void 0, false, {
-                                                                                        fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 434,
-                                                                                        columnNumber: 37
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
@@ -621,7 +592,7 @@ function HeroSection() {
                                                                                         "data-no-retina": ""
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 470,
+                                                                                        lineNumber: 445,
                                                                                         columnNumber: 37
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-group", {
@@ -666,12 +637,12 @@ function HeroSection() {
                                                                                                     "data-no-retina": ""
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 533,
+                                                                                                    lineNumber: 508,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 509,
+                                                                                                lineNumber: 484,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -698,7 +669,7 @@ function HeroSection() {
                                                                                                             className: "shortcode-btn-icon caseicon-play1 pxl-mr-18"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 577,
+                                                                                                            lineNumber: 552,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
@@ -706,18 +677,18 @@ function HeroSection() {
                                                                                                             children: "Video"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 582,
+                                                                                                            lineNumber: 557,
                                                                                                             columnNumber: 43
                                                                                                         }, this)
                                                                                                     ]
                                                                                                 }, void 0, true, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 569,
+                                                                                                    lineNumber: 544,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 548,
+                                                                                                lineNumber: 523,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
@@ -750,115 +721,115 @@ function HeroSection() {
                                                                                                                     children: "V"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 622,
+                                                                                                                    lineNumber: 597,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "i"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 623,
+                                                                                                                    lineNumber: 598,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "e"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 624,
+                                                                                                                    lineNumber: 599,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "w"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 625,
+                                                                                                                    lineNumber: 600,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     className: "spacer"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 626,
+                                                                                                                    lineNumber: 601,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "S"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 627,
+                                                                                                                    lineNumber: 602,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "e"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 628,
+                                                                                                                    lineNumber: 603,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "r"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 629,
+                                                                                                                    lineNumber: 604,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "v"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 630,
+                                                                                                                    lineNumber: 605,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "i"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 631,
+                                                                                                                    lineNumber: 606,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "c"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 632,
+                                                                                                                    lineNumber: 607,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "e"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 633,
+                                                                                                                    lineNumber: 608,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "s"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 634,
+                                                                                                                    lineNumber: 609,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this)
                                                                                                             ]
                                                                                                         }, void 0, true, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 618,
+                                                                                                            lineNumber: 593,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
                                                                                                             className: "flaticon-right-up pxl-ml-14"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 636,
+                                                                                                            lineNumber: 611,
                                                                                                             columnNumber: 43
                                                                                                         }, this)
                                                                                                     ]
                                                                                                 }, void 0, true, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 613,
+                                                                                                    lineNumber: 588,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 587,
+                                                                                                lineNumber: 562,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -881,7 +852,7 @@ function HeroSection() {
                                                                                                 children: "Our proven, technical SEO will drive more organic traffic to your website and help you consequently increase your sales. \n\t\t\t\t\t\t\t\t"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 643,
+                                                                                                lineNumber: 618,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -908,12 +879,12 @@ function HeroSection() {
                                                                                                             children: "e"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 691,
+                                                                                                            lineNumber: 666,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 694,
+                                                                                                            lineNumber: 669,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         "\nRevenue ",
@@ -926,24 +897,24 @@ function HeroSection() {
                                                                                                             children: "Today"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 696,
+                                                                                                            lineNumber: 671,
                                                                                                             columnNumber: 43
                                                                                                         }, this)
                                                                                                     ]
                                                                                                 }, void 0, true, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 689,
+                                                                                                    lineNumber: 664,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 669,
+                                                                                                lineNumber: 644,
                                                                                                 columnNumber: 39
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 489,
+                                                                                        lineNumber: 464,
                                                                                         columnNumber: 37
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -961,42 +932,13 @@ function HeroSection() {
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 709,
-                                                                                        columnNumber: 37
-                                                                                    }, this),
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
-                                                                                        id: "slider-2-slide-4-layer-1",
-                                                                                        "data-type": "shape",
-                                                                                        "data-rsp_ch": "on",
-                                                                                        "data-text": "w:normal;s:20,16,12,7;l:0,20,15,9;",
-                                                                                        "data-dim": "w:100%;h:100%;",
-                                                                                        "data-basealign": "slide",
-                                                                                        "data-frame_0": "y:50;",
-                                                                                        "data-frame_1": "st:1700;sp:1000;",
-                                                                                        "data-frame_999": "o:0;st:w;sR:7000;",
-                                                                                        style: {
-                                                                                            zIndex: "7",
-                                                                                            backgroundColor: "rgba(0,0,0,0)"
-                                                                                        },
-                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-bg-elem", {
-                                                                                            style: {
-                                                                                                background: "url('/wp-content/uploads/2023/09/u-slider-overlay.png') no-repeat left top",
-                                                                                                backgroundSize: "cover"
-                                                                                            }
-                                                                                        }, void 0, false, {
-                                                                                            fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                            lineNumber: 742,
-                                                                                            columnNumber: 39
-                                                                                        }, this)
-                                                                                    }, void 0, false, {
-                                                                                        fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 725,
+                                                                                        lineNumber: 684,
                                                                                         columnNumber: 37
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                lineNumber: 460,
+                                                                                lineNumber: 435,
                                                                                 columnNumber: 35
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-slide", {
@@ -1023,7 +965,7 @@ function HeroSection() {
                                                                                         "data-no-retina": ""
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 761,
+                                                                                        lineNumber: 711,
                                                                                         columnNumber: 37
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-group", {
@@ -1068,12 +1010,12 @@ function HeroSection() {
                                                                                                     "data-no-retina": ""
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 824,
+                                                                                                    lineNumber: 774,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 800,
+                                                                                                lineNumber: 750,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -1100,7 +1042,7 @@ function HeroSection() {
                                                                                                             className: "shortcode-btn-icon caseicon-play1 pxl-mr-18"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 868,
+                                                                                                            lineNumber: 818,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
@@ -1108,18 +1050,18 @@ function HeroSection() {
                                                                                                             children: "Video"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 873,
+                                                                                                            lineNumber: 823,
                                                                                                             columnNumber: 43
                                                                                                         }, this)
                                                                                                     ]
                                                                                                 }, void 0, true, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 860,
+                                                                                                    lineNumber: 810,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 839,
+                                                                                                lineNumber: 789,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
@@ -1152,115 +1094,115 @@ function HeroSection() {
                                                                                                                     children: "V"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 913,
+                                                                                                                    lineNumber: 863,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "i"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 914,
+                                                                                                                    lineNumber: 864,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "e"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 915,
+                                                                                                                    lineNumber: 865,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "w"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 916,
+                                                                                                                    lineNumber: 866,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     className: "spacer"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 917,
+                                                                                                                    lineNumber: 867,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "S"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 918,
+                                                                                                                    lineNumber: 868,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "e"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 919,
+                                                                                                                    lineNumber: 869,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "r"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 920,
+                                                                                                                    lineNumber: 870,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "v"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 921,
+                                                                                                                    lineNumber: 871,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "i"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 922,
+                                                                                                                    lineNumber: 872,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "c"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 923,
+                                                                                                                    lineNumber: 873,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "e"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 924,
+                                                                                                                    lineNumber: 874,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "s"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 925,
+                                                                                                                    lineNumber: 875,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this)
                                                                                                             ]
                                                                                                         }, void 0, true, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 909,
+                                                                                                            lineNumber: 859,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
                                                                                                             className: "flaticon-right-up pxl-ml-14"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 927,
+                                                                                                            lineNumber: 877,
                                                                                                             columnNumber: 43
                                                                                                         }, this)
                                                                                                     ]
                                                                                                 }, void 0, true, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 904,
+                                                                                                    lineNumber: 854,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 878,
+                                                                                                lineNumber: 828,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -1283,7 +1225,7 @@ function HeroSection() {
                                                                                                 children: "Our proven, technical SEO will drive more organic traffic to your website and help you consequently increase your sales. \n\t\t\t\t\t\t\t\t"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 934,
+                                                                                                lineNumber: 884,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -1310,12 +1252,12 @@ function HeroSection() {
                                                                                                             children: "s"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 982,
+                                                                                                            lineNumber: 932,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 985,
+                                                                                                            lineNumber: 935,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         "\nRevenue ",
@@ -1328,24 +1270,24 @@ function HeroSection() {
                                                                                                             children: "Today"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 987,
+                                                                                                            lineNumber: 937,
                                                                                                             columnNumber: 43
                                                                                                         }, this)
                                                                                                     ]
                                                                                                 }, void 0, true, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 980,
+                                                                                                    lineNumber: 930,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 960,
+                                                                                                lineNumber: 910,
                                                                                                 columnNumber: 39
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 780,
+                                                                                        lineNumber: 730,
                                                                                         columnNumber: 37
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -1363,42 +1305,13 @@ function HeroSection() {
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 1000,
-                                                                                        columnNumber: 37
-                                                                                    }, this),
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
-                                                                                        id: "slider-2-slide-5-layer-1",
-                                                                                        "data-type": "shape",
-                                                                                        "data-rsp_ch": "on",
-                                                                                        "data-text": "w:normal;s:20,16,12,7;l:0,20,15,9;",
-                                                                                        "data-dim": "w:100%;h:100%;",
-                                                                                        "data-basealign": "slide",
-                                                                                        "data-frame_0": "y:50;",
-                                                                                        "data-frame_1": "st:1700;sp:1000;",
-                                                                                        "data-frame_999": "o:0;st:w;sR:7000;",
-                                                                                        style: {
-                                                                                            zIndex: "7",
-                                                                                            backgroundColor: "rgba(0,0,0,0)"
-                                                                                        },
-                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-bg-elem", {
-                                                                                            style: {
-                                                                                                background: "url('/wp-content/uploads/2023/09/u-slider-overlay.png') no-repeat left top",
-                                                                                                backgroundSize: "cover"
-                                                                                            }
-                                                                                        }, void 0, false, {
-                                                                                            fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                            lineNumber: 1033,
-                                                                                            columnNumber: 39
-                                                                                        }, this)
-                                                                                    }, void 0, false, {
-                                                                                        fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 1016,
+                                                                                        lineNumber: 950,
                                                                                         columnNumber: 37
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                lineNumber: 751,
+                                                                                lineNumber: 701,
                                                                                 columnNumber: 35
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-slide", {
@@ -1425,7 +1338,7 @@ function HeroSection() {
                                                                                         "data-no-retina": ""
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 1052,
+                                                                                        lineNumber: 977,
                                                                                         columnNumber: 37
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-group", {
@@ -1470,12 +1383,12 @@ function HeroSection() {
                                                                                                     "data-no-retina": ""
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 1115,
+                                                                                                    lineNumber: 1040,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 1091,
+                                                                                                lineNumber: 1016,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -1502,7 +1415,7 @@ function HeroSection() {
                                                                                                             className: "shortcode-btn-icon caseicon-play1 pxl-mr-18"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 1159,
+                                                                                                            lineNumber: 1084,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
@@ -1510,18 +1423,18 @@ function HeroSection() {
                                                                                                             children: "Video"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 1164,
+                                                                                                            lineNumber: 1089,
                                                                                                             columnNumber: 43
                                                                                                         }, this)
                                                                                                     ]
                                                                                                 }, void 0, true, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 1151,
+                                                                                                    lineNumber: 1076,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 1130,
+                                                                                                lineNumber: 1055,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
@@ -1554,115 +1467,115 @@ function HeroSection() {
                                                                                                                     children: "V"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1204,
+                                                                                                                    lineNumber: 1129,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "i"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1205,
+                                                                                                                    lineNumber: 1130,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "e"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1206,
+                                                                                                                    lineNumber: 1131,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "w"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1207,
+                                                                                                                    lineNumber: 1132,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     className: "spacer"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1208,
+                                                                                                                    lineNumber: 1133,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "S"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1209,
+                                                                                                                    lineNumber: 1134,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "e"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1210,
+                                                                                                                    lineNumber: 1135,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "r"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1211,
+                                                                                                                    lineNumber: 1136,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "v"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1212,
+                                                                                                                    lineNumber: 1137,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "i"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1213,
+                                                                                                                    lineNumber: 1138,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "c"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1214,
+                                                                                                                    lineNumber: 1139,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "e"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1215,
+                                                                                                                    lineNumber: 1140,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this),
                                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                                     children: "s"
                                                                                                                 }, void 0, false, {
                                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                                    lineNumber: 1216,
+                                                                                                                    lineNumber: 1141,
                                                                                                                     columnNumber: 45
                                                                                                                 }, this)
                                                                                                             ]
                                                                                                         }, void 0, true, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 1200,
+                                                                                                            lineNumber: 1125,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
                                                                                                             className: "flaticon-right-up pxl-ml-14"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 1218,
+                                                                                                            lineNumber: 1143,
                                                                                                             columnNumber: 43
                                                                                                         }, this)
                                                                                                     ]
                                                                                                 }, void 0, true, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 1195,
+                                                                                                    lineNumber: 1120,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 1169,
+                                                                                                lineNumber: 1094,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -1685,7 +1598,7 @@ function HeroSection() {
                                                                                                 children: "Our proven, technical SEO will drive more organic traffic to your website and help you consequently increase your sales. \n\t\t\t\t\t\t\t\t"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 1225,
+                                                                                                lineNumber: 1150,
                                                                                                 columnNumber: 39
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -1712,12 +1625,12 @@ function HeroSection() {
                                                                                                             children: "s"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 1273,
+                                                                                                            lineNumber: 1198,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 1276,
+                                                                                                            lineNumber: 1201,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
                                                                                                         "\nRevenue ",
@@ -1730,24 +1643,24 @@ function HeroSection() {
                                                                                                             children: "Today"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                            lineNumber: 1278,
+                                                                                                            lineNumber: 1203,
                                                                                                             columnNumber: 43
                                                                                                         }, this)
                                                                                                     ]
                                                                                                 }, void 0, true, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                    lineNumber: 1271,
+                                                                                                    lineNumber: 1196,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                                lineNumber: 1251,
+                                                                                                lineNumber: 1176,
                                                                                                 columnNumber: 39
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 1071,
+                                                                                        lineNumber: 996,
                                                                                         columnNumber: 37
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
@@ -1765,42 +1678,13 @@ function HeroSection() {
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 1291,
-                                                                                        columnNumber: 37
-                                                                                    }, this),
-                                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-layer", {
-                                                                                        id: "slider-2-slide-6-layer-1",
-                                                                                        "data-type": "shape",
-                                                                                        "data-rsp_ch": "on",
-                                                                                        "data-text": "w:normal;s:20,16,12,7;l:0,20,15,9;",
-                                                                                        "data-dim": "w:100%;h:100%;",
-                                                                                        "data-basealign": "slide",
-                                                                                        "data-frame_0": "y:50;",
-                                                                                        "data-frame_1": "st:1700;sp:1000;",
-                                                                                        "data-frame_999": "o:0;st:w;sR:7000;",
-                                                                                        style: {
-                                                                                            zIndex: "7",
-                                                                                            backgroundColor: "rgba(0,0,0,0)"
-                                                                                        },
-                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("rs-bg-elem", {
-                                                                                            style: {
-                                                                                                background: "url('/wp-content/uploads/2023/09/u-slider-overlay.png') no-repeat left top",
-                                                                                                backgroundSize: "cover"
-                                                                                            }
-                                                                                        }, void 0, false, {
-                                                                                            fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                            lineNumber: 1324,
-                                                                                            columnNumber: 39
-                                                                                        }, this)
-                                                                                    }, void 0, false, {
-                                                                                        fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                        lineNumber: 1307,
+                                                                                        lineNumber: 1216,
                                                                                         columnNumber: 37
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
-                                                                                lineNumber: 1042,
+                                                                                lineNumber: 967,
                                                                                 columnNumber: 35
                                                                             }, this)
                                                                         ]

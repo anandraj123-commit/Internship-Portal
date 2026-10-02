@@ -7,7 +7,7 @@ export default function Testimonial() {
     <Root
       pageKey="testimonial"
       Styles={PageStyles}
-      title="Testimonial – IT Agency"
+      title="Testimonial – Radhika SkillForge"
     >
       <TestimonialPage />
     </Root>

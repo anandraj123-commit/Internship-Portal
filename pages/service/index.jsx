@@ -7,7 +7,7 @@ export default function Services() {
     <Root
       pageKey="services"
       Styles={ListingStyles}
-      title="Our Services | IT Agency"
+      title="Our Services | Radhika SkillForge"
     >
       <ListingPage />
     </Root>

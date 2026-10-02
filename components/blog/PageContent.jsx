@@ -244,14 +244,14 @@ export default function PageContent({ children }) {
                   <div className="pxl-item--icon">
                     <i className="flaticon-telephone-1 el-effect-zigzag" />
                   </div>
-                  <div className="pxl-phone--number">+215 5747 6654</div>
+                  <div className="pxl-phone--number">+91 6203253537</div>
                   <div className="pxl-item--desc">
                     Monday – Friday: 7:00 am -8:00 pm24/7 Emergency Service
                   </div>
                   <a
-                    href="tel:+21557476654"
+                    href="tel:+916203253537"
                     className="pxl-phone--link"
-                    aria-label="Call +215 5747 6654"
+                    aria-label="Call +91 6203253537"
                   />
                 </div>
               </div>

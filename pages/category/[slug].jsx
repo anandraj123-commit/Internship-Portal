@@ -5,7 +5,7 @@ import data from "../../data/blogs.json";
 
 export default function Category({ name }) {
   return (
-    <Root pageKey="category" Styles={PageStyles} title={`${name} – IT Agency`}>
+    <Root pageKey="category" Styles={PageStyles} title={`${name} – Radhika SkillForge`}>
       <CategoryPage />
     </Root>
   );

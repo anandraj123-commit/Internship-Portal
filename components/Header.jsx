@@ -88,22 +88,7 @@ export default function Header() {
                                         data-wow-delay={"ms"}
                                       >
                                         <a href={"/"}>
-                                          <img
-                                            fetchpriority={"high"}
-                                            width={"665"}
-                                            height={"126"}
-                                            src={
-                                              "/wp-content/uploads/2023/09/Untitled-design-1.png"
-                                            }
-                                            className={"attachment-full"}
-                                            alt={"IT Agency"}
-                                            srcSet={
-                                              "/wp-content/uploads/2023/09/Untitled-design-1.png 665w, /wp-content/uploads/2023/09/Untitled-design-1-600x114.png 600w, /wp-content/uploads/2023/09/Untitled-design-1-300x57.png 300w"
-                                            }
-                                            sizes={
-                                              "(max-width: 665px) 100vw, 665px"
-                                            }
-                                          />
+                                          <span className="brand-wordmark">Radhika SkillForge</span>
                                         </a>
                                       </div>
                                     </div>
@@ -319,22 +304,7 @@ export default function Header() {
                                         data-wow-delay={"ms"}
                                       >
                                         <a href={"/"}>
-                                          <img
-                                            fetchpriority={"high"}
-                                            width={"665"}
-                                            height={"126"}
-                                            src={
-                                              "/wp-content/uploads/2023/09/Untitled-design-1.png"
-                                            }
-                                            className={"attachment-full"}
-                                            alt={"IT Agency"}
-                                            srcSet={
-                                              "/wp-content/uploads/2023/09/Untitled-design-1.png 665w, /wp-content/uploads/2023/09/Untitled-design-1-600x114.png 600w, /wp-content/uploads/2023/09/Untitled-design-1-300x57.png 300w"
-                                            }
-                                            sizes={
-                                              "(max-width: 665px) 100vw, 665px"
-                                            }
-                                          />
+                                          <span className="brand-wordmark">Radhika SkillForge</span>
                                         </a>
                                       </div>
                                     </div>
@@ -520,20 +490,7 @@ export default function Header() {
                                   data-wow-delay={"ms"}
                                 >
                                   <a href={"/"}>
-                                    <img
-                                      fetchpriority={"high"}
-                                      width={"665"}
-                                      height={"126"}
-                                      src={
-                                        "/wp-content/uploads/2023/09/Untitled-design-1.png"
-                                      }
-                                      className={"attachment-full"}
-                                      alt={"IT Agency"}
-                                      srcSet={
-                                        "/wp-content/uploads/2023/09/Untitled-design-1.png 665w, /wp-content/uploads/2023/09/Untitled-design-1-600x114.png 600w, /wp-content/uploads/2023/09/Untitled-design-1-300x57.png 300w"
-                                      }
-                                      sizes={"(max-width: 665px) 100vw, 665px"}
-                                    />
+                                    <span className="brand-wordmark">Radhika SkillForge</span>
                                   </a>
                                 </div>
                               </div>
@@ -582,13 +539,8 @@ export default function Header() {
                       className={"pxl-menu-close pxl-hide-xl pxl-close"}
                     ></div>
                     <div className={"pxl-logo-mobile pxl-hide-xl"}>
-                      <a href={"/"} title={"IT Agency"} rel={"home"}>
-                        <img
-                          src={
-                            "/wp-content/uploads/2023/09/Untitled-design-1.png"
-                          }
-                          alt={"IT Agency"}
-                        />
+                      <a href={"/"} title={"Radhika SkillForge"} rel={"home"}>
+                        <span className="brand-wordmark">Radhika SkillForge</span>
                       </a>
                     </div>
                     <div className={"pxl-header-mobile-search pxl-hide-xl"}>

@@ -14,7 +14,7 @@ export default function Root({
   children,
   pageKey,
   Styles,
-  title = "IT Agency",
+  title = "Radhika SkillForge",
 }) {
   return (
     <>

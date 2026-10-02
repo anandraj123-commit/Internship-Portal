@@ -8,7 +8,7 @@ export default function ServiceDetails({ service }) {
     <Root
       pageKey="serviceDetail"
       Styles={DetailStyles}
-      title={`${service.title} | IT Agency`}
+      title={`${service.title} | Radhika SkillForge`}
     >
       <DetailPage service={service} />
     </Root>

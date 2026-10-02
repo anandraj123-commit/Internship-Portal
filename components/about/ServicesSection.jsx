@@ -113,7 +113,7 @@ export default function ServicesSection() {
                             >
                               <p>
                                 {
-                                  "Sakira is a design studio founded in London and expanded our services, and become a multinational firm, offering solutions Worldwide. Our team have designed game changing app."
+                                  "Radhika SkillForge is based in Gaya, Bihar, with Apurva Software Solutions as its parent company. We provide software development and digital services."
                                 }
                               </p>
                             </div>

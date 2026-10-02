@@ -7,13 +7,13 @@ export default function HomeHero() {
           <h1 id="home-title">Technology built around what your business needs next.</h1>
           <p className="home-lede">
             From product design and mobile applications to branding and international SEO,
-            bring your next digital idea to life with IT Agency.
+            bring your next digital idea to life with Radhika SkillForge.
           </p>
           <div className="home-actions">
             <a className="home-button home-button-primary" href="/contact-us">Start a conversation <span aria-hidden="true">↗</span></a>
             <a className="home-button home-button-quiet" href="/service">Explore services <span aria-hidden="true">↓</span></a>
           </div>
-          <div className="home-hero-footnote"><span className="home-live-dot" /> Ahmedabad, India <span className="home-footnote-divider" /> Working worldwide</div>
+          <div className="home-hero-footnote"><span className="home-live-dot" /> Gaya, Bihar <span className="home-footnote-divider" /> Working worldwide</div>
         </div>
         <div className="home-hero-art" aria-label="A visual map of a digital product journey">
           <div className="home-art-orbit home-art-orbit-one" />

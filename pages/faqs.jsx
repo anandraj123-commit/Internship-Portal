@@ -4,7 +4,7 @@ import PageStyles from "../components/faqs/PageStyles";
 
 export default function Faqs() {
   return (
-    <Root pageKey="faqs" Styles={PageStyles} title="FAQs – IT Agency">
+    <Root pageKey="faqs" Styles={PageStyles} title="FAQs – Radhika SkillForge">
       <FaqsPage />
     </Root>
   );

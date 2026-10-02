@@ -80,15 +80,9 @@ function Header() {
                                                                                         "data-wow-delay": "ms",
                                                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                             href: "/",
-                                                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                                                fetchpriority: "high",
-                                                                                                width: "665",
-                                                                                                height: "126",
-                                                                                                src: "/wp-content/uploads/2023/09/Untitled-design-1.png",
-                                                                                                className: "attachment-full",
-                                                                                                alt: "IT Agency",
-                                                                                                srcSet: "/wp-content/uploads/2023/09/Untitled-design-1.png 665w, /wp-content/uploads/2023/09/Untitled-design-1-600x114.png 600w, /wp-content/uploads/2023/09/Untitled-design-1-300x57.png 300w",
-                                                                                                sizes: "(max-width: 665px) 100vw, 665px"
+                                                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                                className: "brand-wordmark",
+                                                                                                children: "Radhika SkillForge"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/Header.jsx",
                                                                                                 lineNumber: 91,
@@ -129,22 +123,22 @@ function Header() {
                                                                                             variant: 0
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                            lineNumber: 129,
+                                                                                            lineNumber: 114,
                                                                                             columnNumber: 41
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                        lineNumber: 123,
+                                                                                        lineNumber: 108,
                                                                                         columnNumber: 39
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                    lineNumber: 120,
+                                                                                    lineNumber: 105,
                                                                                     columnNumber: 37
                                                                                 }, this)
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                lineNumber: 111,
+                                                                                lineNumber: 96,
                                                                                 columnNumber: 35
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -166,12 +160,12 @@ function Header() {
                                                                                                     children: "\n                        EN                    "
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                                    lineNumber: 152,
+                                                                                                    lineNumber: 137,
                                                                                                     columnNumber: 43
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                lineNumber: 151,
+                                                                                                lineNumber: 136,
                                                                                                 columnNumber: 41
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -181,28 +175,28 @@ function Header() {
                                                                                                     children: "\n                        UA                    "
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                                    lineNumber: 159,
+                                                                                                    lineNumber: 144,
                                                                                                     columnNumber: 43
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                lineNumber: 158,
+                                                                                                lineNumber: 143,
                                                                                                 columnNumber: 41
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                        lineNumber: 147,
+                                                                                        lineNumber: 132,
                                                                                         columnNumber: 39
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                    lineNumber: 144,
+                                                                                    lineNumber: 129,
                                                                                     columnNumber: 37
                                                                                 }, this)
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                lineNumber: 133,
+                                                                                lineNumber: 118,
                                                                                 columnNumber: 35
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -226,7 +220,7 @@ function Header() {
                                                                                                     className: "flaticon flaticon-right-up"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                                    lineNumber: 191,
+                                                                                                    lineNumber: 176,
                                                                                                     columnNumber: 43
                                                                                                 }, this),
                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -237,97 +231,97 @@ function Header() {
                                                                                                             children: "C"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                                            lineNumber: 201,
+                                                                                                            lineNumber: 186,
                                                                                                             columnNumber: 45
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                             children: "o"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                                            lineNumber: 202,
+                                                                                                            lineNumber: 187,
                                                                                                             columnNumber: 45
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                             children: "n"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                                            lineNumber: 203,
+                                                                                                            lineNumber: 188,
                                                                                                             columnNumber: 45
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                             children: "t"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                                            lineNumber: 204,
+                                                                                                            lineNumber: 189,
                                                                                                             columnNumber: 45
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                             children: "a"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                                            lineNumber: 205,
+                                                                                                            lineNumber: 190,
                                                                                                             columnNumber: 45
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                             children: "c"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                                            lineNumber: 206,
+                                                                                                            lineNumber: 191,
                                                                                                             columnNumber: 45
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                             children: "t"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                                            lineNumber: 207,
+                                                                                                            lineNumber: 192,
                                                                                                             columnNumber: 45
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                             className: "spacer"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                                            lineNumber: 208,
+                                                                                                            lineNumber: 193,
                                                                                                             columnNumber: 45
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                             children: "u"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                                            lineNumber: 209,
+                                                                                                            lineNumber: 194,
                                                                                                             columnNumber: 45
                                                                                                         }, this),
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                             children: "s"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                                            lineNumber: 210,
+                                                                                                            lineNumber: 195,
                                                                                                             columnNumber: 45
                                                                                                         }, this)
                                                                                                     ]
                                                                                                 }, void 0, true, {
                                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                                    lineNumber: 197,
+                                                                                                    lineNumber: 182,
                                                                                                     columnNumber: 43
                                                                                                 }, this)
                                                                                             ]
                                                                                         }, void 0, true, {
                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                            lineNumber: 185,
+                                                                                            lineNumber: 170,
                                                                                             columnNumber: 41
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                        lineNumber: 180,
+                                                                                        lineNumber: 165,
                                                                                         columnNumber: 39
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                    lineNumber: 177,
+                                                                                    lineNumber: 162,
                                                                                     columnNumber: 37
                                                                                 }, this)
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                lineNumber: 168,
+                                                                                lineNumber: 153,
                                                                                 columnNumber: 35
                                                                             }, this)
                                                                         ]
@@ -412,7 +406,7 @@ function Header() {
                                             }
                                         }, void 0, false, {
                                             fileName: "[project]/components/Header.jsx",
-                                            lineNumber: 237,
+                                            lineNumber: 222,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -463,38 +457,32 @@ function Header() {
                                                                                             "data-wow-delay": "ms",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                                 href: "/",
-                                                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                                                    fetchpriority: "high",
-                                                                                                    width: "665",
-                                                                                                    height: "126",
-                                                                                                    src: "/wp-content/uploads/2023/09/Untitled-design-1.png",
-                                                                                                    className: "attachment-full",
-                                                                                                    alt: "IT Agency",
-                                                                                                    srcSet: "/wp-content/uploads/2023/09/Untitled-design-1.png 665w, /wp-content/uploads/2023/09/Untitled-design-1-600x114.png 600w, /wp-content/uploads/2023/09/Untitled-design-1-300x57.png 300w",
-                                                                                                    sizes: "(max-width: 665px) 100vw, 665px"
+                                                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                                    className: "brand-wordmark",
+                                                                                                    children: "Radhika SkillForge"
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                                    lineNumber: 322,
+                                                                                                    lineNumber: 307,
                                                                                                     columnNumber: 43
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                lineNumber: 321,
+                                                                                                lineNumber: 306,
                                                                                                 columnNumber: 41
                                                                                             }, this)
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                            lineNumber: 317,
+                                                                                            lineNumber: 302,
                                                                                             columnNumber: 39
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                        lineNumber: 314,
+                                                                                        lineNumber: 299,
                                                                                         columnNumber: 37
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                    lineNumber: 305,
+                                                                                    lineNumber: 290,
                                                                                     columnNumber: 35
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -512,22 +500,22 @@ function Header() {
                                                                                                 variant: 1
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                lineNumber: 360,
+                                                                                                lineNumber: 330,
                                                                                                 columnNumber: 41
                                                                                             }, this)
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                            lineNumber: 354,
+                                                                                            lineNumber: 324,
                                                                                             columnNumber: 39
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                        lineNumber: 351,
+                                                                                        lineNumber: 321,
                                                                                         columnNumber: 37
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                    lineNumber: 342,
+                                                                                    lineNumber: 312,
                                                                                     columnNumber: 35
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -549,12 +537,12 @@ function Header() {
                                                                                                         children: "\n                        EN                    "
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                                        lineNumber: 383,
+                                                                                                        lineNumber: 353,
                                                                                                         columnNumber: 43
                                                                                                     }, this)
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                                    lineNumber: 382,
+                                                                                                    lineNumber: 352,
                                                                                                     columnNumber: 41
                                                                                                 }, this),
                                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -564,28 +552,28 @@ function Header() {
                                                                                                         children: "\n                        UA                    "
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                                        lineNumber: 390,
+                                                                                                        lineNumber: 360,
                                                                                                         columnNumber: 43
                                                                                                     }, this)
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                                    lineNumber: 389,
+                                                                                                    lineNumber: 359,
                                                                                                     columnNumber: 41
                                                                                                 }, this)
                                                                                             ]
                                                                                         }, void 0, true, {
                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                            lineNumber: 378,
+                                                                                            lineNumber: 348,
                                                                                             columnNumber: 39
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                        lineNumber: 375,
+                                                                                        lineNumber: 345,
                                                                                         columnNumber: 37
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                    lineNumber: 364,
+                                                                                    lineNumber: 334,
                                                                                     columnNumber: 35
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -609,7 +597,7 @@ function Header() {
                                                                                                         className: "flaticon flaticon-right-up"
                                                                                                     }, void 0, false, {
                                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                                        lineNumber: 422,
+                                                                                                        lineNumber: 392,
                                                                                                         columnNumber: 43
                                                                                                     }, this),
                                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -620,164 +608,164 @@ function Header() {
                                                                                                                 children: "C"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                                lineNumber: 432,
+                                                                                                                lineNumber: 402,
                                                                                                                 columnNumber: 45
                                                                                                             }, this),
                                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                                 children: "o"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                                lineNumber: 433,
+                                                                                                                lineNumber: 403,
                                                                                                                 columnNumber: 45
                                                                                                             }, this),
                                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                                 children: "n"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                                lineNumber: 434,
+                                                                                                                lineNumber: 404,
                                                                                                                 columnNumber: 45
                                                                                                             }, this),
                                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                                 children: "t"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                                lineNumber: 435,
+                                                                                                                lineNumber: 405,
                                                                                                                 columnNumber: 45
                                                                                                             }, this),
                                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                                 children: "a"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                                lineNumber: 436,
+                                                                                                                lineNumber: 406,
                                                                                                                 columnNumber: 45
                                                                                                             }, this),
                                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                                 children: "c"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                                lineNumber: 437,
+                                                                                                                lineNumber: 407,
                                                                                                                 columnNumber: 45
                                                                                                             }, this),
                                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                                 children: "t"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                                lineNumber: 438,
+                                                                                                                lineNumber: 408,
                                                                                                                 columnNumber: 45
                                                                                                             }, this),
                                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                                 className: "spacer"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                                lineNumber: 439,
+                                                                                                                lineNumber: 409,
                                                                                                                 columnNumber: 45
                                                                                                             }, this),
                                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                                 children: "u"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                                lineNumber: 440,
+                                                                                                                lineNumber: 410,
                                                                                                                 columnNumber: 45
                                                                                                             }, this),
                                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                                 children: "s"
                                                                                                             }, void 0, false, {
                                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                                lineNumber: 441,
+                                                                                                                lineNumber: 411,
                                                                                                                 columnNumber: 45
                                                                                                             }, this)
                                                                                                         ]
                                                                                                     }, void 0, true, {
                                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                                        lineNumber: 428,
+                                                                                                        lineNumber: 398,
                                                                                                         columnNumber: 43
                                                                                                     }, this)
                                                                                                 ]
                                                                                             }, void 0, true, {
                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                lineNumber: 416,
+                                                                                                lineNumber: 386,
                                                                                                 columnNumber: 41
                                                                                             }, this)
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                            lineNumber: 411,
+                                                                                            lineNumber: 381,
                                                                                             columnNumber: 39
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                        lineNumber: 408,
+                                                                                        lineNumber: 378,
                                                                                         columnNumber: 37
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                    lineNumber: 399,
+                                                                                    lineNumber: 369,
                                                                                     columnNumber: 35
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/components/Header.jsx",
-                                                                            lineNumber: 300,
+                                                                            lineNumber: 285,
                                                                             columnNumber: 33
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/Header.jsx",
-                                                                        lineNumber: 292,
+                                                                        lineNumber: 277,
                                                                         columnNumber: 31
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/Header.jsx",
-                                                                    lineNumber: 287,
+                                                                    lineNumber: 272,
                                                                     columnNumber: 29
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/Header.jsx",
-                                                                lineNumber: 276,
+                                                                lineNumber: 261,
                                                                 columnNumber: 27
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/Header.jsx",
-                                                            lineNumber: 271,
+                                                            lineNumber: 256,
                                                             columnNumber: 25
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/Header.jsx",
-                                                        lineNumber: 263,
+                                                        lineNumber: 248,
                                                         columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/Header.jsx",
-                                                    lineNumber: 260,
+                                                    lineNumber: 245,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/components/Header.jsx",
-                                                lineNumber: 249,
+                                                lineNumber: 234,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/components/Header.jsx",
-                                            lineNumber: 244,
+                                            lineNumber: 229,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/Header.jsx",
-                                    lineNumber: 236,
+                                    lineNumber: 221,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/Header.jsx",
-                                lineNumber: 235,
+                                lineNumber: 220,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Header.jsx",
-                            lineNumber: 234,
+                            lineNumber: 219,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/Header.jsx",
-                        lineNumber: 229,
+                        lineNumber: 214,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -801,7 +789,7 @@ function Header() {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/Header.jsx",
-                                                    lineNumber: 467,
+                                                    lineNumber: 437,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -837,38 +825,32 @@ function Header() {
                                                                                     "data-wow-delay": "ms",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                         href: "/",
-                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                                            fetchpriority: "high",
-                                                                                            width: "665",
-                                                                                            height: "126",
-                                                                                            src: "/wp-content/uploads/2023/09/Untitled-design-1.png",
-                                                                                            className: "attachment-full",
-                                                                                            alt: "IT Agency",
-                                                                                            srcSet: "/wp-content/uploads/2023/09/Untitled-design-1.png 665w, /wp-content/uploads/2023/09/Untitled-design-1-600x114.png 600w, /wp-content/uploads/2023/09/Untitled-design-1-300x57.png 300w",
-                                                                                            sizes: "(max-width: 665px) 100vw, 665px"
+                                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                            className: "brand-wordmark",
+                                                                                            children: "Radhika SkillForge"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/components/Header.jsx",
-                                                                                            lineNumber: 523,
+                                                                                            lineNumber: 493,
                                                                                             columnNumber: 37
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                        lineNumber: 522,
+                                                                                        lineNumber: 492,
                                                                                         columnNumber: 35
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                    lineNumber: 518,
+                                                                                    lineNumber: 488,
                                                                                     columnNumber: 33
                                                                                 }, this)
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                lineNumber: 517,
+                                                                                lineNumber: 487,
                                                                                 columnNumber: 31
                                                                             }, this)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/Header.jsx",
-                                                                            lineNumber: 508,
+                                                                            lineNumber: 478,
                                                                             columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -891,74 +873,74 @@ function Header() {
                                                                                                 className: "pxl-icon-line pxl-icon-line1"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                lineNumber: 560,
+                                                                                                lineNumber: 517,
                                                                                                 columnNumber: 37
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                 className: "pxl-icon-line pxl-icon-line2"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                lineNumber: 563,
+                                                                                                lineNumber: 520,
                                                                                                 columnNumber: 37
                                                                                             }, this),
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                                 className: "pxl-icon-line pxl-icon-line3"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                                lineNumber: 566,
+                                                                                                lineNumber: 523,
                                                                                                 columnNumber: 37
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/components/Header.jsx",
-                                                                                        lineNumber: 559,
+                                                                                        lineNumber: 516,
                                                                                         columnNumber: 35
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/Header.jsx",
-                                                                                    lineNumber: 551,
+                                                                                    lineNumber: 508,
                                                                                     columnNumber: 33
                                                                                 }, this)
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/Header.jsx",
-                                                                                lineNumber: 550,
+                                                                                lineNumber: 507,
                                                                                 columnNumber: 31
                                                                             }, this)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/Header.jsx",
-                                                                            lineNumber: 541,
+                                                                            lineNumber: 498,
                                                                             columnNumber: 29
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/Header.jsx",
-                                                                    lineNumber: 503,
+                                                                    lineNumber: 473,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/Header.jsx",
-                                                                lineNumber: 495,
+                                                                lineNumber: 465,
                                                                 columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/Header.jsx",
-                                                            lineNumber: 490,
+                                                            lineNumber: 460,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/Header.jsx",
-                                                        lineNumber: 479,
+                                                        lineNumber: 449,
                                                         columnNumber: 21
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/Header.jsx",
-                                                    lineNumber: 474,
+                                                    lineNumber: 444,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/Header.jsx",
-                                            lineNumber: 464,
+                                            lineNumber: 434,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -970,31 +952,31 @@ function Header() {
                                                         className: "pxl-menu-close pxl-hide-xl pxl-close"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/Header.jsx",
-                                                        lineNumber: 581,
+                                                        lineNumber: 538,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "pxl-logo-mobile pxl-hide-xl",
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                             href: "/",
-                                                            title: "IT Agency",
+                                                            title: "Radhika SkillForge",
                                                             rel: "home",
-                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                src: "/wp-content/uploads/2023/09/Untitled-design-1.png",
-                                                                alt: "IT Agency"
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                className: "brand-wordmark",
+                                                                children: "Radhika SkillForge"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/components/Header.jsx",
-                                                                lineNumber: 586,
+                                                                lineNumber: 543,
                                                                 columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/Header.jsx",
-                                                            lineNumber: 585,
+                                                            lineNumber: 542,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/Header.jsx",
-                                                        lineNumber: 584,
+                                                        lineNumber: 541,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1011,7 +993,7 @@ function Header() {
                                                                     className: "search-field"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/Header.jsx",
-                                                                    lineNumber: 596,
+                                                                    lineNumber: 548,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1021,69 +1003,69 @@ function Header() {
                                                                         className: "caseicon-search"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/Header.jsx",
-                                                                        lineNumber: 603,
+                                                                        lineNumber: 555,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/Header.jsx",
-                                                                    lineNumber: 602,
+                                                                    lineNumber: 554,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/Header.jsx",
-                                                            lineNumber: 595,
+                                                            lineNumber: 547,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/Header.jsx",
-                                                        lineNumber: 594,
+                                                        lineNumber: 546,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Navbar$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
                                                         variant: 2
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/Header.jsx",
-                                                        lineNumber: 607,
+                                                        lineNumber: 559,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/components/Header.jsx",
-                                                lineNumber: 580,
+                                                lineNumber: 537,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/components/Header.jsx",
-                                            lineNumber: 579,
+                                            lineNumber: 536,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "pxl-header-menu-backdrop"
                                         }, void 0, false, {
                                             fileName: "[project]/components/Header.jsx",
-                                            lineNumber: 610,
+                                            lineNumber: 562,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/Header.jsx",
-                                    lineNumber: 463,
+                                    lineNumber: 433,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/Header.jsx",
-                                lineNumber: 462,
+                                lineNumber: 432,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Header.jsx",
-                            lineNumber: 461,
+                            lineNumber: 431,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/Header.jsx",
-                        lineNumber: 460,
+                        lineNumber: 430,
                         columnNumber: 9
                     }, this)
                 ]

@@ -431,31 +431,6 @@ export default function HeroSection() {
                                         backgroundColor: "rgba(0,0,0,0.78)",
                                       }}
                                     ></rs-layer>
-                                    <rs-layer
-                                      id={"slider-2-slide-3-layer-1"}
-                                      data-type={"shape"}
-                                      data-rsp_ch={"on"}
-                                      data-text={
-                                        "w:normal;s:20,16,12,7;l:0,20,15,9;"
-                                      }
-                                      data-dim={"w:100%;h:100%;"}
-                                      data-basealign={"slide"}
-                                      data-frame_0={"y:50;"}
-                                      data-frame_1={"st:1700;sp:1000;"}
-                                      data-frame_999={"o:0;st:w;sR:7000;"}
-                                      style={{
-                                        zIndex: "7",
-                                        backgroundColor: "rgba(0,0,0,0)",
-                                      }}
-                                    >
-                                      <rs-bg-elem
-                                        style={{
-                                          background:
-                                            "url('/wp-content/uploads/2023/09/u-slider-overlay.png') no-repeat left top",
-                                          backgroundSize: "cover",
-                                        }}
-                                      ></rs-bg-elem>
-                                    </rs-layer>
                                   </rs-slide>
                                   <rs-slide
                                     style={{ position: "absolute" }}
@@ -722,31 +697,6 @@ export default function HeroSection() {
                                         backgroundColor: "rgba(0,0,0,0.78)",
                                       }}
                                     ></rs-layer>
-                                    <rs-layer
-                                      id={"slider-2-slide-4-layer-1"}
-                                      data-type={"shape"}
-                                      data-rsp_ch={"on"}
-                                      data-text={
-                                        "w:normal;s:20,16,12,7;l:0,20,15,9;"
-                                      }
-                                      data-dim={"w:100%;h:100%;"}
-                                      data-basealign={"slide"}
-                                      data-frame_0={"y:50;"}
-                                      data-frame_1={"st:1700;sp:1000;"}
-                                      data-frame_999={"o:0;st:w;sR:7000;"}
-                                      style={{
-                                        zIndex: "7",
-                                        backgroundColor: "rgba(0,0,0,0)",
-                                      }}
-                                    >
-                                      <rs-bg-elem
-                                        style={{
-                                          background:
-                                            "url('/wp-content/uploads/2023/09/u-slider-overlay.png') no-repeat left top",
-                                          backgroundSize: "cover",
-                                        }}
-                                      ></rs-bg-elem>
-                                    </rs-layer>
                                   </rs-slide>
                                   <rs-slide
                                     style={{ position: "absolute" }}
@@ -1013,31 +963,6 @@ export default function HeroSection() {
                                         backgroundColor: "rgba(0,0,0,0.78)",
                                       }}
                                     ></rs-layer>
-                                    <rs-layer
-                                      id={"slider-2-slide-5-layer-1"}
-                                      data-type={"shape"}
-                                      data-rsp_ch={"on"}
-                                      data-text={
-                                        "w:normal;s:20,16,12,7;l:0,20,15,9;"
-                                      }
-                                      data-dim={"w:100%;h:100%;"}
-                                      data-basealign={"slide"}
-                                      data-frame_0={"y:50;"}
-                                      data-frame_1={"st:1700;sp:1000;"}
-                                      data-frame_999={"o:0;st:w;sR:7000;"}
-                                      style={{
-                                        zIndex: "7",
-                                        backgroundColor: "rgba(0,0,0,0)",
-                                      }}
-                                    >
-                                      <rs-bg-elem
-                                        style={{
-                                          background:
-                                            "url('/wp-content/uploads/2023/09/u-slider-overlay.png') no-repeat left top",
-                                          backgroundSize: "cover",
-                                        }}
-                                      ></rs-bg-elem>
-                                    </rs-layer>
                                   </rs-slide>
                                   <rs-slide
                                     style={{ position: "absolute" }}
@@ -1304,31 +1229,6 @@ export default function HeroSection() {
                                         backgroundColor: "rgba(0,0,0,0.78)",
                                       }}
                                     ></rs-layer>
-                                    <rs-layer
-                                      id={"slider-2-slide-6-layer-1"}
-                                      data-type={"shape"}
-                                      data-rsp_ch={"on"}
-                                      data-text={
-                                        "w:normal;s:20,16,12,7;l:0,20,15,9;"
-                                      }
-                                      data-dim={"w:100%;h:100%;"}
-                                      data-basealign={"slide"}
-                                      data-frame_0={"y:50;"}
-                                      data-frame_1={"st:1700;sp:1000;"}
-                                      data-frame_999={"o:0;st:w;sR:7000;"}
-                                      style={{
-                                        zIndex: "7",
-                                        backgroundColor: "rgba(0,0,0,0)",
-                                      }}
-                                    >
-                                      <rs-bg-elem
-                                        style={{
-                                          background:
-                                            "url('/wp-content/uploads/2023/09/u-slider-overlay.png') no-repeat left top",
-                                          backgroundSize: "cover",
-                                        }}
-                                      ></rs-bg-elem>
-                                    </rs-layer>
                                   </rs-slide>
                                 </rs-slides>
                               </rs-module>

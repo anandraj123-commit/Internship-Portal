@@ -579,11 +579,11 @@ export default function BlogSection() {
                       ></i>
                       <span>{"Linkedin"}</span>
                     </a>
-                    <a href={"mailto:support@sakira.com"}>
+                    <a href={"mailto:supports@apurvasoftwaresolutions.com"}>
                       <i aria-hidden={"true"} className={"fas fa-envelope"}></i>
                       <span>{"Email"}</span>
                     </a>
-                    <a href={"tel:+123455508715"}>
+                    <a href={"tel:+916203253537"}>
                       <i
                         aria-hidden={"true"}
                         className={"fas fa-phone-alt"}
