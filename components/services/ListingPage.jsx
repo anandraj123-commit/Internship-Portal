@@ -12,7 +12,7 @@ export default function ListingPage({ service }) {
               <div className={"loader-line"}></div>
             </div>
             <div className={"loader-logo"}>
-              <span className="brand-wordmark">Radhika SkillForge</span>
+              <img src={"/wp-content/uploads/2023/08/h3-logo-light.png"} />
             </div>
           </div>
         </div>
