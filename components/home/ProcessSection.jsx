@@ -45,7 +45,7 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Practical Learning"}
+                          {"Practice"}
                         </h5>
                         <a
                           className={"pxl-item--button"}
@@ -62,11 +62,11 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Practical Learning"}
+                          {"Practice"}
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Develop practical knowledge through structured learning activities and industry-focused internship training for students."
+                            "Build practical skills through structured internship training, activities and assignments."
                           }
                         </div>
                         <a
@@ -121,7 +121,7 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Mentor Guidance"}
+                          {"Mentoring"}
                         </h5>
                         <a
                           className={"pxl-item--button"}
@@ -138,11 +138,11 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Mentor Guidance"}
+                          {"Mentoring"}
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments."
+                            "Learn with mentor guidance, ask questions and work through practical internship assignments."
                           }
                         </div>
                         <a
@@ -197,7 +197,7 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Project-Based Learning"}
+                          {"Projects"}
                         </h5>
                         <a
                           className={"pxl-item--button"}
@@ -214,11 +214,11 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Project-Based Learning"}
+                          {"Projects"}
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills."
+                            "Apply what you learn through practical projects that help strengthen your technical skills."
                           }
                         </div>
                         <a
@@ -273,7 +273,7 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Beginner-Friendly Learning"}
+                          {"Beginners"}
                         </h5>
                         <a
                           className={"pxl-item--button"}
@@ -290,11 +290,11 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Beginner-Friendly Learning"}
+                          {"Beginners"}
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain."
+                            "Explore beginner-friendly internships suited to your knowledge and the domain requirements."
                           }
                         </div>
                         <a

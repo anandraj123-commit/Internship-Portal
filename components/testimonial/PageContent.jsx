@@ -69,7 +69,7 @@ export default function PageContent() {
                                         data-wow-delay={"ms"}
                                       >
                                         {
-                                          "\n\t\t\t\t\t\t\tOur Clients Say About\t\n\t\t\t\t\n\t\t"
+                                          "\n\t\t\t\t\t\t\tWhat Our Students Say About Radhika SkillForge\t\n\t\t\t\t\n\t\t"
                                         }
                                       </h3>
                                     </div>
@@ -92,7 +92,7 @@ export default function PageContent() {
                                       data-wow-delay={"ms"}
                                     >
                                       {
-                                        "\n\t\tWe value the experimentation, the reformation of the message, and the smart incentives. We offer a variety of services and solutions Worldwide.\t\t\n\t"
+                                        "\n\t\tStudents from different academic backgrounds can build practical skills through internship training, mentor guidance, assignments and project-based learning at Radhika SkillForge. The following are illustrative student accounts, not verified testimonials; the names and experiences are used as examples.\t\t\n\t"
                                       }
                                     </div>
                                   </div>
@@ -164,7 +164,7 @@ export default function PageContent() {
                                             }
                                           >
                                             {
-                                              "“Dedication to adopting the latest technological solutions enables us to understand the needs of entrepreneurs and corporations whose core business is – technology.”"
+                                              "“Practical assignments helped me connect what I had studied with how a website actually works. Building small projects gave me a chance to apply each concept and revisit mistakes. This kind of practical internship training made the learning process clearer and more useful to me.”"
                                             }
                                           </div>
                                           <div className={"pxl-item--holder"}>
@@ -173,14 +173,14 @@ export default function PageContent() {
                                                 "pxl-item--title el-empty"
                                               }
                                             >
-                                              {"Albert Flores"}
+                                              {"Priya Sharma"}
                                             </h4>
                                             <div
                                               className={
                                                 "pxl-item--position el-empty"
                                               }
                                             >
-                                              {"CEO of Data group"}
+                                              {"Web Development Intern"}
                                             </div>
                                           </div>
                                         </div>
@@ -223,7 +223,7 @@ export default function PageContent() {
                                             }
                                           >
                                             {
-                                              "“The best customer service I've ever had. The themes and demos are by far the best and most modern around. Not being an IT expert, I naturally had questions about the installation.”"
+                                              "“I started with limited technical knowledge and needed help understanding frontend concepts. Having mentor guidance and support with doubts made it easier to work through the assignments. A beginner-friendly internship programme gave me room to practise, ask questions and build my understanding step by step.”"
                                             }
                                           </div>
                                           <div className={"pxl-item--holder"}>
@@ -232,14 +232,14 @@ export default function PageContent() {
                                                 "pxl-item--title el-empty"
                                               }
                                             >
-                                              {"Theresa Webb"}
+                                              {"Rahul Kumar"}
                                             </h4>
                                             <div
                                               className={
                                                 "pxl-item--position el-empty"
                                               }
                                             >
-                                              {"Leadership Group"}
+                                              {"Frontend Development Intern"}
                                             </div>
                                           </div>
                                         </div>
@@ -282,7 +282,7 @@ export default function PageContent() {
                                             }
                                           >
                                             {
-                                              "“Most designers live in some sort of alternate reality, creating unnecessary things for each other. Then they become trends.Our clients turn to Asri’s specialised divisions for personalised service.”"
+                                              "“I wanted a web development internship that included opportunities to build things. Working on website layouts and frontend projects helped me understand how different parts of a page fit together. The practical activities encouraged me to test ideas and learn from the changes I made.”"
                                             }
                                           </div>
                                           <div className={"pxl-item--holder"}>
@@ -291,14 +291,14 @@ export default function PageContent() {
                                                 "pxl-item--title el-empty"
                                               }
                                             >
-                                              {"Darlene Robertson"}
+                                              {"Ananya Singh"}
                                             </h4>
                                             <div
                                               className={
                                                 "pxl-item--position el-empty"
                                               }
                                             >
-                                              {"Senior Director"}
+                                              {"Web Development Intern"}
                                             </div>
                                           </div>
                                         </div>
@@ -341,7 +341,7 @@ export default function PageContent() {
                                             }
                                           >
                                             {
-                                              "“Dedication to adopting the latest technological solutions enables us to understand the needs of entrepreneurs and corporations whose core business is – technology.”"
+                                              "“As a graduation student, I wanted practical exposure alongside my academic studies. Working through internship assignments required me to plan my study time carefully. Exploring frontend and backend concepts through projects helped me connect classroom topics with practical tasks and understand where I needed more practice.”"
                                             }
                                           </div>
                                           <div className={"pxl-item--holder"}>
@@ -350,14 +350,14 @@ export default function PageContent() {
                                                 "pxl-item--title el-empty"
                                               }
                                             >
-                                              {"Bessie Cooper"}
+                                              {"Aman Verma"}
                                             </h4>
                                             <div
                                               className={
                                                 "pxl-item--position el-empty"
                                               }
                                             >
-                                              {"Formar Manager"}
+                                              {"Full-Stack Development Intern"}
                                             </div>
                                           </div>
                                         </div>
@@ -400,7 +400,7 @@ export default function PageContent() {
                                             }
                                           >
                                             {
-                                              "“The best customer service I've ever had. The themes and demos are by far the best and most modern around. Not being an IT expert, I naturally had questions about the installation.”"
+                                              "“The full-stack development internship helped me explore how interfaces, APIs and databases work together. Technical assignments encouraged me to trace problems instead of guessing at solutions. Mentor support was useful when I got stuck, especially while connecting backend logic with what appeared on the screen.”"
                                             }
                                           </div>
                                           <div className={"pxl-item--holder"}>
@@ -409,14 +409,14 @@ export default function PageContent() {
                                                 "pxl-item--title el-empty"
                                               }
                                             >
-                                              {"Leslie Alexander"}
+                                              {"Neha Kumari"}
                                             </h4>
                                             <div
                                               className={
                                                 "pxl-item--position el-empty"
                                               }
                                             >
-                                              {"Senior Director"}
+                                              {"Full-Stack Development Intern"}
                                             </div>
                                           </div>
                                         </div>
@@ -459,7 +459,7 @@ export default function PageContent() {
                                             }
                                           >
                                             {
-                                              "“Most designers live in some sort of alternate reality, creating unnecessary things for each other. Then they become trends.Our clients turn to Asri’s specialised divisions for personalised service.”"
+                                              "“I was interested in digital marketing but wanted to understand how the concepts could be applied. The internship assignments gave me opportunities to explore online promotion and digital communication. Working through practical activities helped me develop my skills and think more carefully about the intended audience.”"
                                             }
                                           </div>
                                           <div className={"pxl-item--holder"}>
@@ -468,14 +468,14 @@ export default function PageContent() {
                                                 "pxl-item--title el-empty"
                                               }
                                             >
-                                              {"Darrell Steward"}
+                                              {"Aditya Raj"}
                                             </h4>
                                             <div
                                               className={
                                                 "pxl-item--position el-empty"
                                               }
                                             >
-                                              {"Formar Manager"}
+                                              {"Digital Marketing Intern"}
                                             </div>
                                           </div>
                                         </div>

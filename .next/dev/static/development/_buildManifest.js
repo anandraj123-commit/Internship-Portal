@@ -5,14 +5,14 @@ self.__BUILD_MANIFEST = {
   "/about-us": [
     "static/chunks/pages/about-us.js"
   ],
-  "/contact-us": [
-    "static/chunks/pages/contact-us.js"
-  ],
-  "/faqs": [
-    "static/chunks/pages/faqs.js"
+  "/blog": [
+    "static/chunks/pages/blog.js"
   ],
   "/service": [
     "static/chunks/pages/service.js"
+  ],
+  "/service/[slug]": [
+    "static/chunks/pages/service/[slug].js"
   ],
   "/testimonial": [
     "static/chunks/pages/testimonial.js"

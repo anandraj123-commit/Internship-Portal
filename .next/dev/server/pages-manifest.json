@@ -3,8 +3,8 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/about-us": "pages/about-us.js",
-  "/contact-us": "pages/contact-us.js",
-  "/faqs": "pages/faqs.js",
+  "/blog": "pages/blog.js",
   "/service": "pages/service.js",
+  "/service/[slug]": "pages/service/[slug].js",
   "/testimonial": "pages/testimonial.js"
 }
