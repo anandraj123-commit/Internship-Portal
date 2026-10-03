@@ -72,7 +72,7 @@ export default function FunFactsSection() {
                                 data-wow-delay={"ms"}
                               >
                                 {
-                                  "\n\t\t\t\t\t\t\tCompany Funfacts\t\n\t\t\t\t\n\t\t"
+                                  "\n\t\t\t\t\t\t\tWho Can Apply?\t\n\t\t\t\t\n\t\t"
                                 }
                               </h3>
                             </div>
@@ -95,7 +95,7 @@ export default function FunFactsSection() {
                               data-wow-delay={"ms"}
                             >
                               {
-                                "\n\t\tHelping families live intelligently means we’re always working to bring our customers the latest technology. As one of the premier providers of smart home technology, we are recognized throughout the industry for our products.\t\t\n\t"
+                                "\n\t\tStudents from technical and non-technical backgrounds can apply, including B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.\t\t\n\t"
                               }
                             </div>
                           </div>

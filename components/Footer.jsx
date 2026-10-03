@@ -54,7 +54,7 @@ export default function Footer() {
         <div className={styles.grid}>
           <section className={styles.company} aria-label="Company details">
             <h2>Radhika SkillForge</h2>
-            <p className={styles.parentCompany}><strong>Parent Company:</strong> Apurva Software Solutions</p>
+            <p className={styles.parentCompany}><strong>An initiative of</strong> Apurva Software Solutions</p>
             <address>
               <p>Veer Kuwar Singh Colony</p>
               <p>Gaya, Bihar</p>
@@ -76,7 +76,7 @@ export default function Footer() {
           <FooterLinks title="Our Services" links={services} />
           <section className={styles.newsletter} aria-labelledby="footer-newsletter-title">
             <h3 id="footer-newsletter-title">Stay Ahead with Radhika SkillForge</h3>
-            <p>Subscribe to receive the latest updates on software development, PWA solutions, SPA performance, and digital innovation.</p>
+            <p>Receive updates on internship opportunities, practical training, mentor guidance and project-based learning.</p>
             <form onSubmit={handleSubscribe} style={{background:'white'}}>
               <label className={styles.srOnly} htmlFor="footer-email">Your email address</label>
               <input id="footer-email" type="email" name="email" autoComplete="email" required placeholder="Your Email" aria-describedby={message ? "footer-newsletter-message" : undefined} />
@@ -86,10 +86,10 @@ export default function Footer() {
           </section>
         </div>
         <div className={`${styles.divider} ${styles.expertise}`}>
-          <p><strong>Expertise:</strong> Software Development Company in India • Custom Software Development Services • Enterprise Software Solutions • Scalable Software Development • Cost-Effective Software Solutions • Agile Software Development • End-to-End Software Development • Secure Software Development • Software Development for Startups • PWA Development • SPA Development • Cloud Solutions • Mobile App Development • Web Application Development • React.js Development • Angular Development • Next.js Development • Node.js Backend Development • MongoDB &amp; MySQL Database Solutions • MERN &amp; MEAN Stack Development • Microservices Architecture • API Development Services • UI/UX Design • SEO-Friendly Development • Digital Transformation Services</p>
+          <p><strong>Expertise:</strong> Web Development • Frontend Development • Backend Development • Full-Stack Development • Mobile Application Development • Digital Marketing • Other IT and technology-related fields</p>
         </div>
         <div className={styles.divider}>
-          <p><strong>Why Choose Radhika SkillForge:</strong> Trusted Software Development Company in India • Pan-India Software Development Services • Serving Clients Across India • Software Development Company Based in Gaya, Bihar • Reliable IT Partner for Startups &amp; MSMEs • Affordable Software Development Services in India • Startup-Friendly Development Approach • Scalable Software Architecture • Secure &amp; Robust Application Development • Performance-Optimized Web Applications • Mobile-First &amp; Responsive Design • Custom Business Applications • Cloud-Based Application Development • Full Stack Development Services • Software Maintenance &amp; Support • Digital Transformation Services</p>
+          <p><strong>Why Choose Radhika SkillForge:</strong> Practical and Industry-Focused Training: Gain practical knowledge through structured learning, assignments and project-based activities. • Mentor Guidance and Doubt Support: Receive guidance and support from mentors throughout the applicable training or internship programme. • Assignments and Project-Based Learning: Work on practical assignments and projects designed to strengthen your skills and understanding. • Internship Completion Certificate: Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate. • Academic Internship Support: Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements. • Suitable for Beginners: Students can explore suitable domains even if they are at the beginning of their technical learning journey. • Online Participation: Online participation is available for students across India.</p>
         </div>
         <div className={`${styles.divider} ${styles.copyright}`}>
           <p>© {new Date().getFullYear()} Radhika SkillForge. All rights reserved.</p>

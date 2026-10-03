@@ -476,7 +476,7 @@ function HeroSection() {
                                                                                                     zIndex: "7",
                                                                                                     fontFamily: "'Lato'"
                                                                                                 },
-                                                                                                children: "Our proven, technical SEO will drive more organic traffic to your website and help you consequently increase your sales. \n\t\t\t\t\t\t\t\t"
+                                                                                                children: "Welcome to the Internship Programme offered by Radhika SkillForge – Placement & Training Institute, an initiative of Apurva Software Solutions. \n\t\t\t\t\t\t\t\t"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                 lineNumber: 352,
@@ -500,7 +500,7 @@ function HeroSection() {
                                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                                     className: "text-gradient-top",
                                                                                                     children: [
-                                                                                                        "Grow Busines",
+                                                                                                        "Internship",
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                             className: "text-box-gradient",
                                                                                                             children: "s"
@@ -514,14 +514,14 @@ function HeroSection() {
                                                                                                             lineNumber: 403,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
-                                                                                                        "\nRevenue ",
+                                                                                                        "\nProgramme ",
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                             className: "text-gradient",
                                                                                                             style: {
                                                                                                                 "--gradient-color-from": "var(--brand-color)",
                                                                                                                 "--gradient-color-to": "var(--brand-color)"
                                                                                                             },
-                                                                                                            children: "Today"
+                                                                                                            children: "with Us"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                             lineNumber: 405,
@@ -849,7 +849,7 @@ function HeroSection() {
                                                                                                     zIndex: "7",
                                                                                                     fontFamily: "'Lato'"
                                                                                                 },
-                                                                                                children: "Our proven, technical SEO will drive more organic traffic to your website and help you consequently increase your sales. \n\t\t\t\t\t\t\t\t"
+                                                                                                children: "Structured training, assignments and projects for students from technical and non-technical backgrounds. \n\t\t\t\t\t\t\t\t"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                 lineNumber: 618,
@@ -873,7 +873,7 @@ function HeroSection() {
                                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                                     className: "text-gradient-top",
                                                                                                     children: [
-                                                                                                        "Grow Financ",
+                                                                                                        "Learn Onlin",
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                             className: "text-box-gradient",
                                                                                                             children: "e"
@@ -887,14 +887,14 @@ function HeroSection() {
                                                                                                             lineNumber: 669,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
-                                                                                                        "\nRevenue ",
+                                                                                                        "\nProgramme ",
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                             className: "text-gradient",
                                                                                                             style: {
                                                                                                                 "--gradient-color-from": "var(--brand-color)",
                                                                                                                 "--gradient-color-to": "var(--brand-color)"
                                                                                                             },
-                                                                                                            children: "Today"
+                                                                                                            children: "with Us"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                             lineNumber: 671,
@@ -1222,7 +1222,7 @@ function HeroSection() {
                                                                                                     zIndex: "7",
                                                                                                     fontFamily: "'Lato'"
                                                                                                 },
-                                                                                                children: "Our proven, technical SEO will drive more organic traffic to your website and help you consequently increase your sales. \n\t\t\t\t\t\t\t\t"
+                                                                                                children: "Build relevant skills with mentor guidance, doubt support and internship-oriented experience. \n\t\t\t\t\t\t\t\t"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                 lineNumber: 884,
@@ -1246,7 +1246,7 @@ function HeroSection() {
                                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                                     className: "text-gradient-top",
                                                                                                     children: [
-                                                                                                        "Grow Analytic",
+                                                                                                        "Build Skill",
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                             className: "text-box-gradient",
                                                                                                             children: "s"
@@ -1260,14 +1260,14 @@ function HeroSection() {
                                                                                                             lineNumber: 935,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
-                                                                                                        "\nRevenue ",
+                                                                                                        "\nProgramme ",
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                             className: "text-gradient",
                                                                                                             style: {
                                                                                                                 "--gradient-color-from": "var(--brand-color)",
                                                                                                                 "--gradient-color-to": "var(--brand-color)"
                                                                                                             },
-                                                                                                            children: "Today"
+                                                                                                            children: "with Us"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                             lineNumber: 937,
@@ -1595,7 +1595,7 @@ function HeroSection() {
                                                                                                     zIndex: "7",
                                                                                                     fontFamily: "'Lato'"
                                                                                                 },
-                                                                                                children: "Our proven, technical SEO will drive more organic traffic to your website and help you consequently increase your sales. \n\t\t\t\t\t\t\t\t"
+                                                                                                children: "Online participation is available for students across India, including beginners exploring suitable domains. \n\t\t\t\t\t\t\t\t"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                 lineNumber: 1150,
@@ -1619,7 +1619,7 @@ function HeroSection() {
                                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                                     className: "text-gradient-top",
                                                                                                     children: [
-                                                                                                        "AI & Robotic",
+                                                                                                        "Explore Domain",
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                             className: "text-box-gradient",
                                                                                                             children: "s"
@@ -1633,14 +1633,14 @@ function HeroSection() {
                                                                                                             lineNumber: 1201,
                                                                                                             columnNumber: 43
                                                                                                         }, this),
-                                                                                                        "\nRevenue ",
+                                                                                                        "\nProgramme ",
                                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                                             className: "text-gradient",
                                                                                                             style: {
                                                                                                                 "--gradient-color-from": "var(--brand-color)",
                                                                                                                 "--gradient-color-to": "var(--brand-color)"
                                                                                                             },
-                                                                                                            children: "Today"
+                                                                                                            children: "with Us"
                                                                                                         }, void 0, false, {
                                                                                                             fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                             lineNumber: 1203,

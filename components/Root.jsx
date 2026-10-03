@@ -14,7 +14,7 @@ export default function Root({
   children,
   pageKey,
   Styles,
-  title = "Radhika SkillForge",
+  title = "Radhika SkillForge – Placement & Training Institute",
 }) {
   return (
     <>

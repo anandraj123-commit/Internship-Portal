@@ -85,7 +85,7 @@ function CaseStudiesSection() {
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                             className: "pxl-widget--title pxl-empty ",
-                                                            children: "Case Studies"
+                                                            children: "Internship Domains"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/home/CaseStudiesSection.jsx",
                                                             lineNumber: 55,
@@ -93,7 +93,7 @@ function CaseStudiesSection() {
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "pxl-widget--desc pxl-empty",
-                                                            children: "We’re in the business of helping companies grow. Here is some of our work."
+                                                            children: "Explore suitable domains based on your interests and eligibility. Other IT-Related Fields: students may also explore other available technology and IT-related domains."
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/home/CaseStudiesSection.jsx",
                                                             lineNumber: 58,
@@ -106,7 +106,7 @@ function CaseStudiesSection() {
                                                                 href: "portfolio/index.html",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     className: "pxl--btn-text",
-                                                                    children: "Case Studies"
+                                                                    children: "Internship Domains"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/home/CaseStudiesSection.jsx",
                                                                     lineNumber: 70,
@@ -149,7 +149,7 @@ function CaseStudiesSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                                     className: "pxl-post--title pxl-empty",
-                                                                                    children: "Marketing Advisor"
+                                                                                    children: "Web Development"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/CaseStudiesSection.jsx",
                                                                                     lineNumber: 84,
@@ -361,7 +361,7 @@ function CaseStudiesSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                                     className: "pxl-post--title pxl-empty",
-                                                                                    children: "SEO Optimization"
+                                                                                    children: "Frontend Development"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/CaseStudiesSection.jsx",
                                                                                     lineNumber: 205,
@@ -573,7 +573,7 @@ function CaseStudiesSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                                     className: "pxl-post--title pxl-empty",
-                                                                                    children: "Business Growth"
+                                                                                    children: "Backend Development"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/CaseStudiesSection.jsx",
                                                                                     lineNumber: 326,
@@ -785,7 +785,7 @@ function CaseStudiesSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                                     className: "pxl-post--title pxl-empty",
-                                                                                    children: "Digital Analysis"
+                                                                                    children: "Full-Stack Development"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/CaseStudiesSection.jsx",
                                                                                     lineNumber: 447,
@@ -997,7 +997,7 @@ function CaseStudiesSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                                     className: "pxl-post--title pxl-empty",
-                                                                                    children: "Data Analytics"
+                                                                                    children: "Mobile Application Development"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/CaseStudiesSection.jsx",
                                                                                     lineNumber: 568,
@@ -1209,7 +1209,7 @@ function CaseStudiesSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                                     className: "pxl-post--title pxl-empty",
-                                                                                    children: "Graphics Design"
+                                                                                    children: "Digital Marketing"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/CaseStudiesSection.jsx",
                                                                                     lineNumber: 689,

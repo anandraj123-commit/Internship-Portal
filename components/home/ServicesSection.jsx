@@ -45,7 +45,7 @@ export default function ServicesSection() {
                         data-wow-delay={"ms"}
                       >
                         <span className={"pxl-item--subtext"}>
-                          {"\n\t\t\t\t\t\t\t\t\t\tWe are Radhika SkillForge\t\t\t\t"}
+                          {"\n\t\t\t\t\t\t\t\t\t\tAbout Radhika SkillForge\t\t\t\t"}
                         </span>
                       </div>
                       <h3
@@ -55,10 +55,10 @@ export default function ServicesSection() {
                         data-wow-delay={"ms"}
                       >
                         {
-                          "\n\t\t\t\t\t\t\tWe want to give you the best              "
+                          "\n\t\t\t\t\t\t\tPlacement & Training              "
                         }
                         <span className={"pxl-title--highlight "}>
-                          {"\n                service            "}
+                          {"\n                Institute            "}
                         </span>
                       </h3>
                     </div>
@@ -107,7 +107,7 @@ export default function ServicesSection() {
                               data-wow-delay={"ms"}
                             >
                               {
-                                "\n\t\tOur team has deep expertise across all areas of digital. Need a deep dive on how to set up event tracking for a complex lead process? Want to optimize your sales pipeline.\t\t\n\t"
+                                "\n\t\tRadhika SkillForge – Placement & Training Institute is an initiative of Apurva Software Solutions, focused on providing students with structured training, practical learning, mentorship and internship-oriented experience. The programme helps students develop relevant skills, work on practical assignments and projects, and gain exposure that can complement their academic education.\t\t\n\t"
                               }
                             </div>
                           </div>
@@ -136,7 +136,7 @@ export default function ServicesSection() {
                                   ></i>
                                 </div>
                                 <h5 className={"pxl-item--title el-empty"}>
-                                  {"Best planning"}
+                                  {"Practical learning"}
                                 </h5>
                               </div>
                               <div
@@ -170,7 +170,7 @@ export default function ServicesSection() {
                                   ></i>
                                 </div>
                                 <h5 className={"pxl-item--title el-empty"}>
-                                  {"Money back"}
+                                  {"Mentor guidance"}
                                 </h5>
                               </div>
                               <div
@@ -237,7 +237,7 @@ export default function ServicesSection() {
                                     "pxl--title pxl-flex-grow el-empty pxl-mr-20"
                                   }
                                 >
-                                  {"Busiess Skill"}
+                                  {"Skill Development"}
                                 </h5>
                                 <div className={"pxl--percentage"}>{"95%"}</div>
                               </div>
@@ -256,7 +256,7 @@ export default function ServicesSection() {
                                     "pxl--title pxl-flex-grow el-empty pxl-mr-20"
                                   }
                                 >
-                                  {"Customer Service"}
+                                  {"Academic Support"}
                                 </h5>
                                 <div className={"pxl--percentage"}>{"80%"}</div>
                               </div>

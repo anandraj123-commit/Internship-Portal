@@ -59,7 +59,7 @@ export default function PageTitle() {
                             }
                             data-wow-delay={"ms"}
                           >
-                            {"\n\t\t\t\t\t\t\tJob Apply\t\n\t\t\t\t\n\t\t"}
+                            {"\n\t\t\t\t\t\t\tInternship Application\t\n\t\t\t\t\n\t\t"}
                           </h1>
                         </div>
                       </div>
@@ -85,7 +85,7 @@ export default function PageTitle() {
                           </li>
                           <li>
                             <span className={"breadcrumb-entry"}>
-                              {"Job Apply"}
+                              {"Internship Application"}
                             </span>
                           </li>
                         </ul>

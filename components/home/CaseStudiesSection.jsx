@@ -53,11 +53,11 @@ export default function CaseStudiesSection() {
                     <div className={"pxl-post-content pxl-pr-30"}>
                       <div className={"pxl-content--inner"}>
                         <h3 className={"pxl-widget--title pxl-empty "}>
-                          {"Case Studies"}
+                          {"Internship Domains"}
                         </h3>
                         <div className={"pxl-widget--desc pxl-empty"}>
                           {
-                            "We’re in the business of helping companies grow. Here is some of our work."
+                            "Explore suitable domains based on your interests and eligibility. Other IT-Related Fields: students may also explore other available technology and IT-related domains."
                           }
                         </div>
                         <div className={"pxl-widget--button"}>
@@ -68,7 +68,7 @@ export default function CaseStudiesSection() {
                             href={"portfolio/index.html"}
                           >
                             <span className={"pxl--btn-text"}>
-                              {"Case Studies"}
+                              {"Internship Domains"}
                             </span>
                           </a>
                         </div>
@@ -82,7 +82,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_1"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"Marketing Advisor"}
+                                {"Web Development"}
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -203,7 +203,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_2"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"SEO Optimization"}
+                                {"Frontend Development"}
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -324,7 +324,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_3"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"Business Growth"}
+                                {"Backend Development"}
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -445,7 +445,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_4"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"Digital Analysis"}
+                                {"Full-Stack Development"}
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -566,7 +566,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_5"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"Data Analytics"}
+                                {"Mobile Application Development"}
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -687,7 +687,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_6"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"Graphics Design"}
+                                {"Digital Marketing"}
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}

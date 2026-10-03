@@ -70,7 +70,7 @@ export default function PageContent() {
                                         data-wow-delay={"ms"}
                                       >
                                         {
-                                          "\n\t\t\t\t\t\t\tApply for This Job\t\n\t\t\t\t\n\t\t"
+                                          "\n\t\t\t\t\t\t\tApply for an Internship\t\n\t\t\t\t\n\t\t"
                                         }
                                       </h3>
                                     </div>
@@ -93,7 +93,7 @@ export default function PageContent() {
                                       data-wow-delay={"ms"}
                                     >
                                       {
-                                        "\n\t\tWe can partner with you to design and implement a scalable integrated security solution that addresses your toughest security challenges.\t\t\n\t"
+                                        "\n\t\tWelcome to the Internship Programme offered by Radhika SkillForge – Placement & Training Institute, an initiative of Apurva Software Solutions. This programme is designed for graduation students from both technical and non-technical backgrounds. Students from B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams can explore suitable internship and training opportunities based on their interests and eligibility. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.\t\t\n\t"
                                       }
                                     </div>
                                   </div>

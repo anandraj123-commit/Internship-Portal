@@ -74,7 +74,7 @@ export default function ServicesSection() {
                                 data-wow-delay={"ms"}
                               >
                                 {
-                                  "\n\t\t\t\t\t\t\tServices We’re Offering\t\n\t\t\t\t\n\t\t"
+                                  "\n\t\t\t\t\t\t\tInternship Domains\t\n\t\t\t\t\n\t\t"
                                 }
                               </h3>
                             </div>
@@ -113,7 +113,7 @@ export default function ServicesSection() {
                             >
                               <p>
                                 {
-                                  "Radhika SkillForge is based in Gaya, Bihar, with Apurva Software Solutions as its parent company. We provide software development and digital services."
+                                  "Radhika SkillForge – Placement & Training Institute is an initiative of Apurva Software Solutions, focused on providing students with structured training, practical learning, mentorship and internship-oriented experience. Other IT-Related Fields: students may also explore other available technology and IT-related domains."
                                 }
                               </p>
                             </div>
@@ -167,12 +167,12 @@ export default function ServicesSection() {
                               </div>
                               <h3 className={"pxl-post--title"}>
                                 <a href={"/service/we-mobile-development"}>
-                                  {"We & Mobile Development"}
+                                  {"Web Development"}
                                 </a>
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in…                                    "
+                                  "\n                                        Learn the fundamentals of website and web application development.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>
@@ -209,12 +209,12 @@ export default function ServicesSection() {
                               </div>
                               <h3 className={"pxl-post--title"}>
                                 <a href={"/service/motion-branding-design"}>
-                                  {"Motion & Branding Design"}
+                                  {"Frontend Development"}
                                 </a>
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in…                                    "
+                                  "\n                                        Develop skills for creating responsive and user-friendly web interfaces.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>
@@ -251,12 +251,12 @@ export default function ServicesSection() {
                               </div>
                               <h3 className={"pxl-post--title"}>
                                 <a href={"/service/international-seo-services"}>
-                                  {"International SEO Services"}
+                                  {"Backend Development"}
                                 </a>
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in…                                    "
+                                  "\n                                        Learn server-side development, databases, APIs and application logic.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>
@@ -293,12 +293,12 @@ export default function ServicesSection() {
                               </div>
                               <h3 className={"pxl-post--title"}>
                                 <a href={"/service/ui-ux-product-design"}>
-                                  {"UI/UX & Product Design"}
+                                  {"Full-Stack Development"}
                                 </a>
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in…                                    "
+                                  "\n                                        Explore both frontend and backend development through practical learning and projects.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>
@@ -335,12 +335,12 @@ export default function ServicesSection() {
                               </div>
                               <h3 className={"pxl-post--title"}>
                                 <a href={"/service/mobile-application-design"}>
-                                  {"Mobile Application Design"}
+                                  {"Mobile Application Development"}
                                 </a>
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in…                                    "
+                                  "\n                                        Learn concepts and practical skills related to mobile application development.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>
@@ -377,12 +377,12 @@ export default function ServicesSection() {
                               </div>
                               <h3 className={"pxl-post--title"}>
                                 <a href={"/service/branding-and-illustration"}>
-                                  {"Branding and Illustration"}
+                                  {"Digital Marketing"}
                                 </a>
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine. Turpis ultricies diam libero in…                                    "
+                                  "\n                                        Explore digital marketing concepts, online promotion and digital communication.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>

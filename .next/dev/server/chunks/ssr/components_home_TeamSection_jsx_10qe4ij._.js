@@ -60,7 +60,7 @@ function TeamSection() {
                                                                         "data-wow-delay": "ms",
                                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                             className: "pxl-item--subtext",
-                                                                            children: "\n\t\t\t\t\t\t\t\t\t\tTeam\t\t\t\t"
+                                                                            children: "\n\t\t\t\t\t\t\t\t\t\tProgramme Benefits\t\t\t\t"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/home/TeamSection.jsx",
                                                                             lineNumber: 74,
@@ -75,10 +75,10 @@ function TeamSection() {
                                                                         className: "pxl-item--title style-default highlight-text-gradient ",
                                                                         "data-wow-delay": "ms",
                                                                         children: [
-                                                                            "\n\t\t\t\t\t\t\tOur Expert             ",
+                                                                            "\n\t\t\t\t\t\t\tTraining & Learning             ",
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                                 className: "pxl-title--highlight ",
-                                                                                children: "\n                Team            "
+                                                                                children: "\n                Approach            "
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                 lineNumber: 85,
@@ -142,7 +142,7 @@ function TeamSection() {
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                     className: "pxl-item--inner ",
                                                                     "data-wow-delay": "ms",
-                                                                    children: "\n\t\tOur team has deep expertise across all areas of digital. Need a deep dive on how to set up event tracking.\t\t\n\t"
+                                                                    children: "\n\t\tPractical learning, mentor guidance, assignments, project-based learning, skill development, internship-oriented experience, academic internship support and beginner-friendly learning.\t\t\n\t"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                     lineNumber: 119,
@@ -313,7 +313,7 @@ function TeamSection() {
                                                                             className: "pxl-item--holder",
                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                 className: "pxl-item--title",
-                                                                                children: "    \n                                            Nina Tapak                                        "
+                                                                                children: "    \n                                            Practical and Industry-Focused Training                                        "
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                 lineNumber: 211,
@@ -329,7 +329,7 @@ function TeamSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                     className: "pxl-item--title",
-                                                                                    children: "    \n                                            Nina Tapak                                        "
+                                                                                    children: "    \n                                            Practical and Industry-Focused Training                                        "
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 218,
@@ -337,7 +337,7 @@ function TeamSection() {
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-item--position",
-                                                                                    children: "Founder CEO"
+                                                                                    children: "Practical learning"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 223,
@@ -467,7 +467,7 @@ function TeamSection() {
                                                                             className: "pxl-item--holder",
                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                 className: "pxl-item--title",
-                                                                                children: "    \n                                            Katie Hanna                                         "
+                                                                                children: "    \n                                            Mentor Guidance and Doubt Support                                         "
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                 lineNumber: 265,
@@ -483,7 +483,7 @@ function TeamSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                     className: "pxl-item--title",
-                                                                                    children: "    \n                                            Katie Hanna                                         "
+                                                                                    children: "    \n                                            Mentor Guidance and Doubt Support                                         "
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 272,
@@ -491,7 +491,7 @@ function TeamSection() {
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-item--position",
-                                                                                    children: "Managing Director"
+                                                                                    children: "Mentor guidance"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 277,
@@ -621,7 +621,7 @@ function TeamSection() {
                                                                             className: "pxl-item--holder",
                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                 className: "pxl-item--title",
-                                                                                children: "    \n                                            Omi Tamak                                        "
+                                                                                children: "    \n                                            Assignments and Project-Based Learning                                        "
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                 lineNumber: 319,
@@ -637,7 +637,7 @@ function TeamSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                     className: "pxl-item--title",
-                                                                                    children: "    \n                                            Omi Tamak                                        "
+                                                                                    children: "    \n                                            Assignments and Project-Based Learning                                        "
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 326,
@@ -645,7 +645,7 @@ function TeamSection() {
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-item--position",
-                                                                                    children: "Senior Consultant"
+                                                                                    children: "Skill development"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 331,
@@ -775,7 +775,7 @@ function TeamSection() {
                                                                             className: "pxl-item--holder",
                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                 className: "pxl-item--title",
-                                                                                children: "    \n                                            Jacob Jones                                        "
+                                                                                children: "    \n                                            Internship Completion Certificate                                        "
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                 lineNumber: 373,
@@ -791,7 +791,7 @@ function TeamSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                     className: "pxl-item--title",
-                                                                                    children: "    \n                                            Jacob Jones                                        "
+                                                                                    children: "    \n                                            Internship Completion Certificate                                        "
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 380,
@@ -799,7 +799,7 @@ function TeamSection() {
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-item--position",
-                                                                                    children: "Managing Director"
+                                                                                    children: "Mentor guidance"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 385,
@@ -929,7 +929,7 @@ function TeamSection() {
                                                                             className: "pxl-item--holder",
                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                 className: "pxl-item--title",
-                                                                                children: "    \n                                            Wade Warren                                        "
+                                                                                children: "    \n                                            Academic Internship Support                                        "
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                 lineNumber: 427,
@@ -945,7 +945,7 @@ function TeamSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                     className: "pxl-item--title",
-                                                                                    children: "    \n                                            Wade Warren                                        "
+                                                                                    children: "    \n                                            Academic Internship Support                                        "
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 434,
@@ -953,7 +953,7 @@ function TeamSection() {
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-item--position",
-                                                                                    children: "Managing Director"
+                                                                                    children: "Mentor guidance"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 439,
@@ -1083,7 +1083,7 @@ function TeamSection() {
                                                                             className: "pxl-item--holder",
                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                 className: "pxl-item--title",
-                                                                                children: "    \n                                            Ronald Richard                                        "
+                                                                                children: "    \n                                            Suitable for Beginners                                        "
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                 lineNumber: 481,
@@ -1099,7 +1099,7 @@ function TeamSection() {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h5", {
                                                                                     className: "pxl-item--title",
-                                                                                    children: "    \n                                            Ronald Richard                                        "
+                                                                                    children: "    \n                                            Suitable for Beginners                                        "
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 488,
@@ -1107,7 +1107,7 @@ function TeamSection() {
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-item--position",
-                                                                                    children: "Leadership Team"
+                                                                                    children: "Beginner-friendly learning"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
                                                                                     lineNumber: 493,

@@ -157,7 +157,7 @@ export default function IntroductionSection() {
                                 data-wow-delay={"ms"}
                               >
                                 {
-                                  "\n\t\t\t\t\t\t\tWe believe in effective marketing that has real impact on the growth of traffic & increase of sales.\t\n\t\t\t\t\n\t\t"
+                                  "\n\t\t\t\t\t\t\tAbout Radhika SkillForge – Placement & Training Institute\t\n\t\t\t\t\n\t\t"
                                 }
                               </h3>
                             </div>
@@ -206,7 +206,7 @@ export default function IntroductionSection() {
                                       data-wow-delay={"ms"}
                                     >
                                       {
-                                        "\n\t\tOur team has deep expertise across all areas of digital. Need a deep dive on how to set up event tracking for a complex lead process? Want to optimize your sales pipeline using automations? We’ve got you covered. With a dedicated account manager, our clients have one go-to contact who interfaces with 500+ subject-matter experts to drive campaign results.\n\n\t\t\n\t"
+                                        "\n\t\tRadhika SkillForge – Placement & Training Institute is an initiative of Apurva Software Solutions, focused on providing students with structured training, practical learning, mentorship and internship-oriented experience. The programme is intended to help students develop relevant skills, work on practical assignments and projects, and gain exposure that can complement their academic education.\n\n\t\t\n\t"
                                       }
                                     </div>
                                   </div>
@@ -382,9 +382,9 @@ export default function IntroductionSection() {
                                         <h5
                                           className={"pxl-item--title el-empty"}
                                         >
-                                          {"High-Quality "}
+                                          {"Practical "}
                                           <br />
-                                          {"Content"}
+                                          {"Learning"}
                                         </h5>
                                       </div>
                                       <div
@@ -447,9 +447,9 @@ export default function IntroductionSection() {
                                         <h5
                                           className={"pxl-item--title el-empty"}
                                         >
-                                          {"Full-Funnel "}
+                                          {"Mentor "}
                                           <br />
-                                          {"Solution"}
+                                          {"Guidance"}
                                         </h5>
                                       </div>
                                       <div
@@ -512,9 +512,9 @@ export default function IntroductionSection() {
                                         <h5
                                           className={"pxl-item--title el-empty"}
                                         >
-                                          {"Money Back "}
+                                          {"Academic "}
                                           <br />
-                                          {"Guarantee"}
+                                          {"Support"}
                                         </h5>
                                       </div>
                                       <div

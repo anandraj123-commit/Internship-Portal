@@ -72,7 +72,7 @@ export default function TeamSection() {
                                 data-wow-delay={"ms"}
                               >
                                 <span className={"pxl-item--subtext"}>
-                                  {"\n\t\t\t\t\t\t\t\t\t\tTeam\t\t\t\t"}
+                                  {"\n\t\t\t\t\t\t\t\t\t\tProgramme Benefits\t\t\t\t"}
                                 </span>
                               </div>
                               <h3
@@ -81,9 +81,9 @@ export default function TeamSection() {
                                 }
                                 data-wow-delay={"ms"}
                               >
-                                {"\n\t\t\t\t\t\t\tOur Expert             "}
+                                {"\n\t\t\t\t\t\t\tTraining & Learning             "}
                                 <span className={"pxl-title--highlight "}>
-                                  {"\n                Team            "}
+                                  {"\n                Approach            "}
                                 </span>
                               </h3>
                             </div>
@@ -121,7 +121,7 @@ export default function TeamSection() {
                               data-wow-delay={"ms"}
                             >
                               {
-                                "\n\t\tOur team has deep expertise across all areas of digital. Need a deep dive on how to set up event tracking.\t\t\n\t"
+                                "\n\t\tPractical learning, mentor guidance, assignments, project-based learning, skill development, internship-oriented experience, academic internship support and beginner-friendly learning.\t\t\n\t"
                               }
                             </div>
                           </div>
@@ -210,18 +210,18 @@ export default function TeamSection() {
                               <div className={"pxl-item--holder"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Nina Tapak                                        "
+                                    "    \n                                            Practical and Industry-Focused Training                                        "
                                   }
                                 </h5>
                               </div>
                               <div className={"pxl-item--backdrop"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Nina Tapak                                        "
+                                    "    \n                                            Practical and Industry-Focused Training                                        "
                                   }
                                 </h5>
                                 <div className={"pxl-item--position"}>
-                                  {"Founder CEO"}
+                                  {"Practical learning"}
                                 </div>
                                 <div className={"pxl-item--social"}>
                                   <a href={"/#"} target={"_blank"}>
@@ -264,18 +264,18 @@ export default function TeamSection() {
                               <div className={"pxl-item--holder"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Katie Hanna                                         "
+                                    "    \n                                            Mentor Guidance and Doubt Support                                         "
                                   }
                                 </h5>
                               </div>
                               <div className={"pxl-item--backdrop"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Katie Hanna                                         "
+                                    "    \n                                            Mentor Guidance and Doubt Support                                         "
                                   }
                                 </h5>
                                 <div className={"pxl-item--position"}>
-                                  {"Managing Director"}
+                                  {"Mentor guidance"}
                                 </div>
                                 <div className={"pxl-item--social"}>
                                   <a href={"/#"} target={"_blank"}>
@@ -318,18 +318,18 @@ export default function TeamSection() {
                               <div className={"pxl-item--holder"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Omi Tamak                                        "
+                                    "    \n                                            Assignments and Project-Based Learning                                        "
                                   }
                                 </h5>
                               </div>
                               <div className={"pxl-item--backdrop"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Omi Tamak                                        "
+                                    "    \n                                            Assignments and Project-Based Learning                                        "
                                   }
                                 </h5>
                                 <div className={"pxl-item--position"}>
-                                  {"Senior Consultant"}
+                                  {"Skill development"}
                                 </div>
                                 <div className={"pxl-item--social"}>
                                   <a href={"/#"} target={"_blank"}>
@@ -372,18 +372,18 @@ export default function TeamSection() {
                               <div className={"pxl-item--holder"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Jacob Jones                                        "
+                                    "    \n                                            Internship Completion Certificate                                        "
                                   }
                                 </h5>
                               </div>
                               <div className={"pxl-item--backdrop"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Jacob Jones                                        "
+                                    "    \n                                            Internship Completion Certificate                                        "
                                   }
                                 </h5>
                                 <div className={"pxl-item--position"}>
-                                  {"Managing Director"}
+                                  {"Mentor guidance"}
                                 </div>
                                 <div className={"pxl-item--social"}>
                                   <a href={"/#"} target={"_blank"}>
@@ -426,18 +426,18 @@ export default function TeamSection() {
                               <div className={"pxl-item--holder"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Wade Warren                                        "
+                                    "    \n                                            Academic Internship Support                                        "
                                   }
                                 </h5>
                               </div>
                               <div className={"pxl-item--backdrop"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Wade Warren                                        "
+                                    "    \n                                            Academic Internship Support                                        "
                                   }
                                 </h5>
                                 <div className={"pxl-item--position"}>
-                                  {"Managing Director"}
+                                  {"Mentor guidance"}
                                 </div>
                                 <div className={"pxl-item--social"}>
                                   <a href={"/#"} target={"_blank"}>
@@ -480,18 +480,18 @@ export default function TeamSection() {
                               <div className={"pxl-item--holder"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Ronald Richard                                        "
+                                    "    \n                                            Suitable for Beginners                                        "
                                   }
                                 </h5>
                               </div>
                               <div className={"pxl-item--backdrop"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Ronald Richard                                        "
+                                    "    \n                                            Suitable for Beginners                                        "
                                   }
                                 </h5>
                                 <div className={"pxl-item--position"}>
-                                  {"Leadership Team"}
+                                  {"Beginner-friendly learning"}
                                 </div>
                                 <div className={"pxl-item--social"}>
                                   <a href={"/#"} target={"_blank"}>

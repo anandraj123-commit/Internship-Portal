@@ -372,7 +372,7 @@ export default function HeroSection() {
                                         }}
                                       >
                                         {
-                                          "Our proven, technical SEO will drive more organic traffic to your website and help you consequently increase your sales. \n\t\t\t\t\t\t\t\t"
+                                          "Welcome to the Internship Programme offered by Radhika SkillForge – Placement & Training Institute, an initiative of Apurva Software Solutions. \n\t\t\t\t\t\t\t\t"
                                         }
                                       </rs-layer>
                                       <rs-layer
@@ -396,12 +396,12 @@ export default function HeroSection() {
                                         }}
                                       >
                                         <div className={"text-gradient-top"}>
-                                          {"Grow Busines"}
+                                          {"Internship"}
                                           <span className={"text-box-gradient"}>
                                             {"s"}
                                           </span>
                                           <br />
-                                          {"\nRevenue "}
+                                          {"\nProgramme "}
                                           <span
                                             className={"text-gradient"}
                                             style={{
@@ -410,7 +410,7 @@ export default function HeroSection() {
                                               "--gradient-color-to": "var(--brand-color)",
                                             }}
                                           >
-                                            {"Today"}
+                                            {"with Us"}
                                           </span>
                                         </div>
                                       </rs-layer>
@@ -638,7 +638,7 @@ export default function HeroSection() {
                                         }}
                                       >
                                         {
-                                          "Our proven, technical SEO will drive more organic traffic to your website and help you consequently increase your sales. \n\t\t\t\t\t\t\t\t"
+                                          "Structured training, assignments and projects for students from technical and non-technical backgrounds. \n\t\t\t\t\t\t\t\t"
                                         }
                                       </rs-layer>
                                       <rs-layer
@@ -662,12 +662,12 @@ export default function HeroSection() {
                                         }}
                                       >
                                         <div className={"text-gradient-top"}>
-                                          {"Grow Financ"}
+                                          {"Learn Onlin"}
                                           <span className={"text-box-gradient"}>
                                             {"e"}
                                           </span>
                                           <br />
-                                          {"\nRevenue "}
+                                          {"\nProgramme "}
                                           <span
                                             className={"text-gradient"}
                                             style={{
@@ -676,7 +676,7 @@ export default function HeroSection() {
                                               "--gradient-color-to": "var(--brand-color)",
                                             }}
                                           >
-                                            {"Today"}
+                                            {"with Us"}
                                           </span>
                                         </div>
                                       </rs-layer>
@@ -904,7 +904,7 @@ export default function HeroSection() {
                                         }}
                                       >
                                         {
-                                          "Our proven, technical SEO will drive more organic traffic to your website and help you consequently increase your sales. \n\t\t\t\t\t\t\t\t"
+                                          "Build relevant skills with mentor guidance, doubt support and internship-oriented experience. \n\t\t\t\t\t\t\t\t"
                                         }
                                       </rs-layer>
                                       <rs-layer
@@ -928,12 +928,12 @@ export default function HeroSection() {
                                         }}
                                       >
                                         <div className={"text-gradient-top"}>
-                                          {"Grow Analytic"}
+                                          {"Build Skill"}
                                           <span className={"text-box-gradient"}>
                                             {"s"}
                                           </span>
                                           <br />
-                                          {"\nRevenue "}
+                                          {"\nProgramme "}
                                           <span
                                             className={"text-gradient"}
                                             style={{
@@ -942,7 +942,7 @@ export default function HeroSection() {
                                               "--gradient-color-to": "var(--brand-color)",
                                             }}
                                           >
-                                            {"Today"}
+                                            {"with Us"}
                                           </span>
                                         </div>
                                       </rs-layer>
@@ -1170,7 +1170,7 @@ export default function HeroSection() {
                                         }}
                                       >
                                         {
-                                          "Our proven, technical SEO will drive more organic traffic to your website and help you consequently increase your sales. \n\t\t\t\t\t\t\t\t"
+                                          "Online participation is available for students across India, including beginners exploring suitable domains. \n\t\t\t\t\t\t\t\t"
                                         }
                                       </rs-layer>
                                       <rs-layer
@@ -1194,12 +1194,12 @@ export default function HeroSection() {
                                         }}
                                       >
                                         <div className={"text-gradient-top"}>
-                                          {"AI & Robotic"}
+                                          {"Explore Domain"}
                                           <span className={"text-box-gradient"}>
                                             {"s"}
                                           </span>
                                           <br />
-                                          {"\nRevenue "}
+                                          {"\nProgramme "}
                                           <span
                                             className={"text-gradient"}
                                             style={{
@@ -1208,7 +1208,7 @@ export default function HeroSection() {
                                               "--gradient-color-to": "var(--brand-color)",
                                             }}
                                           >
-                                            {"Today"}
+                                            {"with Us"}
                                           </span>
                                         </div>
                                       </rs-layer>

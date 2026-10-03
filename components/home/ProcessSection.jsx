@@ -45,7 +45,7 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Strategy"}
+                          {"Practical Learning"}
                         </h5>
                         <a
                           className={"pxl-item--button"}
@@ -62,11 +62,11 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Strategy"}
+                          {"Practical Learning"}
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine."
+                            "Gain practical knowledge through structured learning, assignments and project-based activities."
                           }
                         </div>
                         <a
@@ -121,7 +121,7 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Planning"}
+                          {"Mentor Guidance"}
                         </h5>
                         <a
                           className={"pxl-item--button"}
@@ -138,11 +138,11 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Planning"}
+                          {"Mentor Guidance"}
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine."
+                            "Receive guidance and support from mentors throughout the applicable training or internship programme."
                           }
                         </div>
                         <a
@@ -197,7 +197,7 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Analysis"}
+                          {"Project-Based Learning"}
                         </h5>
                         <a
                           className={"pxl-item--button"}
@@ -214,11 +214,11 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Analysis"}
+                          {"Project-Based Learning"}
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine."
+                            "Work on practical assignments and projects designed to strengthen your skills and understanding."
                           }
                         </div>
                         <a
@@ -273,7 +273,7 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Research"}
+                          {"Beginner-Friendly Learning"}
                         </h5>
                         <a
                           className={"pxl-item--button"}
@@ -290,11 +290,11 @@ export default function ProcessSection() {
                           ></i>
                         </div>
                         <h5 className={"pxl-item--title el-empty"}>
-                          {"Research"}
+                          {"Beginner-Friendly Learning"}
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Do you want to optimize your website in a foreign language? Learn in which countries we will help you shine."
+                            "Students can explore suitable domains even if they are at the beginning of their technical learning journey."
                           }
                         </div>
                         <a

@@ -69,7 +69,7 @@ export default function PageContent() {
                                         data-wow-delay={"ms"}
                                       >
                                         {
-                                          "\n\t\t\t\t\t\t\tFrequently Asked Question\t\n\t\t\t\t\n\t\t"
+                                          "\n\t\t\t\t\t\t\tFrequently Asked Questions\t\n\t\t\t\t\n\t\t"
                                         }
                                       </h3>
                                     </div>
@@ -92,7 +92,7 @@ export default function PageContent() {
                                       data-wow-delay={"ms"}
                                     >
                                       {
-                                        "\n\t\tWe’ve been lucky to collaborate with a long list of customers, located in and out of the country. Thanks to them we have grown as professionals.\t\t\n\t"
+                                        "\n\t\tExplore programme eligibility, learning opportunities, mentor support and applicable completion requirements.\t\t\n\t"
                                       }
                                     </div>
                                   </div>
@@ -161,7 +161,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "What is the procedure to get started? "
+                                                    "Who can apply? "
                                                   }
                                                 </span>
                                                 <i
@@ -179,7 +179,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire."
+                                                  "B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options."
                                                 }
                                               </div>
                                             </div>
@@ -198,7 +198,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "How much does this project cost? "
+                                                    "What will I learn? "
                                                   }
                                                 </span>
                                                 <i
@@ -217,7 +217,7 @@ export default function PageContent() {
                                                 style={{ display: "block" }}
                                               >
                                                 {
-                                                  "We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire."
+                                                  "The programme focuses on practical learning, mentor guidance, assignments, project-based learning, skill development and internship-oriented experience."
                                                 }
                                               </div>
                                             </div>
@@ -236,7 +236,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "When will my service go live?"
+                                                    "Can beginners participate?"
                                                   }
                                                 </span>
                                                 <i
@@ -254,7 +254,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire."
+                                                  "Students can explore suitable domains even if they are at the beginning of their technical learning journey."
                                                 }
                                               </div>
                                             </div>
@@ -273,7 +273,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "What are we doing for business? "
+                                                    "Is online participation available? "
                                                   }
                                                 </span>
                                                 <i
@@ -291,7 +291,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire."
+                                                  "Online participation is available for students across India."
                                                 }
                                               </div>
                                             </div>
@@ -350,7 +350,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "How to contact with your agent?"
+                                                    "Will I receive a certificate?"
                                                   }
                                                 </span>
                                                 <i
@@ -368,7 +368,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire."
+                                                  "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate."
                                                 }
                                               </div>
                                             </div>
@@ -387,7 +387,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "How can i install this theme?"
+                                                    "Is academic internship support available?"
                                                   }
                                                 </span>
                                                 <i
@@ -405,7 +405,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire."
+                                                  "Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements."
                                                 }
                                               </div>
                                             </div>
@@ -424,7 +424,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "How can i make dmca on copy item?"
+                                                    "Which internship domains are available?"
                                                   }
                                                 </span>
                                                 <i
@@ -443,7 +443,7 @@ export default function PageContent() {
                                                 style={{ display: "block" }}
                                               >
                                                 {
-                                                  "We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire."
+                                                  "Web Development, Frontend Development, Backend Development, Full-Stack Development, Mobile Application Development, Digital Marketing, and other IT and technology-related fields."
                                                 }
                                               </div>
                                             </div>
@@ -462,7 +462,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "How to despout on this product?"
+                                                    "Will mentors provide support?"
                                                   }
                                                 </span>
                                                 <i
@@ -480,7 +480,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire."
+                                                  "Receive guidance and support from mentors throughout the applicable training or internship programme."
                                                 }
                                               </div>
                                             </div>

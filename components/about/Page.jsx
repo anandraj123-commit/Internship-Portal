@@ -215,7 +215,7 @@ export default function Page({ header }) {
                                 data-wow-delay={"ms"}
                               >
                                 {
-                                  "\n\t\tRadhika SkillForge provides software and digital services. Parent Company: Apurva Software Solutions. Based in Gaya, Bihar.\t\t\n\t"
+                                  "\n\t\tRadhika SkillForge – Placement & Training Institute is an initiative of Apurva Software Solutions, focused on providing students with structured training, practical learning, mentorship and internship-oriented experience.\t\t\n\t"
                                 }
                               </div>
                             </div>

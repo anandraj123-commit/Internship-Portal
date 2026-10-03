@@ -256,7 +256,7 @@ function Page({ header }) {
                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                 className: "pxl-item--inner ",
                                                                                 "data-wow-delay": "ms",
-                                                                                children: "\n\t\tRadhika SkillForge provides software and digital services. Parent Company: Apurva Software Solutions. Based in Gaya, Bihar.\t\t\n\t"
+                                                                                children: "\n\t\tRadhika SkillForge – Placement & Training Institute is an initiative of Apurva Software Solutions, focused on providing students with structured training, practical learning, mentorship and internship-oriented experience.\t\t\n\t"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/home/Page.jsx",
                                                                                 lineNumber: 116,
