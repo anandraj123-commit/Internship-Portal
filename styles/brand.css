@@ -60,6 +60,10 @@ body .btn:hover::after {
   background: var(--brand-hover) !important;
 }
 
+body #rev_slider_2_1 .btn.btn-slider1::before {
+  content: none;
+}
+
 /* The initial header overlays the hero; scrolled navigation is solid orange. */
 body #pxl-header-elementor .elementor-element-28f737d,
 body #pxl-header-elementor .pxl-menu-primary .sub-menu {

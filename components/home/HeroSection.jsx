@@ -297,7 +297,7 @@ export default function HeroSection() {
                                         id={"slider-2-slide-3-layer-5"}
                                         className={"rs-layer"}
                                         href={
-                                          "https://demo.casethemes.net/saira/our-services/"
+                                          "/service"
                                         }
                                         target={"_self"}
                                         data-type={"text"}
@@ -563,7 +563,7 @@ export default function HeroSection() {
                                         id={"slider-2-slide-4-layer-5"}
                                         className={"rs-layer"}
                                         href={
-                                          "https://demo.casethemes.net/saira/our-services/"
+                                          "/service"
                                         }
                                         target={"_self"}
                                         data-type={"text"}
@@ -829,7 +829,7 @@ export default function HeroSection() {
                                         id={"slider-2-slide-5-layer-5"}
                                         className={"rs-layer"}
                                         href={
-                                          "https://demo.casethemes.net/saira/our-services/"
+                                          "/service"
                                         }
                                         target={"_self"}
                                         data-type={"text"}
@@ -1095,7 +1095,7 @@ export default function HeroSection() {
                                         id={"slider-2-slide-6-layer-5"}
                                         className={"rs-layer"}
                                         href={
-                                          "https://demo.casethemes.net/saira/our-services/"
+                                          "/service"
                                         }
                                         target={"_self"}
                                         data-type={"text"}
