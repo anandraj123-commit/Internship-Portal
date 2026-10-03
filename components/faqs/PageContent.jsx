@@ -92,7 +92,7 @@ export default function PageContent() {
                                       data-wow-delay={"ms"}
                                     >
                                       {
-                                        "\n\t\tExplore programme eligibility, learning opportunities, mentor support and applicable completion requirements.\t\t\n\t"
+                                        "\n\t\tFind answers about student internship eligibility, online participation, practical learning and academic requirements.\t\t\n\t"
                                       }
                                     </div>
                                   </div>
@@ -161,7 +161,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "Who can apply? "
+                                                    "Who can apply for the Radhika SkillForge internship programme? "
                                                   }
                                                 </span>
                                                 <i
@@ -179,7 +179,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options."
+                                                  "Internship opportunities are open to B.A., B.Sc., B.Com., B.Tech. and M.Sc. students, as well as other graduation and postgraduate students. Engineering, computer science, arts, science, commerce, biology and mathematics students can explore domains suited to their interests, current knowledge and programme eligibility."
                                                 }
                                               </div>
                                             </div>
@@ -198,7 +198,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "What will I learn? "
+                                                    "Can B.A., B.Sc. and B.Com. students apply for an internship? "
                                                   }
                                                 </span>
                                                 <i
@@ -217,7 +217,7 @@ export default function PageContent() {
                                                 style={{ display: "block" }}
                                               >
                                                 {
-                                                  "The programme focuses on practical learning, mentor guidance, assignments, project-based learning, skill development and internship-oriented experience."
+                                                  "Yes. Students from arts, science, commerce and other non-technical backgrounds can explore suitable internship domains. An internship for B.A., B.Sc. or B.Com. students should match their interests, existing knowledge and programme eligibility."
                                                 }
                                               </div>
                                             </div>
@@ -236,7 +236,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "Can beginners participate?"
+                                                    "Is this internship suitable for beginners?"
                                                   }
                                                 </span>
                                                 <i
@@ -254,7 +254,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "Students can explore suitable domains even if they are at the beginning of their technical learning journey."
+                                                  "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain."
                                                 }
                                               </div>
                                             </div>
@@ -273,7 +273,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "Is online participation available? "
+                                                    "Is there an online internship programme for students in India? "
                                                   }
                                                 </span>
                                                 <i
@@ -291,7 +291,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "Online participation is available for students across India."
+                                                  "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying."
                                                 }
                                               </div>
                                             </div>
@@ -350,7 +350,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "Will I receive a certificate?"
+                                                    "Will students receive an internship completion certificate?"
                                                   }
                                                 </span>
                                                 <i
@@ -368,7 +368,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate."
+                                                  "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements."
                                                 }
                                               </div>
                                             </div>
@@ -405,7 +405,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements."
+                                                  "Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying."
                                                 }
                                               </div>
                                             </div>
@@ -443,7 +443,7 @@ export default function PageContent() {
                                                 style={{ display: "block" }}
                                               >
                                                 {
-                                                  "Web Development, Frontend Development, Backend Development, Full-Stack Development, Mobile Application Development, Digital Marketing, and other IT and technology-related fields."
+                                                  "Students can explore web development, frontend development, backend development, full-stack development, mobile application development, digital marketing and other applicable IT-related fields. Available options depend on the programme."
                                                 }
                                               </div>
                                             </div>
@@ -462,7 +462,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "Will mentors provide support?"
+                                                    "Can engineering and computer science students apply?"
                                                   }
                                                 </span>
                                                 <i
@@ -480,7 +480,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "Receive guidance and support from mentors throughout the applicable training or internship programme."
+                                                  "Yes. Engineering and computer science students can explore technical internship domains such as web, frontend, backend, full-stack and mobile application development. An internship for B.Tech. students should align with their learning goals, current skills and programme requirements."
                                                 }
                                               </div>
                                             </div>

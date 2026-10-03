@@ -57,7 +57,7 @@ export default function CaseStudiesSection() {
                         </h3>
                         <div className={"pxl-widget--desc pxl-empty"}>
                           {
-                            "Explore suitable domains based on your interests and eligibility. Other IT-Related Fields: students may also explore other available technology and IT-related domains."
+                            "Explore IT internships for students in web, mobile and digital marketing domains. Other technology-related opportunities may be available, depending on your interests and eligibility."
                           }
                         </div>
                         <div className={"pxl-widget--button"}>

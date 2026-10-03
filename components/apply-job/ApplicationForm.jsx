@@ -163,7 +163,7 @@ export default function ApplicationForm() {
                     aria-invalid={"false"}
                     name={"position"}
                   >
-                    <option value={"Position"}>{"Position"}</option>
+                    <option value={"Position"}>{"Preferred Internship Domain"}</option>
                     <option value={"WordPress Development"}>
                       {"WordPress Development"}
                     </option>
@@ -228,7 +228,7 @@ export default function ApplicationForm() {
           </div>
         </div>
         <div className={"pxl--item"}>
-          <h4 className={"wpcf7-heading"}>{"Upload CV\n\t"}</h4>
+          <h4 className={"wpcf7-heading"}>{"Upload Résumé / CV\n\t"}</h4>
           <p>
             <span className={"wpcf7-form-control-wrap"} data-name={"your-file"}>
               <input
@@ -257,7 +257,7 @@ export default function ApplicationForm() {
                 }
                 aria-required={"true"}
                 aria-invalid={"false"}
-                placeholder={"Cover letter"}
+                placeholder={"Tell us about your interests, current technical knowledge and skills"}
                 name={"your-message"}
               ></textarea>
             </span>

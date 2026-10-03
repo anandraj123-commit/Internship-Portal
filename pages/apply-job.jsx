@@ -4,7 +4,7 @@ import PageStyles from "../components/apply-job/PageStyles";
 
 export default function ApplyJob() {
   return (
-    <Root pageKey="applyJob" Styles={PageStyles} title="Internship Application | Radhika SkillForge">
+    <Root pageKey="applyJob" Styles={PageStyles} title="Apply for a Student Internship | Radhika SkillForge">
       <ApplyJobPage />
     </Root>
   );

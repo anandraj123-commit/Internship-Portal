@@ -70,7 +70,7 @@ export default function PageContent() {
                                         data-wow-delay={"ms"}
                                       >
                                         {
-                                          "\n\t\t\t\t\t\t\tApply for an Internship\t\n\t\t\t\t\n\t\t"
+                                          "\n\t\t\t\t\t\t\tApply for a Student Internship\t\n\t\t\t\t\n\t\t"
                                         }
                                       </h3>
                                     </div>
@@ -93,7 +93,7 @@ export default function PageContent() {
                                       data-wow-delay={"ms"}
                                     >
                                       {
-                                        "\n\t\tWelcome to the Internship Programme offered by Radhika SkillForge – Placement & Training Institute, an initiative of Apurva Software Solutions. This programme is designed for graduation students from both technical and non-technical backgrounds. Students from B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams can explore suitable internship and training opportunities based on their interests and eligibility. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.\t\t\n\t"
+                                        "\n\t\tExplore internship and training opportunities for college students in India through Radhika SkillForge, an initiative of Apurva Software Solutions. Choose a suitable opportunity based on your education, interests and current skills. In your application message, tell us about your technical knowledge and technologies you already know. Upload your latest résumé or CV to share your education, skills and experience. Participation is subject to programme eligibility and availability.\t\t\n\t"
                                       }
                                     </div>
                                   </div>

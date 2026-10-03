@@ -66,7 +66,7 @@ export default function ProcessSection() {
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Gain practical knowledge through structured learning, assignments and project-based activities."
+                            "Develop practical knowledge through structured learning activities and industry-focused internship training for students."
                           }
                         </div>
                         <a
@@ -142,7 +142,7 @@ export default function ProcessSection() {
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Receive guidance and support from mentors throughout the applicable training or internship programme."
+                            "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments."
                           }
                         </div>
                         <a
@@ -218,7 +218,7 @@ export default function ProcessSection() {
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Work on practical assignments and projects designed to strengthen your skills and understanding."
+                            "Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills."
                           }
                         </div>
                         <a
@@ -294,7 +294,7 @@ export default function ProcessSection() {
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
                           {
-                            "Students can explore suitable domains even if they are at the beginning of their technical learning journey."
+                            "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain."
                           }
                         </div>
                         <a

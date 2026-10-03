@@ -93,7 +93,7 @@ function CaseStudiesSection() {
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "pxl-widget--desc pxl-empty",
-                                                            children: "Explore suitable domains based on your interests and eligibility. Other IT-Related Fields: students may also explore other available technology and IT-related domains."
+                                                            children: "Explore IT internships for students in web, mobile and digital marketing domains. Other technology-related opportunities may be available, depending on your interests and eligibility."
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/home/CaseStudiesSection.jsx",
                                                             lineNumber: 58,

@@ -14,7 +14,7 @@ export default function Root({
   children,
   pageKey,
   Styles,
-  title = "Radhika SkillForge – Placement & Training Institute",
+  title = "Student Internship Programme in India | Radhika SkillForge",
 }) {
   return (
     <>

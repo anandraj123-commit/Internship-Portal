@@ -121,7 +121,7 @@ export default function TeamSection() {
                               data-wow-delay={"ms"}
                             >
                               {
-                                "\n\t\tPractical learning, mentor guidance, assignments, project-based learning, skill development, internship-oriented experience, academic internship support and beginner-friendly learning.\t\t\n\t"
+                                "\n\t\tBuild practical skills through an internship training programme with assignments, projects and mentor support. Explore suitable beginner-level opportunities and academic internship support, subject to programme requirements.\t\t\n\t"
                               }
                             </div>
                           </div>
@@ -210,14 +210,14 @@ export default function TeamSection() {
                               <div className={"pxl-item--holder"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Practical and Industry-Focused Training                                        "
+                                    "    \n                                            Practical Internship Training                                        "
                                   }
                                 </h5>
                               </div>
                               <div className={"pxl-item--backdrop"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Practical and Industry-Focused Training                                        "
+                                    "    \n                                            Practical Internship Training                                        "
                                   }
                                 </h5>
                                 <div className={"pxl-item--position"}>
@@ -264,14 +264,14 @@ export default function TeamSection() {
                               <div className={"pxl-item--holder"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Mentor Guidance and Doubt Support                                         "
+                                    "    \n                                            Mentor-Guided Training                                         "
                                   }
                                 </h5>
                               </div>
                               <div className={"pxl-item--backdrop"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Mentor Guidance and Doubt Support                                         "
+                                    "    \n                                            Mentor-Guided Training                                         "
                                   }
                                 </h5>
                                 <div className={"pxl-item--position"}>
@@ -318,14 +318,14 @@ export default function TeamSection() {
                               <div className={"pxl-item--holder"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Assignments and Project-Based Learning                                        "
+                                    "    \n                                            Project-Based Learning                                        "
                                   }
                                 </h5>
                               </div>
                               <div className={"pxl-item--backdrop"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Assignments and Project-Based Learning                                        "
+                                    "    \n                                            Project-Based Learning                                        "
                                   }
                                 </h5>
                                 <div className={"pxl-item--position"}>
@@ -480,14 +480,14 @@ export default function TeamSection() {
                               <div className={"pxl-item--holder"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Suitable for Beginners                                        "
+                                    "    \n                                            Beginner-Friendly Options                                        "
                                   }
                                 </h5>
                               </div>
                               <div className={"pxl-item--backdrop"}>
                                 <h5 className={"pxl-item--title"}>
                                   {
-                                    "    \n                                            Suitable for Beginners                                        "
+                                    "    \n                                            Beginner-Friendly Options                                        "
                                   }
                                 </h5>
                                 <div className={"pxl-item--position"}>

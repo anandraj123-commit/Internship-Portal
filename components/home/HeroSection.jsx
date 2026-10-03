@@ -372,7 +372,7 @@ export default function HeroSection() {
                                         }}
                                       >
                                         {
-                                          "Welcome to the Internship Programme offered by Radhika SkillForge – Placement & Training Institute, an initiative of Apurva Software Solutions. \n\t\t\t\t\t\t\t\t"
+                                          "Explore a student internship programme in India with Radhika SkillForge, an initiative of Apurva Software Solutions. \n\t\t\t\t\t\t\t\t"
                                         }
                                       </rs-layer>
                                       <rs-layer
@@ -638,7 +638,7 @@ export default function HeroSection() {
                                         }}
                                       >
                                         {
-                                          "Structured training, assignments and projects for students from technical and non-technical backgrounds. \n\t\t\t\t\t\t\t\t"
+                                          "Internship and training opportunities for college students from technical and non-technical backgrounds. \n\t\t\t\t\t\t\t\t"
                                         }
                                       </rs-layer>
                                       <rs-layer
@@ -904,7 +904,7 @@ export default function HeroSection() {
                                         }}
                                       >
                                         {
-                                          "Build relevant skills with mentor guidance, doubt support and internship-oriented experience. \n\t\t\t\t\t\t\t\t"
+                                          "Build practical skills through project-based internship learning, assignments and mentor guidance. \n\t\t\t\t\t\t\t\t"
                                         }
                                       </rs-layer>
                                       <rs-layer
@@ -1170,7 +1170,7 @@ export default function HeroSection() {
                                         }}
                                       >
                                         {
-                                          "Online participation is available for students across India, including beginners exploring suitable domains. \n\t\t\t\t\t\t\t\t"
+                                          "Explore online internships for students across India. Participation depends on your chosen domain and programme. \n\t\t\t\t\t\t\t\t"
                                         }
                                       </rs-layer>
                                       <rs-layer

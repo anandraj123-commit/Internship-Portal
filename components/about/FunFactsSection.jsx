@@ -95,7 +95,7 @@ export default function FunFactsSection() {
                               data-wow-delay={"ms"}
                             >
                               {
-                                "\n\t\tStudents from technical and non-technical backgrounds can apply, including B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.\t\t\n\t"
+                                "\n\t\tInternship opportunities are open to B.A., B.Sc., B.Com., B.Tech. and M.Sc. students, as well as other graduation and postgraduate students. Engineering, computer science, arts, science, commerce, biology and mathematics students can explore domains suited to their interests, current knowledge and programme eligibility.\t\t\n\t"
                               }
                             </div>
                           </div>

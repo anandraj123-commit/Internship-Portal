@@ -2,43 +2,43 @@
   "listing": {
     "title": "\n\t\t\t\t\t\t\tInternship Domains\t\n\t\t\t\t\n\t\t",
     "heading": "\n\t\t\t\t\t\t\tInternship Domains\t\n\t\t\t\t\n\t\t",
-    "description": "Radhika SkillForge – Placement & Training Institute is an initiative of Apurva Software Solutions, focused on providing students with structured training, practical learning, mentorship and internship-oriented experience. Other IT-Related Fields: students may also explore other available technology and IT-related domains. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options."
+    "description": "Explore internship opportunities for college students in India across web development, mobile applications and digital marketing. Other IT-related domains may be available, subject to your interests, existing knowledge and programme eligibility."
   },
   "services": [
     {
       "slug": "we-mobile-development",
       "title": "Web Development",
       "icon": "flaticon flaticon-mobile-app",
-      "summary": "Learn the fundamentals of website and web application development.",
-      "overview": "Learn the fundamentals of website and web application development. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
-      "approach": "The programme focuses on practical learning, mentor guidance, assignments, project-based learning, skill development and internship-oriented experience.",
+      "summary": "Explore a web development internship for students through practical activities and projects in website and web application development. Beginners can enquire about suitable starting options.",
+      "overview": "Explore a web development internship for students through practical activities and projects in website and web application development. Beginners can enquire about suitable starting options. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
-          "title": "Practical and Industry-Focused Training",
-          "description": "Gain practical knowledge through structured learning, assignments and project-based activities.",
+          "title": "Practical Internship Training",
+          "description": "Develop practical knowledge through structured learning activities and industry-focused internship training for students.",
           "icon": "flaticon flaticon-mobile-development"
         },
         {
-          "title": "Mentor Guidance and Doubt Support",
-          "description": "Receive guidance and support from mentors throughout the applicable training or internship programme.",
+          "title": "Mentor Guidance",
+          "description": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments.",
           "icon": "flaticon flaticon-web-design-1"
         },
         {
-          "title": "Assignments and Project-Based Learning",
-          "description": "Work on practical assignments and projects designed to strengthen your skills and understanding.",
+          "title": "Project-Based Learning",
+          "description": "Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
           "icon": "flaticon flaticon-megaphone"
         },
         {
-          "title": "Suitable for Beginners",
-          "description": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "title": "Beginner-Friendly Options",
+          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
-      "deliverables": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate. Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+      "deliverables": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements. Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
       "id": 735,
       "href": "/service/we-mobile-development",
       "card": {
-        "description": "Learn the fundamentals of website and web application development.",
+        "description": "Explore a web development internship for students through practical activities and projects in website and web application development. Beginners can enquire about suitable starting options.",
         "readMoreLabel": "Read more",
         "readMoreIcon": "flaticon-arrow-right rtl-reverse",
         "animationDuration": "1.2s"
@@ -128,33 +128,33 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online participation is available for students across India.",
+      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
-          "question": "Who can apply?",
-          "answer": "B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
+          "question": "Who can apply for the Radhika SkillForge internship programme?",
+          "answer": "Internship opportunities are open to B.A., B.Sc., B.Com., B.Tech. and M.Sc. students, as well as other graduation and postgraduate students. Engineering, computer science, arts, science, commerce, biology and mathematics students can explore domains suited to their interests, current knowledge and programme eligibility.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-f0abc49",
           "itemClass": "pxl--item "
         },
         {
-          "question": "Can beginners participate?",
-          "answer": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "question": "Is this internship suitable for beginners?",
+          "answer": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "initiallyOpen": true,
           "id": "pxl_accordion-a31e278-4689-8909023",
           "itemClass": "pxl--item active"
         },
         {
-          "question": "Will I receive a certificate?",
-          "answer": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate.",
+          "question": "Will students receive an internship completion certificate?",
+          "answer": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-3f2bf8a",
           "itemClass": "pxl--item "
         },
         {
           "question": "Is academic internship support available?",
-          "answer": "Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+          "answer": "Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "
@@ -165,36 +165,36 @@
       "slug": "motion-branding-design",
       "title": "Frontend Development",
       "icon": "flaticon flaticon-laptop",
-      "summary": "Develop skills for creating responsive and user-friendly web interfaces.",
-      "overview": "Develop skills for creating responsive and user-friendly web interfaces. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
-      "approach": "The programme focuses on practical learning, mentor guidance, assignments, project-based learning, skill development and internship-oriented experience.",
+      "summary": "A frontend development internship for students introduces user interfaces, responsive design and frontend technologies through practical learning.",
+      "overview": "A frontend development internship for students introduces user interfaces, responsive design and frontend technologies through practical learning. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
-          "title": "Practical and Industry-Focused Training",
-          "description": "Gain practical knowledge through structured learning, assignments and project-based activities.",
+          "title": "Practical Internship Training",
+          "description": "Develop practical knowledge through structured learning activities and industry-focused internship training for students.",
           "icon": "flaticon flaticon-mobile-development"
         },
         {
-          "title": "Mentor Guidance and Doubt Support",
-          "description": "Receive guidance and support from mentors throughout the applicable training or internship programme.",
+          "title": "Mentor Guidance",
+          "description": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments.",
           "icon": "flaticon flaticon-web-design-1"
         },
         {
-          "title": "Assignments and Project-Based Learning",
-          "description": "Work on practical assignments and projects designed to strengthen your skills and understanding.",
+          "title": "Project-Based Learning",
+          "description": "Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
           "icon": "flaticon flaticon-megaphone"
         },
         {
-          "title": "Suitable for Beginners",
-          "description": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "title": "Beginner-Friendly Options",
+          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
-      "deliverables": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate. Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+      "deliverables": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements. Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
       "id": 733,
       "href": "/service/motion-branding-design",
       "card": {
-        "description": "Develop skills for creating responsive and user-friendly web interfaces.",
+        "description": "A frontend development internship for students introduces user interfaces, responsive design and frontend technologies through practical learning.",
         "readMoreLabel": "Read more",
         "readMoreIcon": "flaticon-arrow-right rtl-reverse",
         "animationDuration": "1.2s"
@@ -284,33 +284,33 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online participation is available for students across India.",
+      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
-          "question": "Who can apply?",
-          "answer": "B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
+          "question": "Who can apply for the Radhika SkillForge internship programme?",
+          "answer": "Internship opportunities are open to B.A., B.Sc., B.Com., B.Tech. and M.Sc. students, as well as other graduation and postgraduate students. Engineering, computer science, arts, science, commerce, biology and mathematics students can explore domains suited to their interests, current knowledge and programme eligibility.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-f0abc49",
           "itemClass": "pxl--item "
         },
         {
-          "question": "Can beginners participate?",
-          "answer": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "question": "Is this internship suitable for beginners?",
+          "answer": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "initiallyOpen": true,
           "id": "pxl_accordion-a31e278-4689-8909023",
           "itemClass": "pxl--item active"
         },
         {
-          "question": "Will I receive a certificate?",
-          "answer": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate.",
+          "question": "Will students receive an internship completion certificate?",
+          "answer": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-3f2bf8a",
           "itemClass": "pxl--item "
         },
         {
           "question": "Is academic internship support available?",
-          "answer": "Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+          "answer": "Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "
@@ -321,36 +321,36 @@
       "slug": "international-seo-services",
       "title": "Backend Development",
       "icon": "flaticon flaticon-seo",
-      "summary": "Learn server-side development, databases, APIs and application logic.",
-      "overview": "Learn server-side development, databases, APIs and application logic. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
-      "approach": "The programme focuses on practical learning, mentor guidance, assignments, project-based learning, skill development and internship-oriented experience.",
+      "summary": "Explore server-side development, APIs, databases and application logic through a backend development internship for students.",
+      "overview": "Explore server-side development, APIs, databases and application logic through a backend development internship for students. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
-          "title": "Practical and Industry-Focused Training",
-          "description": "Gain practical knowledge through structured learning, assignments and project-based activities.",
+          "title": "Practical Internship Training",
+          "description": "Develop practical knowledge through structured learning activities and industry-focused internship training for students.",
           "icon": "flaticon flaticon-mobile-development"
         },
         {
-          "title": "Mentor Guidance and Doubt Support",
-          "description": "Receive guidance and support from mentors throughout the applicable training or internship programme.",
+          "title": "Mentor Guidance",
+          "description": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments.",
           "icon": "flaticon flaticon-web-design-1"
         },
         {
-          "title": "Assignments and Project-Based Learning",
-          "description": "Work on practical assignments and projects designed to strengthen your skills and understanding.",
+          "title": "Project-Based Learning",
+          "description": "Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
           "icon": "flaticon flaticon-megaphone"
         },
         {
-          "title": "Suitable for Beginners",
-          "description": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "title": "Beginner-Friendly Options",
+          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
-      "deliverables": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate. Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+      "deliverables": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements. Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
       "id": 731,
       "href": "/service/international-seo-services",
       "card": {
-        "description": "Learn server-side development, databases, APIs and application logic.",
+        "description": "Explore server-side development, APIs, databases and application logic through a backend development internship for students.",
         "readMoreLabel": "Read more",
         "readMoreIcon": "flaticon-arrow-right rtl-reverse",
         "animationDuration": "1.2s"
@@ -440,33 +440,33 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online participation is available for students across India.",
+      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
-          "question": "Who can apply?",
-          "answer": "B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
+          "question": "Who can apply for the Radhika SkillForge internship programme?",
+          "answer": "Internship opportunities are open to B.A., B.Sc., B.Com., B.Tech. and M.Sc. students, as well as other graduation and postgraduate students. Engineering, computer science, arts, science, commerce, biology and mathematics students can explore domains suited to their interests, current knowledge and programme eligibility.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-f0abc49",
           "itemClass": "pxl--item "
         },
         {
-          "question": "Can beginners participate?",
-          "answer": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "question": "Is this internship suitable for beginners?",
+          "answer": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "initiallyOpen": true,
           "id": "pxl_accordion-a31e278-4689-8909023",
           "itemClass": "pxl--item active"
         },
         {
-          "question": "Will I receive a certificate?",
-          "answer": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate.",
+          "question": "Will students receive an internship completion certificate?",
+          "answer": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-3f2bf8a",
           "itemClass": "pxl--item "
         },
         {
           "question": "Is academic internship support available?",
-          "answer": "Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+          "answer": "Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "
@@ -477,36 +477,36 @@
       "slug": "ui-ux-product-design",
       "title": "Full-Stack Development",
       "icon": "flaticon flaticon-development",
-      "summary": "Explore both frontend and backend development through practical learning and projects.",
-      "overview": "Explore both frontend and backend development through practical learning and projects. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
-      "approach": "The programme focuses on practical learning, mentor guidance, assignments, project-based learning, skill development and internship-oriented experience.",
+      "summary": "A full stack development internship for students brings frontend and backend concepts together through practical activities and projects.",
+      "overview": "A full stack development internship for students brings frontend and backend concepts together through practical activities and projects. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
-          "title": "Practical and Industry-Focused Training",
-          "description": "Gain practical knowledge through structured learning, assignments and project-based activities.",
+          "title": "Practical Internship Training",
+          "description": "Develop practical knowledge through structured learning activities and industry-focused internship training for students.",
           "icon": "flaticon flaticon-mobile-development"
         },
         {
-          "title": "Mentor Guidance and Doubt Support",
-          "description": "Receive guidance and support from mentors throughout the applicable training or internship programme.",
+          "title": "Mentor Guidance",
+          "description": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments.",
           "icon": "flaticon flaticon-web-design-1"
         },
         {
-          "title": "Assignments and Project-Based Learning",
-          "description": "Work on practical assignments and projects designed to strengthen your skills and understanding.",
+          "title": "Project-Based Learning",
+          "description": "Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
           "icon": "flaticon flaticon-megaphone"
         },
         {
-          "title": "Suitable for Beginners",
-          "description": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "title": "Beginner-Friendly Options",
+          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
-      "deliverables": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate. Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+      "deliverables": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements. Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
       "id": 2133,
       "href": "/service/ui-ux-product-design",
       "card": {
-        "description": "Explore both frontend and backend development through practical learning and projects.",
+        "description": "A full stack development internship for students brings frontend and backend concepts together through practical activities and projects.",
         "readMoreLabel": "Read more",
         "readMoreIcon": "flaticon-arrow-right rtl-reverse",
         "animationDuration": "1.2s"
@@ -596,33 +596,33 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online participation is available for students across India.",
+      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
-          "question": "Who can apply?",
-          "answer": "B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
+          "question": "Who can apply for the Radhika SkillForge internship programme?",
+          "answer": "Internship opportunities are open to B.A., B.Sc., B.Com., B.Tech. and M.Sc. students, as well as other graduation and postgraduate students. Engineering, computer science, arts, science, commerce, biology and mathematics students can explore domains suited to their interests, current knowledge and programme eligibility.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-f0abc49",
           "itemClass": "pxl--item "
         },
         {
-          "question": "Can beginners participate?",
-          "answer": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "question": "Is this internship suitable for beginners?",
+          "answer": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "initiallyOpen": true,
           "id": "pxl_accordion-a31e278-4689-8909023",
           "itemClass": "pxl--item active"
         },
         {
-          "question": "Will I receive a certificate?",
-          "answer": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate.",
+          "question": "Will students receive an internship completion certificate?",
+          "answer": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-3f2bf8a",
           "itemClass": "pxl--item "
         },
         {
           "question": "Is academic internship support available?",
-          "answer": "Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+          "answer": "Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "
@@ -633,36 +633,36 @@
       "slug": "mobile-application-design",
       "title": "Mobile Application Development",
       "icon": "flaticon flaticon-web-design",
-      "summary": "Learn concepts and practical skills related to mobile application development.",
-      "overview": "Learn concepts and practical skills related to mobile application development. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
-      "approach": "The programme focuses on practical learning, mentor guidance, assignments, project-based learning, skill development and internship-oriented experience.",
+      "summary": "Build practical knowledge of mobile applications through a mobile app development internship for students, with assignments and project-based learning.",
+      "overview": "Build practical knowledge of mobile applications through a mobile app development internship for students, with assignments and project-based learning. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
-          "title": "Practical and Industry-Focused Training",
-          "description": "Gain practical knowledge through structured learning, assignments and project-based activities.",
+          "title": "Practical Internship Training",
+          "description": "Develop practical knowledge through structured learning activities and industry-focused internship training for students.",
           "icon": "flaticon flaticon-mobile-development"
         },
         {
-          "title": "Mentor Guidance and Doubt Support",
-          "description": "Receive guidance and support from mentors throughout the applicable training or internship programme.",
+          "title": "Mentor Guidance",
+          "description": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments.",
           "icon": "flaticon flaticon-web-design-1"
         },
         {
-          "title": "Assignments and Project-Based Learning",
-          "description": "Work on practical assignments and projects designed to strengthen your skills and understanding.",
+          "title": "Project-Based Learning",
+          "description": "Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
           "icon": "flaticon flaticon-megaphone"
         },
         {
-          "title": "Suitable for Beginners",
-          "description": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "title": "Beginner-Friendly Options",
+          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
-      "deliverables": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate. Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+      "deliverables": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements. Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
       "id": 2135,
       "href": "/service/mobile-application-design",
       "card": {
-        "description": "Learn concepts and practical skills related to mobile application development.",
+        "description": "Build practical knowledge of mobile applications through a mobile app development internship for students, with assignments and project-based learning.",
         "readMoreLabel": "Read more",
         "readMoreIcon": "flaticon-arrow-right rtl-reverse",
         "animationDuration": "1.2s"
@@ -752,33 +752,33 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online participation is available for students across India.",
+      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
-          "question": "Who can apply?",
-          "answer": "B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
+          "question": "Who can apply for the Radhika SkillForge internship programme?",
+          "answer": "Internship opportunities are open to B.A., B.Sc., B.Com., B.Tech. and M.Sc. students, as well as other graduation and postgraduate students. Engineering, computer science, arts, science, commerce, biology and mathematics students can explore domains suited to their interests, current knowledge and programme eligibility.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-f0abc49",
           "itemClass": "pxl--item "
         },
         {
-          "question": "Can beginners participate?",
-          "answer": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "question": "Is this internship suitable for beginners?",
+          "answer": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "initiallyOpen": true,
           "id": "pxl_accordion-a31e278-4689-8909023",
           "itemClass": "pxl--item active"
         },
         {
-          "question": "Will I receive a certificate?",
-          "answer": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate.",
+          "question": "Will students receive an internship completion certificate?",
+          "answer": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-3f2bf8a",
           "itemClass": "pxl--item "
         },
         {
           "question": "Is academic internship support available?",
-          "answer": "Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+          "answer": "Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "
@@ -789,36 +789,36 @@
       "slug": "branding-and-illustration",
       "title": "Digital Marketing",
       "icon": "flaticon flaticon-illustration",
-      "summary": "Explore digital marketing concepts, online promotion and digital communication.",
-      "overview": "Explore digital marketing concepts, online promotion and digital communication. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
-      "approach": "The programme focuses on practical learning, mentor guidance, assignments, project-based learning, skill development and internship-oriented experience.",
+      "summary": "Explore digital marketing fundamentals, online promotion and digital communication through a digital marketing internship for students.",
+      "overview": "Explore digital marketing fundamentals, online promotion and digital communication through a digital marketing internship for students. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
-          "title": "Practical and Industry-Focused Training",
-          "description": "Gain practical knowledge through structured learning, assignments and project-based activities.",
+          "title": "Practical Internship Training",
+          "description": "Develop practical knowledge through structured learning activities and industry-focused internship training for students.",
           "icon": "flaticon flaticon-mobile-development"
         },
         {
-          "title": "Mentor Guidance and Doubt Support",
-          "description": "Receive guidance and support from mentors throughout the applicable training or internship programme.",
+          "title": "Mentor Guidance",
+          "description": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments.",
           "icon": "flaticon flaticon-web-design-1"
         },
         {
-          "title": "Assignments and Project-Based Learning",
-          "description": "Work on practical assignments and projects designed to strengthen your skills and understanding.",
+          "title": "Project-Based Learning",
+          "description": "Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
           "icon": "flaticon flaticon-megaphone"
         },
         {
-          "title": "Suitable for Beginners",
-          "description": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "title": "Beginner-Friendly Options",
+          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
-      "deliverables": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate. Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+      "deliverables": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements. Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
       "id": 2137,
       "href": "/service/branding-and-illustration",
       "card": {
-        "description": "Explore digital marketing concepts, online promotion and digital communication.",
+        "description": "Explore digital marketing fundamentals, online promotion and digital communication through a digital marketing internship for students.",
         "readMoreLabel": "Read more",
         "readMoreIcon": "flaticon-arrow-right rtl-reverse",
         "animationDuration": "1.2s"
@@ -908,33 +908,33 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online participation is available for students across India.",
+      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
-          "question": "Who can apply?",
-          "answer": "B.A. | B.Sc. | B.Com. | B.Tech. | M.Sc. | Engineering | Arts | Science | Commerce | Biology | Mathematics | Computer Science | Other Streams. The suitable internship domain may depend on the student's academic background, interests, existing knowledge and available programme options.",
+          "question": "Who can apply for the Radhika SkillForge internship programme?",
+          "answer": "Internship opportunities are open to B.A., B.Sc., B.Com., B.Tech. and M.Sc. students, as well as other graduation and postgraduate students. Engineering, computer science, arts, science, commerce, biology and mathematics students can explore domains suited to their interests, current knowledge and programme eligibility.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-f0abc49",
           "itemClass": "pxl--item "
         },
         {
-          "question": "Can beginners participate?",
-          "answer": "Students can explore suitable domains even if they are at the beginning of their technical learning journey.",
+          "question": "Is this internship suitable for beginners?",
+          "answer": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
           "initiallyOpen": true,
           "id": "pxl_accordion-a31e278-4689-8909023",
           "itemClass": "pxl--item active"
         },
         {
-          "question": "Will I receive a certificate?",
-          "answer": "Eligible students who successfully complete the applicable programme requirements may receive an internship completion certificate.",
+          "question": "Will students receive an internship completion certificate?",
+          "answer": "Students seeking an internship with certificate may receive an internship completion certificate after successfully meeting the applicable programme requirements.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-3f2bf8a",
           "itemClass": "pxl--item "
         },
         {
           "question": "Is academic internship support available?",
-          "answer": "Support is available for students who need to fulfil applicable academic internship requirements, subject to programme requirements.",
+          "answer": "Academic internship support for college students may be available, subject to programme conditions and their institution’s requirements. Check that the selected programme meets your college’s requirements before applying.",
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "

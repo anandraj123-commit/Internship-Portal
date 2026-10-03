@@ -113,7 +113,7 @@ export default function ServicesSection() {
                             >
                               <p>
                                 {
-                                  "Radhika SkillForge – Placement & Training Institute is an initiative of Apurva Software Solutions, focused on providing students with structured training, practical learning, mentorship and internship-oriented experience. Other IT-Related Fields: students may also explore other available technology and IT-related domains."
+                                  "Explore internship opportunities for college students in web development, mobile applications and digital marketing. Other IT-related fields may be available; domain suitability depends on your background, interests and eligibility."
                                 }
                               </p>
                             </div>
@@ -172,7 +172,7 @@ export default function ServicesSection() {
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Learn the fundamentals of website and web application development.                                    "
+                                  "\n                                        Explore a web development internship for students through practical activities and projects in website and web application development. Beginners can enquire about suitable starting options.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>
@@ -214,7 +214,7 @@ export default function ServicesSection() {
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Develop skills for creating responsive and user-friendly web interfaces.                                    "
+                                  "\n                                        A frontend development internship for students introduces user interfaces, responsive design and frontend technologies through practical learning.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>
@@ -256,7 +256,7 @@ export default function ServicesSection() {
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Learn server-side development, databases, APIs and application logic.                                    "
+                                  "\n                                        Explore server-side development, APIs, databases and application logic through a backend development internship for students.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>
@@ -298,7 +298,7 @@ export default function ServicesSection() {
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Explore both frontend and backend development through practical learning and projects.                                    "
+                                  "\n                                        A full stack development internship for students brings frontend and backend concepts together through practical activities and projects.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>
@@ -340,7 +340,7 @@ export default function ServicesSection() {
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Learn concepts and practical skills related to mobile application development.                                    "
+                                  "\n                                        Build practical knowledge of mobile applications through a mobile app development internship for students, with assignments and project-based learning.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>
@@ -382,7 +382,7 @@ export default function ServicesSection() {
                               </h3>
                               <div className={"pxl-post--content"}>
                                 {
-                                  "\n                                        Explore digital marketing concepts, online promotion and digital communication.                                    "
+                                  "\n                                        Explore digital marketing fundamentals, online promotion and digital communication through a digital marketing internship for students.                                    "
                                 }
                               </div>
                               <div className={"pxl-post--readmore"}>
