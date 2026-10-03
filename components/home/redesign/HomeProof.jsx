@@ -1,4 +1,4 @@
-const facts = [["45k+", "Happy Clients"], ["24", "Awards"], ["80%", "Increase in organic traffic"], ["22+", "Worldwide branches"]];
+const facts = [["4k+", "Happy Interns"], ["2k+", "Awards"], ["80%", "Increase in organic traffic"]];
 const testimonials = [
   ["Best Service providing agency in town", "We easily and quickly received the money from the consumers grow Radhika SkillForge. After using our service, as well as communication.", "Steve Behunin", "Senior Consultant"],
   ["The benefits of local SEO for small business", "We easily and quickly received the money from the consumers grow Radhika SkillForge. After using our service, as well as communication.", "Michel Fix", ""],

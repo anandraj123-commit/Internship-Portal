@@ -254,7 +254,7 @@ export default function FunFactsSection() {
                                     "pxl-counter--title title-inline-w"
                                   }
                                 >
-                                  {"Happy Clients"}
+                                  {"Happy Interns"}
                                 </div>
                               </div>
                             </div>
@@ -306,12 +306,12 @@ export default function FunFactsSection() {
                                       "pxl-counter--value effect-slide"
                                     }
                                     data-duration={"2000"}
-                                    data-startnumber={"0"}
-                                    data-endnumber={"24"}
-                                    data-to-value={"24"}
+                                    data-startnumber={"240"}
+                                    data-endnumber={"240"}
+                                    data-to-value={"240"}
                                     data-delimiter={""}
                                   >
-                                    {"0"}
+                                    {"240"}
                                   </span>
                                 </div>
                                 <div
@@ -523,11 +523,11 @@ export default function FunFactsSection() {
                                     }
                                     data-duration={"2000"}
                                     data-startnumber={"0"}
-                                    data-endnumber={"22"}
-                                    data-to-value={"22"}
+                                    data-endnumber={"5"}
+                                    data-to-value={"5"}
                                     data-delimiter={""}
                                   >
-                                    {"0"}
+                                    {"5"}
                                   </span>
                                   <span className={"pxl-counter--suffix"}>
                                     {"+"}
@@ -538,7 +538,7 @@ export default function FunFactsSection() {
                                     "pxl-counter--title title-inline-w"
                                   }
                                 >
-                                  {"World wide branches"}
+                                  {"Teachers and Mentors"}
                                 </div>
                               </div>
                             </div>

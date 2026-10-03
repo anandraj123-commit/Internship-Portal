@@ -451,8 +451,8 @@ export default function ServicesSection() {
                           className={"pxl-counter--value effect-default"}
                           data-duration={"2000"}
                           data-startnumber={"1"}
-                          data-endnumber={"12"}
-                          data-to-value={"12"}
+                          data-endnumber={"3"}
+                          data-to-value={"3"}
                           data-delimiter={""}
                         >
                           {"1"}

@@ -1,1 +1,11 @@
-{"version":4,"routes":{"/service/we-mobile-development":{},"/service/motion-branding-design":{},"/service/international-seo-services":{},"/service/ui-ux-product-design":{},"/service/mobile-application-design":{},"/service/branding-and-illustration":{}},"dynamicRoutes":{"/service/[slug]":{"dataRoute":null,"dataRouteRegex":null,"fallback":false,"fallbackRevalidate":false,"fallbackSourceRoute":"/service/[slug]","routeRegex":"^\\/service\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"8d5c3677fe4c8eedbb694180d5319c98","previewModeSigningKey":"ffa6ce31f560a1dde09e7ebb636b3508adb69ab01f2fbf4affeda9ad0ab59712","previewModeEncryptionKey":"f4780c15c14a7857c4b0f38b50c34625a926c7257abc17f0e1b1be8e61c6375f"}}
+{
+  "version": 4,
+  "routes": {},
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "a23e46f703de69d58749ac528b261bdd",
+    "previewModeSigningKey": "155560b77b6e40df7d20d9d3c4be8ba5fb5a5f17e6385ae124418b1a7117bd9c",
+    "previewModeEncryptionKey": "62a8be28a9fd368441572ec1974662a7969fd75b7723cad352ee0a3bc1df7674"
+  }
+}
