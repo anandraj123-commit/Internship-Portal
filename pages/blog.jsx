@@ -3,7 +3,7 @@ import BlogPage from "../components/blog/Page";
 import PageStyles from "../components/blog/PageStyles";
 export default function Blog() {
   return (
-    <Root pageKey="blog" Styles={PageStyles} title="Blog – Radhika SkillForge">
+    <Root pageKey="blog" Styles={PageStyles} title="Student Internship & Career Blog | Radhika SkillForge">
       <BlogPage />
     </Root>
   );

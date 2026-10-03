@@ -2,20 +2,23 @@ self.__BUILD_MANIFEST = {
   "/": [
     "static/chunks/pages/index.js"
   ],
-  "/about-us": [
-    "static/chunks/pages/about-us.js"
+  "/_error": [
+    "static/chunks/pages/_error.js"
   ],
   "/blog": [
     "static/chunks/pages/blog.js"
+  ],
+  "/blog/[slug]": [
+    "static/chunks/pages/blog/[slug].js"
+  ],
+  "/category/[slug]": [
+    "static/chunks/pages/category/[slug].js"
   ],
   "/service": [
     "static/chunks/pages/service.js"
   ],
   "/service/[slug]": [
     "static/chunks/pages/service/[slug].js"
-  ],
-  "/testimonial": [
-    "static/chunks/pages/testimonial.js"
   ],
   "__rewrites": {
     "afterFiles": [],
