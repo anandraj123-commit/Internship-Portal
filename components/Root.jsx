@@ -1,4 +1,5 @@
 import Head from "next/head";
+import { brandLogo } from "./LoaderLogo";
 import seo from "../data/seo.json";
 import LegacyScripts from "./LegacyScripts";
 import pageData from "../data/pages.json";
@@ -24,6 +25,7 @@ export default function Root({
   return (
     <>
       <Head>
+        <link rel="icon" type="image/jpeg" href={brandLogo} key="favicon" />
         <title>{pageTitle}</title>
         {pageDescription && <meta name="description" content={pageDescription} key="description" />}
         <meta property="og:title" content={pageTitle} key="og:title" />

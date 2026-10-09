@@ -1,3 +1,4 @@
+import LoaderLogo from "../LoaderLogo";
 import Header from "../Header";
 import Footer from "../about/Footer";
 import PageTitle from "./PageTitle";
@@ -12,7 +13,7 @@ export default function ContactPage() {
               <div className={"loader-line"}></div>
             </div>
             <div className={"loader-logo"}>
-              <img src={"/wp-content/uploads/2023/08/h3-logo-light.png"} />
+              <LoaderLogo />
             </div>
           </div>
         </div>

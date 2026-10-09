@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { parse } from "parse5";
-const source = "itagency.in";
+const source = "legacy-site";
 const write = (p, s) => {
   fs.mkdirSync(path.dirname(p), { recursive: true });
   fs.writeFileSync(p, s);
@@ -22,7 +22,7 @@ function copy(dir) {
 function url(s) {
   return s
     .replace(/(?:\.\.\/)*blog\/index\.html/g, "/blog")
-    .replace(/https?:\/\/itagency\.in\/(wp-content|wp-includes)\//g, "/$1/")
+    .replace(/https?:\/\/radhikaskillforge\.apurvasoftwaresolutions\.com\/(wp-content|wp-includes)\//g, "/$1/")
     .replace(/(?:\.\.\/)+(wp-content|wp-includes)\//g, "/$1/")
     .replace(/(?<![\w/])(wp-content|wp-includes)\//g, "/$1/")
     .replace(/(?:%3F|\?)ver=[^\s"'<>)]*/gi, "")

@@ -45,7 +45,7 @@ export function PostShare() {
       "pin-social",
       "Pinterest",
       "pinterest",
-      `https://pinterest.com/pin/create/button/?url=${url}&media=${encodeURIComponent("https://itagency.in" + post.image)}&description=${title}`,
+      `https://pinterest.com/pin/create/button/?url=${url}&media=${encodeURIComponent("https://radhikaskillforge.apurvasoftwaresolutions.com" + post.image)}&description=${title}`,
     ],
     [
       "lin-social",

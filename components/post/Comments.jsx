@@ -21,7 +21,7 @@ export default function Comments() {
             </small>
           </h3>
           <form
-            action={"https://itagency.in/wp-comments-post.php"}
+            action={"https://radhikaskillforge.apurvasoftwaresolutions.com/wp-comments-post.php"}
             method={"post"}
             id={"commentform"}
             className={"comment-form"}

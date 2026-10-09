@@ -218,7 +218,7 @@ function HeroSection() {
                                                                                 },
                                                                                 "data-key": "rs-3",
                                                                                 "data-title": "Slide",
-                                                                                "data-thumb": "//itagency.in/wp-content/uploads/2023/09/u-slider-bg2-300x300.jpg",
+                                                                                "data-thumb": "/wp-content/uploads/2023/09/u-slider-bg2-300x300.jpg",
                                                                                 "data-in": "o:0;",
                                                                                 "data-out": "a:false;",
                                                                                 children: [
@@ -230,7 +230,7 @@ function HeroSection() {
                                                                                         width: "1800",
                                                                                         height: "1066",
                                                                                         className: "rev-slidebg tp-rs-img rs-lazyload",
-                                                                                        "data-lazyload": "//itagency.in/wp-content/uploads/2023/09/u-slider-bg2.jpg",
+                                                                                        "data-lazyload": "/wp-content/uploads/2023/09/u-slider-bg2.jpg",
                                                                                         "data-panzoom": "d:10000;ss:110%;se:100%;",
                                                                                         "data-no-retina": ""
                                                                                     }, void 0, false, {
@@ -276,7 +276,7 @@ function HeroSection() {
                                                                                                     className: "tp-rs-img rs-lazyload",
                                                                                                     width: "42",
                                                                                                     height: "42",
-                                                                                                    "data-lazyload": "//itagency.in/wp-content/uploads/2023/09/u-slider-shape1.png",
+                                                                                                    "data-lazyload": "/wp-content/uploads/2023/09/u-slider-shape1.png",
                                                                                                     "data-no-retina": ""
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
@@ -590,7 +590,7 @@ function HeroSection() {
                                                                                 },
                                                                                 "data-key": "rs-4",
                                                                                 "data-title": "Slide",
-                                                                                "data-thumb": "//itagency.in/wp-content/uploads/2023/09/u-bg-slide-2-300x300.jpg",
+                                                                                "data-thumb": "/wp-content/uploads/2023/09/u-bg-slide-2-300x300.jpg",
                                                                                 "data-in": "o:0;",
                                                                                 "data-out": "a:false;",
                                                                                 children: [
@@ -603,7 +603,7 @@ function HeroSection() {
                                                                                         width: "1800",
                                                                                         height: "1066",
                                                                                         className: "rev-slidebg tp-rs-img rs-lazyload",
-                                                                                        "data-lazyload": "//itagency.in/wp-content/uploads/2023/09/u-bg-slide-2.jpg",
+                                                                                        "data-lazyload": "/wp-content/uploads/2023/09/u-bg-slide-2.jpg",
                                                                                         "data-panzoom": "d:10000;ss:100%;se:110%;",
                                                                                         "data-no-retina": ""
                                                                                     }, void 0, false, {
@@ -649,7 +649,7 @@ function HeroSection() {
                                                                                                     className: "tp-rs-img rs-lazyload",
                                                                                                     width: "42",
                                                                                                     height: "42",
-                                                                                                    "data-lazyload": "//itagency.in/wp-content/uploads/2023/09/u-slider-shape1.png",
+                                                                                                    "data-lazyload": "/wp-content/uploads/2023/09/u-slider-shape1.png",
                                                                                                     "data-no-retina": ""
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
@@ -963,7 +963,7 @@ function HeroSection() {
                                                                                 },
                                                                                 "data-key": "rs-5",
                                                                                 "data-title": "Slide",
-                                                                                "data-thumb": "//itagency.in/wp-content/uploads/2023/09/u-bg-slide-3-300x300.jpg",
+                                                                                "data-thumb": "/wp-content/uploads/2023/09/u-bg-slide-3-300x300.jpg",
                                                                                 "data-in": "o:0;",
                                                                                 "data-out": "a:false;",
                                                                                 children: [
@@ -976,7 +976,7 @@ function HeroSection() {
                                                                                         width: "1800",
                                                                                         height: "1066",
                                                                                         className: "rev-slidebg tp-rs-img rs-lazyload",
-                                                                                        "data-lazyload": "//itagency.in/wp-content/uploads/2023/09/u-bg-slide-3.jpg",
+                                                                                        "data-lazyload": "/wp-content/uploads/2023/09/u-bg-slide-3.jpg",
                                                                                         "data-panzoom": "d:10000;ss:110%;se:100%;",
                                                                                         "data-no-retina": ""
                                                                                     }, void 0, false, {
@@ -1022,7 +1022,7 @@ function HeroSection() {
                                                                                                     className: "tp-rs-img rs-lazyload",
                                                                                                     width: "42",
                                                                                                     height: "42",
-                                                                                                    "data-lazyload": "//itagency.in/wp-content/uploads/2023/09/u-slider-shape1.png",
+                                                                                                    "data-lazyload": "/wp-content/uploads/2023/09/u-slider-shape1.png",
                                                                                                     "data-no-retina": ""
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",
@@ -1336,7 +1336,7 @@ function HeroSection() {
                                                                                 },
                                                                                 "data-key": "rs-6",
                                                                                 "data-title": "Slide",
-                                                                                "data-thumb": "//itagency.in/wp-content/uploads/2023/09/u-bg-slide-4-300x300.jpg",
+                                                                                "data-thumb": "/wp-content/uploads/2023/09/u-bg-slide-4-300x300.jpg",
                                                                                 "data-in": "o:0;",
                                                                                 "data-out": "a:false;",
                                                                                 children: [
@@ -1349,7 +1349,7 @@ function HeroSection() {
                                                                                         width: "1800",
                                                                                         height: "1066",
                                                                                         className: "rev-slidebg tp-rs-img rs-lazyload",
-                                                                                        "data-lazyload": "//itagency.in/wp-content/uploads/2023/09/u-bg-slide-4.jpg",
+                                                                                        "data-lazyload": "/wp-content/uploads/2023/09/u-bg-slide-4.jpg",
                                                                                         "data-panzoom": "d:10000;ss:100%;se:110%;",
                                                                                         "data-no-retina": ""
                                                                                     }, void 0, false, {
@@ -1395,7 +1395,7 @@ function HeroSection() {
                                                                                                     className: "tp-rs-img rs-lazyload",
                                                                                                     width: "42",
                                                                                                     height: "42",
-                                                                                                    "data-lazyload": "//itagency.in/wp-content/uploads/2023/09/u-slider-shape1.png",
+                                                                                                    "data-lazyload": "/wp-content/uploads/2023/09/u-slider-shape1.png",
                                                                                                     "data-no-retina": ""
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/components/home/HeroSection.jsx",

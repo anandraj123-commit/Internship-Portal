@@ -14,7 +14,7 @@ const doc = parse(fs.readFileSync("index.html?p=35.html", "utf8"));
 const head = all(doc, (n) => n.tagName === "head")[0];
 const body = all(doc, (n) => n.tagName === "body")[0];
 // Match the site's warm palette while retaining the Contact layout.
-const home = parse(fs.readFileSync("itagency.in/index.html", "utf8"));
+const home = parse(fs.readFileSync("legacy-site/index.html", "utf8"));
 const palette = all(
   home,
   (n) => n.tagName === "style" && attr(n, "id") === "pxl-style-inline-css",
@@ -43,7 +43,7 @@ for (const node of all(doc, (n) => !!attr(n, "style"))) {
 }
 // The reused About footer needs its responsive template styles as well as markup.
 const about = parse(
-  fs.readFileSync("itagency.in/index.html?p=1133.html", "utf8"),
+  fs.readFileSync("legacy-site/index.html?p=1133.html", "utf8"),
 );
 const footerCSS = [];
 for (const style of all(about, (n) => n.tagName === "style")) {

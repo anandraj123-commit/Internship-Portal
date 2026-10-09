@@ -17,7 +17,7 @@ const head = all(doc, (n) => n.tagName === "head")[0],
   body = all(doc, (n) => n.tagName === "body")[0];
 // Reuse Home's warm palette; keep Job Apply free of blue/cyan accents,
 // including link states and Elementor's explicitly configured hover colors.
-const home = parse(fs.readFileSync("itagency.in/index.html", "utf8"));
+const home = parse(fs.readFileSync("legacy-site/index.html", "utf8"));
 const homePalette = all(
   home,
   (n) => n.tagName === "style" && attr(n, "id") === "pxl-style-inline-css",

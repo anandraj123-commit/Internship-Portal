@@ -1,8 +1,11 @@
 {
-  "name": "itagency-website",
+  "name": "radhika-skillforge",
   "version": "1.0.0",
   "description": "IT Agency website migrated to Next.js, preserving the original theme",
   "scripts": {
+    "generate:sitemap": "node scripts/generate-sitemap.mjs",
+    "predev": "npm run generate:sitemap",
+    "prebuild": "npm run generate:sitemap",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

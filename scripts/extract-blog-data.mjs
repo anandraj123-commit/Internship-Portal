@@ -68,7 +68,7 @@ const posts = readAll("posts")
       author: users.find((u) => u.id === p.author)?.name || "dualclickofficial",
       authorUrl:
         users.find((u) => u.id === p.author)?.link ||
-        "https://itagency.in/author/dualclickofficial/",
+        "https://radhikaskillforge.apurvasoftwaresolutions.com/author/dualclickofficial/",
       categories: p.categories,
       tags: p.tags,
       excerpt: plain(p.excerpt.rendered),

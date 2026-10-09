@@ -1,3 +1,4 @@
+import ApplyButton from "../ApplyButton";
 import { services } from "../../data/services";
 
 export default function CaseStudiesSection() {
@@ -159,7 +160,7 @@ export default function CaseStudiesSection() {
                               </g>
                             </svg>
                           </div>
-                          <div className={"pxl-post--image"}>
+                          <div className={"pxl-post--image course-apply-image"}>
                             <a href={`/service/${services[0].slug}`}>
                               <img
                                 loading={"lazy"}
@@ -174,6 +175,7 @@ export default function CaseStudiesSection() {
                                 title={"blog-07"}
                               />
                             </a>
+                            <ApplyButton overlay />
                             <div className={"pxl-post--readmore"}>
                               <a
                                 href={`/service/${services[0].slug}`}
@@ -181,7 +183,7 @@ export default function CaseStudiesSection() {
                               >
                                 <span className={"pxl--btn-text"}>
                                   {
-                                    "\n                                                Read More                                            "
+                                    "\n                                                See More                                            "
                                   }
                                 </span>
                                 <svg
@@ -280,7 +282,7 @@ export default function CaseStudiesSection() {
                               </g>
                             </svg>
                           </div>
-                          <div className={"pxl-post--image"}>
+                          <div className={"pxl-post--image course-apply-image"}>
                             <a href={`/service/${services[1].slug}`}>
                               <img
                                 loading={"lazy"}
@@ -295,6 +297,7 @@ export default function CaseStudiesSection() {
                                 title={"portfolio-01"}
                               />
                             </a>
+                            <ApplyButton overlay />
                             <div className={"pxl-post--readmore"}>
                               <a
                                 href={`/service/${services[1].slug}`}
@@ -302,7 +305,7 @@ export default function CaseStudiesSection() {
                               >
                                 <span className={"pxl--btn-text"}>
                                   {
-                                    "\n                                                Read More                                            "
+                                    "\n                                                See More                                            "
                                   }
                                 </span>
                                 <svg
@@ -401,7 +404,7 @@ export default function CaseStudiesSection() {
                               </g>
                             </svg>
                           </div>
-                          <div className={"pxl-post--image"}>
+                          <div className={"pxl-post--image course-apply-image"}>
                             <a href={`/service/${services[2].slug}`}>
                               <img
                                 loading={"lazy"}
@@ -416,6 +419,7 @@ export default function CaseStudiesSection() {
                                 title={"portfolio-02"}
                               />
                             </a>
+                            <ApplyButton overlay />
                             <div className={"pxl-post--readmore"}>
                               <a
                                 href={`/service/${services[2].slug}`}
@@ -423,7 +427,7 @@ export default function CaseStudiesSection() {
                               >
                                 <span className={"pxl--btn-text"}>
                                   {
-                                    "\n                                                Read More                                            "
+                                    "\n                                                See More                                            "
                                   }
                                 </span>
                                 <svg
@@ -522,7 +526,7 @@ export default function CaseStudiesSection() {
                               </g>
                             </svg>
                           </div>
-                          <div className={"pxl-post--image"}>
+                          <div className={"pxl-post--image course-apply-image"}>
                             <a href={`/service/${services[3].slug}`}>
                               <img
                                 loading={"lazy"}
@@ -537,6 +541,7 @@ export default function CaseStudiesSection() {
                                 title={"portfolio-03"}
                               />
                             </a>
+                            <ApplyButton overlay />
                             <div className={"pxl-post--readmore"}>
                               <a
                                 href={`/service/${services[3].slug}`}
@@ -544,7 +549,7 @@ export default function CaseStudiesSection() {
                               >
                                 <span className={"pxl--btn-text"}>
                                   {
-                                    "\n                                                Read More                                            "
+                                    "\n                                                See More                                            "
                                   }
                                 </span>
                                 <svg
@@ -643,7 +648,7 @@ export default function CaseStudiesSection() {
                               </g>
                             </svg>
                           </div>
-                          <div className={"pxl-post--image"}>
+                          <div className={"pxl-post--image course-apply-image"}>
                             <a href={`/service/${services[4].slug}`}>
                               <img
                                 loading={"lazy"}
@@ -658,6 +663,7 @@ export default function CaseStudiesSection() {
                                 title={"portfolio-04"}
                               />
                             </a>
+                            <ApplyButton overlay />
                             <div className={"pxl-post--readmore"}>
                               <a
                                 href={`/service/${services[4].slug}`}
@@ -665,7 +671,7 @@ export default function CaseStudiesSection() {
                               >
                                 <span className={"pxl--btn-text"}>
                                   {
-                                    "\n                                                Read More                                            "
+                                    "\n                                                See More                                            "
                                   }
                                 </span>
                                 <svg
@@ -764,7 +770,7 @@ export default function CaseStudiesSection() {
                               </g>
                             </svg>
                           </div>
-                          <div className={"pxl-post--image"}>
+                          <div className={"pxl-post--image course-apply-image"}>
                             <a href={`/service/${services[5].slug}`}>
                               <img
                                 loading={"lazy"}
@@ -779,6 +785,7 @@ export default function CaseStudiesSection() {
                                 title={"portfolio-06"}
                               />
                             </a>
+                            <ApplyButton overlay />
                             <div className={"pxl-post--readmore"}>
                               <a
                                 href={`/service/${services[5].slug}`}
@@ -786,7 +793,7 @@ export default function CaseStudiesSection() {
                               >
                                 <span className={"pxl--btn-text"}>
                                   {
-                                    "\n                                                Read More                                            "
+                                    "\n                                                See More                                            "
                                   }
                                 </span>
                                 <svg

@@ -13,7 +13,7 @@ const doc = parse(fs.readFileSync("category/index.html", "utf8"));
 const head = all(doc, (n) => n.tagName === "head")[0];
 const body = all(doc, (n) => n.tagName === "body")[0];
 // Match the site's warm palette while retaining the Category layout.
-const home = parse(fs.readFileSync("itagency.in/index.html", "utf8"));
+const home = parse(fs.readFileSync("legacy-site/index.html", "utf8"));
 const palette = all(
   home,
   (n) => n.tagName === "style" && attr(n, "id") === "pxl-style-inline-css",

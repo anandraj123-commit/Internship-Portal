@@ -7,7 +7,7 @@ import { all, attr } from "./lib/html-to-jsx.mjs";
 // Keep media-query wrappers intact, so the About header's responsive rules travel
 // with the Header component instead of depending on a page's exported styles.
 const document = parse(
-  fs.readFileSync("itagency.in/index.html?p=1133.html", "utf8"),
+  fs.readFileSync("legacy-site/index.html?p=1133.html", "utf8"),
 );
 const isHeader = /\.elementor-(5517|5519|5892)\b/;
 const rules = [];
@@ -29,7 +29,7 @@ for (const style of all(document, (node) => node.tagName === "style")) {
   });
   if (root.toString().trim()) rules.push(root.toString());
 }
-const home = parse(fs.readFileSync("itagency.in/index.html", "utf8"));
+const home = parse(fs.readFileSync("legacy-site/index.html", "utf8"));
 const palette = all(
   home,
   (n) => n.tagName === "style" && attr(n, "id") === "pxl-style-inline-css",

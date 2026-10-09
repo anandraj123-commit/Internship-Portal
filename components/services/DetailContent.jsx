@@ -1,3 +1,4 @@
+import ApplyButton from "../ApplyButton";
 import ServiceSidebar from "./ServiceSidebar";
 import ServiceImage from "./ServiceImage";
 import ServiceFaqs from "./ServiceFaqs";
@@ -68,12 +69,13 @@ export default function DetailContent({ service }) {
                                     data-wow-delay={"120ms"}
                                   >
                                     <div
-                                      className={"pxl-item--image"}
+                                      className={"pxl-item--image course-apply-image"}
                                       data-parallax-value={""}
                                     >
                                       <ServiceImage
                                         image={service.media[0].image}
                                       />
+                                      <ApplyButton overlay />
                                     </div>
                                     <div className={"pxl-service--icon"}>
                                       <i className={service.detailIcon}></i>
@@ -548,12 +550,13 @@ export default function DetailContent({ service }) {
                                       }
                                     >
                                       <div className={"pxl-item--inner"}>
-                                        <div className={"pxl-item--image"}>
+                                        <div className={"pxl-item--image course-apply-image"}>
                                           <a href={service.media[1].href}>
                                             <ServiceImage
                                               image={service.media[1].image}
                                             />
                                           </a>
+                                          <ApplyButton overlay />
                                         </div>
                                       </div>
                                     </div>
@@ -563,12 +566,13 @@ export default function DetailContent({ service }) {
                                       }
                                     >
                                       <div className={"pxl-item--inner"}>
-                                        <div className={"pxl-item--image"}>
+                                        <div className={"pxl-item--image course-apply-image"}>
                                           <a href={service.media[2].href}>
                                             <ServiceImage
                                               image={service.media[2].image}
                                             />
                                           </a>
+                                          <ApplyButton overlay />
                                         </div>
                                       </div>
                                     </div>
@@ -578,12 +582,13 @@ export default function DetailContent({ service }) {
                                       }
                                     >
                                       <div className={"pxl-item--inner"}>
-                                        <div className={"pxl-item--image"}>
+                                        <div className={"pxl-item--image course-apply-image"}>
                                           <a href={service.media[3].href}>
                                             <ServiceImage
                                               image={service.media[3].image}
                                             />
                                           </a>
+                                          <ApplyButton overlay />
                                         </div>
                                       </div>
                                     </div>
@@ -593,12 +598,13 @@ export default function DetailContent({ service }) {
                                       }
                                     >
                                       <div className={"pxl-item--inner"}>
-                                        <div className={"pxl-item--image"}>
+                                        <div className={"pxl-item--image course-apply-image"}>
                                           <a href={service.media[4].href}>
                                             <ServiceImage
                                               image={service.media[4].image}
                                             />
                                           </a>
+                                          <ApplyButton overlay />
                                         </div>
                                       </div>
                                     </div>
@@ -608,12 +614,13 @@ export default function DetailContent({ service }) {
                                       }
                                     >
                                       <div className={"pxl-item--inner"}>
-                                        <div className={"pxl-item--image"}>
+                                        <div className={"pxl-item--image course-apply-image"}>
                                           <a href={service.media[5].href}>
                                             <ServiceImage
                                               image={service.media[5].image}
                                             />
                                           </a>
+                                          <ApplyButton overlay />
                                         </div>
                                       </div>
                                     </div>
@@ -661,6 +668,9 @@ export default function DetailContent({ service }) {
                             >
                               <div className={"elementor-widget-container"}>
                                 <ServiceFaqs service={service} />
+                                <div className="course-apply-bottom">
+                                  <ApplyButton />
+                                </div>
                               </div>
                             </div>
                           </div>

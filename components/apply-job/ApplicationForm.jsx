@@ -1,3 +1,5 @@
+import { services } from "../../data/services";
+
 export default function ApplicationForm() {
   return (
     <>
@@ -6,8 +8,6 @@ export default function ApplicationForm() {
         method={"post"}
         className={"wpcf7-form init"}
         aria-label={"Contact form"}
-        enctype={"multipart/form-data"}
-        noValidate={true}
         data-status={"init"}
       >
         <fieldset className={"hidden-fields-container"}>
@@ -49,6 +49,7 @@ export default function ApplicationForm() {
                     className={
                       "wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                     }
+                    required
                     aria-required={"true"}
                     aria-invalid={"false"}
                     placeholder={"First name"}
@@ -70,6 +71,7 @@ export default function ApplicationForm() {
                     className={
                       "wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                     }
+                    required
                     aria-required={"true"}
                     aria-invalid={"false"}
                     placeholder={"Last name"}
@@ -93,6 +95,7 @@ export default function ApplicationForm() {
                     className={
                       "wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                     }
+                    required
                     aria-required={"true"}
                     aria-invalid={"false"}
                     placeholder={"Phone number"}
@@ -117,6 +120,7 @@ export default function ApplicationForm() {
                     className={
                       "wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                     }
+                    required
                     aria-required={"true"}
                     aria-invalid={"false"}
                     placeholder={"Location (City)"}
@@ -140,6 +144,7 @@ export default function ApplicationForm() {
                     className={
                       "wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email"
                     }
+                    required
                     aria-required={"true"}
                     aria-invalid={"false"}
                     placeholder={"Email address"}
@@ -159,18 +164,24 @@ export default function ApplicationForm() {
                   data-name={"position"}
                 >
                   <select
-                    className={"wpcf7-form-control wpcf7-select"}
+                    className={
+                      "wpcf7-form-control wpcf7-select wpcf7-validates-as-required"
+                    }
+                    defaultValue=""
+                    required
+                    aria-required="true"
+                    aria-label="Preferred Internship Domain"
                     aria-invalid={"false"}
                     name={"position"}
                   >
-                    <option value={"Position"}>{"Preferred Internship Domain"}</option>
-                    <option value={"WordPress Development"}>
-                      {"WordPress Development"}
+                    <option value="" disabled>
+                      Preferred Internship Domain
                     </option>
-                    <option value={"HTML/CSS"}>{"HTML/CSS"}</option>
-                    <option value={"Designer"}>{"Designer"}</option>
-                    <option value={"Marketers"}>{"Marketers"}</option>
-                    <option value={"Supporter"}>{"Supporter"}</option>
+                    {services.map((service) => (
+                      <option key={service.slug} value={service.title}>
+                        {service.title}
+                      </option>
+                    ))}
                   </select>
                 </span>
               </p>
@@ -191,6 +202,7 @@ export default function ApplicationForm() {
                     className={
                       "wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                     }
+                    required
                     aria-required={"true"}
                     aria-invalid={"false"}
                     placeholder={"Portfolio / Website link.."}
@@ -215,9 +227,10 @@ export default function ApplicationForm() {
                     className={
                       "wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                     }
+                    required
                     aria-required={"true"}
                     aria-invalid={"false"}
-                    placeholder={"Your expected salary"}
+                    placeholder={"Your Expected Stifund"}
                     defaultValue={""}
                     type={"text"}
                     name={"salary"}
@@ -228,16 +241,26 @@ export default function ApplicationForm() {
           </div>
         </div>
         <div className={"pxl--item"}>
-          <h4 className={"wpcf7-heading"}>{"Upload Résumé / CV\n\t"}</h4>
+          <h4 className={"wpcf7-heading"}>
+            <label htmlFor="resume-url">Résumé / CV URL</label>
+          </h4>
           <p>
-            <span className={"wpcf7-form-control-wrap"} data-name={"your-file"}>
+            <span
+              className={"wpcf7-form-control-wrap"}
+              data-name={"resume-url"}
+            >
               <input
                 size={"40"}
-                className={"wpcf7-form-control wpcf7-file"}
-                accept={".gif,.jpg,.jpeg,.png,.pdf,.txt"}
+                className={
+                  "wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                }
+                id="resume-url"
+                placeholder="https://example.com/resume"
+                required
+                aria-required="true"
                 aria-invalid={"false"}
-                type={"file"}
-                name={"your-file"}
+                type={"url"}
+                name={"resume-url"}
               />
             </span>
           </p>
@@ -255,9 +278,12 @@ export default function ApplicationForm() {
                 className={
                   "wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required"
                 }
+                required
                 aria-required={"true"}
                 aria-invalid={"false"}
-                placeholder={"Tell us about your interests, current technical knowledge and skills"}
+                placeholder={
+                  "Tell us about your interests, current technical knowledge and skills"
+                }
                 name={"your-message"}
               ></textarea>
             </span>

@@ -58,7 +58,7 @@ const emit = (name, node, imports = "") =>
     `components/services/${name}.jsx`,
     `${imports}\nexport default function ${name}({service}) {return <>${render(node)}</>}`,
   );
-const homeDocument = parse(fs.readFileSync("itagency.in/index.html", "utf8"));
+const homeDocument = parse(fs.readFileSync("legacy-site/index.html", "utf8"));
 const homePalette = all(
   homeDocument,
   (n) => n.tagName === "style" && attr(n, "id") === "pxl-style-inline-css",

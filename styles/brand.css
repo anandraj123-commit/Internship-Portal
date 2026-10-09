@@ -195,3 +195,64 @@ body :is(a, button, input, textarea, select):focus-visible {
     --hero-inset: 117px;
   }
 }
+
+/* Course applications: overlays preserve the existing image and card layout. */
+.course-apply-image {
+  position: relative;
+}
+body a.course-apply-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 10px 24px;
+  border: 2px solid var(--brand-color);
+  border-radius: 5px;
+  background: var(--brand-color);
+  color: #151a25;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.4;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: opacity 180ms ease, background-color 180ms ease;
+}
+body a.course-apply-button:hover,
+body a.course-apply-button:focus-visible {
+  background: #151a25;
+  color: #fff;
+}
+body a.course-apply-button:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 3px;
+}
+body .course-apply-image > .course-apply-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 5;
+  opacity: 0;
+  pointer-events: none;
+  box-shadow: 0 4px 18px rgb(0 0 0 / 25%);
+}
+body .course-apply-image:hover > .course-apply-overlay,
+body .course-apply-image:focus-within > .course-apply-overlay {
+  opacity: 1;
+  pointer-events: auto;
+}
+.course-apply-bottom {
+  margin-top: 32px;
+  text-align: center;
+}
+@media (hover: none) {
+  body .course-apply-image > .course-apply-overlay {
+    opacity: 1;
+    pointer-events: auto;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  body a.course-apply-button {
+    transition: none;
+  }
+}

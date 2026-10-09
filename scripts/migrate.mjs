@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { parse } from "parse5";
-const source = "itagency.in";
+const source = "legacy-site";
 const write = (p, s) => {
   fs.mkdirSync(path.dirname(p), { recursive: true });
   fs.writeFileSync(p, s);
@@ -21,8 +21,8 @@ function copy(dir) {
 copy(source);
 function url(s) {
   return s
-    .replaceAll("https://itagency.in/wp-content/", "/wp-content/")
-    .replaceAll("https://itagency.in/wp-includes/", "/wp-includes/")
+    .replaceAll("https://radhikaskillforge.apurvasoftwaresolutions.com/wp-content/", "/wp-content/")
+    .replaceAll("https://radhikaskillforge.apurvasoftwaresolutions.com/wp-includes/", "/wp-includes/")
     .replace(/(?<![\w/])(?:wp-content|wp-includes)\//g, (m) => "/" + m)
     .replace(/(?:%3F|\?)ver=[^\s"'<>)]*/gi, "")
     .replaceAll("index.html%3Fp=1133.html", "/about-us")

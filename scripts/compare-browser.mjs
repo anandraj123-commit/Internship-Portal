@@ -6,7 +6,7 @@ import path from "node:path";
 const server = http.createServer((req, res) => {
   let file = decodeURIComponent(req.url.split("?")[0]);
   if (file === "/") file = "/index.html";
-  file = path.join(process.cwd(), "itagency.in", file);
+  file = path.join(process.cwd(), "legacy-site", file);
   try {
     let ext = path.extname(file.split("?")[0]);
     res.setHeader(

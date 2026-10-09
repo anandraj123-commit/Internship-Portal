@@ -1,3 +1,4 @@
+import LoaderLogo from "../LoaderLogo";
 import Footer from "./Footer";
 import PageContent from "./PageContent";
 export default function Page({ header }) {
@@ -10,7 +11,7 @@ export default function Page({ header }) {
               <div className={"loader-line"}></div>
             </div>
             <div className={"loader-logo"}>
-              <img src={"/wp-content/uploads/2023/08/h3-logo-light.png"} />
+              <LoaderLogo />
             </div>
           </div>
         </div>
