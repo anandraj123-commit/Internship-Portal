@@ -1,5 +1,6 @@
 import usePost from "./usePost";
 import { PostBody, PostTags, PostShare, PostNavigation } from "./PostParts";
+import ApplyButton from "../ApplyButton";
 export default function Article() {
   const post = usePost();
   return (
@@ -12,7 +13,7 @@ export default function Article() {
         )}
       >
         <h2 className={"pxl-item--title"}>{post.title}</h2>
-        <div className={"pxl-item--image"}>
+        <div className={"pxl-item--image course-apply-image"}>
           <img
             fetchpriority={"high"}
             className={""}
@@ -22,6 +23,7 @@ export default function Article() {
             alt={post.imageAlt}
             title={post.imageAlt}
           />
+          <ApplyButton overlay />
         </div>
         <div className={"pxl-item--holder"}>
           <div className={"pxl-item--meta pxl-flex"}>

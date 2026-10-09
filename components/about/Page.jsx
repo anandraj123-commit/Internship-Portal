@@ -527,7 +527,7 @@ export default function Page({ header }) {
                                   data-wow-delay={"ms"}
                                 >
                                   {
-                                    "\n\t\t\t\t\t\t\tLet us help you get your project started.\t\n\t\t\t\t\n\t\t"
+                                    "\n\t\t\t\t\t\t\tLet us help you get your internship started.\t\n\t\t\t\t\n\t\t"
                                   }
                                 </h3>
                               </div>
@@ -611,16 +611,16 @@ export default function Page({ header }) {
                                   }
                                 </div>
                               </div>
-                              <div className={"pxl--item"}>
+                              {/* <div className={"pxl--item"}>
                                 <div className={"pxl-item--content"}>
                                   <label className={"pxl-empty"}>
-                                    {"New York:"}
+                                    {"WhatsApp:"}
                                   </label>
                                   {
                                     "\n                        +91 6203253537                    "
                                   }
                                 </div>
-                              </div>
+                              </div> */}
                             </div>
                           </div>
                         </div>
@@ -663,7 +663,7 @@ export default function Page({ header }) {
                                   data-wow-delay={"ms"}
                                 >
                                   {
-                                    "\n\t\t\t\t\t\t\tStart your project\t\n\t\t\t\t\n\t\t"
+                                    "\n\t\t\t\t\t\t\tStart your internship\t\n\t\t\t\t\n\t\t"
                                   }
                                 </h3>
                               </div>

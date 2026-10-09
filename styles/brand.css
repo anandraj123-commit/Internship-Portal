@@ -201,19 +201,20 @@ body :is(a, button, input, textarea, select):focus-visible {
   position: relative;
 }
 body a.course-apply-button {
-  display: inline-flex;
+  display: inline-flex !important;
   align-items: center;
   justify-content: center;
-  min-height: 46px;
-  padding: 10px 24px;
+  min-height: 42px;
+  padding: 9px 21px;
   border: 2px solid var(--brand-color);
   border-radius: 5px;
   background: var(--brand-color);
   color: #151a25;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 700;
   line-height: 1.4;
   white-space: nowrap;
+  width: auto !important;
   text-decoration: none;
   transition: opacity 180ms ease, background-color 180ms ease;
 }
@@ -236,20 +237,13 @@ body .course-apply-image > .course-apply-overlay {
   pointer-events: none;
   box-shadow: 0 4px 18px rgb(0 0 0 / 25%);
 }
-body .course-apply-image:hover > .course-apply-overlay,
-body .course-apply-image:focus-within > .course-apply-overlay {
+body .course-apply-image:hover > .course-apply-overlay {
   opacity: 1;
   pointer-events: auto;
 }
 .course-apply-bottom {
   margin-top: 32px;
   text-align: center;
-}
-@media (hover: none) {
-  body .course-apply-image > .course-apply-overlay {
-    opacity: 1;
-    pointer-events: auto;
-  }
 }
 @media (prefers-reduced-motion: reduce) {
   body a.course-apply-button {
