@@ -1,4 +1,5 @@
 __turbopack_load_page_chunks__("/", [
+  "static/chunks/data_02oos98._.js",
   "static/chunks/components_Header_jsx_1nkn17b._.js",
   "static/chunks/components_home_HeroSection_jsx_0moaouk._.js",
   "static/chunks/components_home_TeamSection_jsx_02ctf84._.js",
@@ -7,7 +8,6 @@ __turbopack_load_page_chunks__("/", [
   "static/chunks/components_home_Page_jsx_1jlvp50._.js",
   "static/chunks/components_home_0sl7jyt._.js",
   "static/chunks/components_03_qble._.js",
-  "static/chunks/data_0fhekjm._.js",
   "static/chunks/pages_index_jsx_06zt2j-._.js",
   "static/chunks/[root-of-the-server]__1q3by_x._.js",
   "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
@@ -21,5 +21,5 @@ __turbopack_load_page_chunks__("/", [
   "static/chunks/node_modules_1z0m79v._.js",
   "static/chunks/components_Footer_module_1clrqmw.css",
   "static/chunks/pages_index_0du2_q-._.js",
-  "static/chunks/turbopack-pages_index_0w95h5s._.js"
+  "static/chunks/turbopack-pages_index_04a3_oc._.js"
 ])

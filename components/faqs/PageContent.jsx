@@ -92,7 +92,7 @@ export default function PageContent() {
                                       data-wow-delay={"ms"}
                                     >
                                       {
-                                        "\n\t\tFind answers about student internship eligibility, online participation, practical learning and academic requirements.\t\t\n\t"
+                                        "\n\t\tFind answers about internship eligibility for college students, online participation and completion certificates. Radhika SkillForge is an initiative of Apurva Software Solutions, our AICTE approved parent company for internships.\t\t\n\t"
                                       }
                                     </div>
                                   </div>
@@ -236,7 +236,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "Is this internship suitable for beginners?"
+                                                    "Are there internships for students with no experience?"
                                                   }
                                                 </span>
                                                 <i
@@ -273,7 +273,7 @@ export default function PageContent() {
                                                   }
                                                 >
                                                   {
-                                                    "Is there an online internship programme for students in India? "
+                                                    "Can I explore online internships with certificate in India? "
                                                   }
                                                 </span>
                                                 <i
@@ -291,7 +291,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying."
+                                                  "Students can explore online internships with certificate in India, subject to domain availability and successful completion of programme requirements. Confirm online participation and certificate conditions before applying."
                                                 }
                                               </div>
                                             </div>
@@ -480,7 +480,7 @@ export default function PageContent() {
                                                 }
                                               >
                                                 {
-                                                  "Yes. Engineering and computer science students can explore technical internship domains such as web, frontend, backend, full-stack and mobile application development. An internship for B.Tech. students should align with their learning goals, current skills and programme requirements."
+                                                  "Yes. Internship training for computer science students includes web, frontend, backend, full-stack and mobile application development, subject to programme eligibility. An internship for B.Tech. students should align with their learning goals, current skills and programme requirements."
                                                 }
                                               </div>
                                             </div>

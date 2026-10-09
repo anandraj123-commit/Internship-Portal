@@ -3,7 +3,6 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/about-us": "pages/about-us.js",
-  "/blog": "pages/blog.js",
-  "/blog/[slug]": "pages/blog/[slug].js",
-  "/category/[slug]": "pages/category/[slug].js"
+  "/apply-job": "pages/apply-job.js",
+  "/service/[slug]": "pages/service/[slug].js"
 }

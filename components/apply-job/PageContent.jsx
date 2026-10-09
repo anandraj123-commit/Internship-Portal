@@ -70,7 +70,7 @@ export default function PageContent() {
                                         data-wow-delay={"ms"}
                                       >
                                         {
-                                          "\n\t\t\t\t\t\t\tApply for a Student Internship\t\n\t\t\t\t\n\t\t"
+                                          "\n\t\t\t\t\t\t\tApply for Online Internship Training\t\n\t\t\t\t\n\t\t"
                                         }
                                       </h3>
                                     </div>
@@ -93,7 +93,7 @@ export default function PageContent() {
                                       data-wow-delay={"ms"}
                                     >
                                       {
-                                        "\n\t\tExplore internship and training opportunities for college students in India through Radhika SkillForge, an initiative of Apurva Software Solutions. Choose a suitable opportunity based on your education, interests and current skills. In your application message, tell us about your technical knowledge and technologies you already know. Upload your latest résumé or CV to share your education, skills and experience. Participation is subject to programme eligibility and availability.\t\t\n\t"
+                                        "\n\t\tApply for online internship training in India through Radhika SkillForge, an initiative of Apurva Software Solutions, an AICTE approved company for internships. Choose a suitable opportunity based on your education, interests and current skills. In your application message, tell us about your technical knowledge and technologies you already know. Upload your latest résumé or CV to share your education, skills and experience. Participation is subject to programme eligibility and availability.\t\t\n\t"
                                       }
                                     </div>
                                   </div>

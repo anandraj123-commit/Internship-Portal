@@ -2,7 +2,7 @@
   "listing": {
     "title": "\n\t\t\t\t\t\t\tInternship Domains\t\n\t\t\t\t\n\t\t",
     "heading": "\n\t\t\t\t\t\t\tInternship Domains\t\n\t\t\t\t\n\t\t",
-    "description": "Explore internship opportunities for college students in India across web development, mobile applications and digital marketing. Other IT-related domains may be available, subject to your interests, existing knowledge and programme eligibility."
+    "description": "Explore IT internships for college students through Radhika SkillForge, an initiative of Apurva Software Solutions, an AICTE approved company for internships. Choose web development, frontend, backend, full stack, mobile app development or digital marketing based on your interests and programme eligibility."
   },
   "services": [
     {
@@ -10,7 +10,7 @@
       "title": "Web Development",
       "icon": "flaticon flaticon-mobile-app",
       "summary": "Explore a web development internship for students through practical activities and projects in website and web application development. Beginners can enquire about suitable starting options.",
-      "overview": "Explore a web development internship for students through practical activities and projects in website and web application development. Beginners can enquire about suitable starting options. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "overview": "Explore a web development internship for students through practical activities, assignments and projects. Radhika SkillForge is an initiative of Apurva Software Solutions, an AICTE approved company for internships. Your starting point depends on your interests, existing knowledge and programme eligibility.",
       "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
@@ -30,7 +30,7 @@
         },
         {
           "title": "Beginner-Friendly Options",
-          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
+          "description": "Enquire about a web development internship for beginners suited to your current knowledge. Starting requirements vary by programme.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
@@ -128,7 +128,7 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
+      "handover": "Looking for an online web development internship in India? Confirm whether your selected programme offers online participation, along with its schedule and eligibility requirements, before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
@@ -158,15 +158,23 @@
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "
+        },
+        {
+          "question": "Is the parent company AICTE approved for internships?",
+          "answer": "Yes. Apurva Software Solutions, the parent company behind Radhika SkillForge, is AICTE approved for internships. Contact our team for approval details and the requirements of your chosen programme."
         }
-      ]
+      ],
+      "seo": {
+        "title": "Web Development Internship for Students | Radhika SkillForge",
+        "description": "Explore a web development internship for students with mentor-guided projects at Radhika SkillForge, under AICTE approved parent company Apurva Software Solutions."
+      }
     },
     {
       "slug": "motion-branding-design",
       "title": "Frontend Development",
       "icon": "flaticon flaticon-laptop",
       "summary": "A frontend development internship for students introduces user interfaces, responsive design and frontend technologies through practical learning.",
-      "overview": "A frontend development internship for students introduces user interfaces, responsive design and frontend technologies through practical learning. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "overview": "Explore a frontend development internship for students through practical activities, assignments and projects. Radhika SkillForge is an initiative of Apurva Software Solutions, an AICTE approved company for internships. Your starting point depends on your interests, existing knowledge and programme eligibility.",
       "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
@@ -186,7 +194,7 @@
         },
         {
           "title": "Beginner-Friendly Options",
-          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
+          "description": "Enquire about a frontend development internship for beginners suited to your current knowledge. Starting requirements vary by programme.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
@@ -284,7 +292,7 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
+      "handover": "Looking for an online frontend development internship in India? Confirm whether your selected programme offers online participation, along with its schedule and eligibility requirements, before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
@@ -314,15 +322,23 @@
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "
+        },
+        {
+          "question": "Is the parent company AICTE approved for internships?",
+          "answer": "Yes. Apurva Software Solutions, the parent company behind Radhika SkillForge, is AICTE approved for internships. Contact our team for approval details and the requirements of your chosen programme."
         }
-      ]
+      ],
+      "seo": {
+        "title": "Frontend Development Internship for Students | Radhika SkillForge",
+        "description": "Explore a frontend development internship for students with mentor-guided projects at Radhika SkillForge, under AICTE approved parent company Apurva Software Solutions."
+      }
     },
     {
       "slug": "international-seo-services",
       "title": "Backend Development",
       "icon": "flaticon flaticon-seo",
       "summary": "Explore server-side development, APIs, databases and application logic through a backend development internship for students.",
-      "overview": "Explore server-side development, APIs, databases and application logic through a backend development internship for students. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "overview": "Explore a backend development internship for students through practical activities, assignments and projects. Radhika SkillForge is an initiative of Apurva Software Solutions, an AICTE approved company for internships. Your starting point depends on your interests, existing knowledge and programme eligibility.",
       "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
@@ -342,7 +358,7 @@
         },
         {
           "title": "Beginner-Friendly Options",
-          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
+          "description": "Enquire about a backend development internship for beginners suited to your current knowledge. Starting requirements vary by programme.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
@@ -440,7 +456,7 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
+      "handover": "Looking for an online backend development internship in India? Confirm whether your selected programme offers online participation, along with its schedule and eligibility requirements, before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
@@ -470,15 +486,23 @@
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "
+        },
+        {
+          "question": "Is the parent company AICTE approved for internships?",
+          "answer": "Yes. Apurva Software Solutions, the parent company behind Radhika SkillForge, is AICTE approved for internships. Contact our team for approval details and the requirements of your chosen programme."
         }
-      ]
+      ],
+      "seo": {
+        "title": "Backend Development Internship for Students | Radhika SkillForge",
+        "description": "Explore a backend development internship for students with mentor-guided projects at Radhika SkillForge, under AICTE approved parent company Apurva Software Solutions."
+      }
     },
     {
       "slug": "ui-ux-product-design",
       "title": "Full-Stack Development",
       "icon": "flaticon flaticon-development",
       "summary": "A full stack development internship for students brings frontend and backend concepts together through practical activities and projects.",
-      "overview": "A full stack development internship for students brings frontend and backend concepts together through practical activities and projects. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "overview": "Explore a full stack development internship for students through practical activities, assignments and projects. Radhika SkillForge is an initiative of Apurva Software Solutions, an AICTE approved company for internships. Your starting point depends on your interests, existing knowledge and programme eligibility.",
       "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
@@ -498,7 +522,7 @@
         },
         {
           "title": "Beginner-Friendly Options",
-          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
+          "description": "Enquire about a full stack development internship for beginners suited to your current knowledge. Starting requirements vary by programme.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
@@ -596,7 +620,7 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
+      "handover": "Looking for an online full stack development internship in India? Confirm whether your selected programme offers online participation, along with its schedule and eligibility requirements, before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
@@ -626,15 +650,23 @@
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "
+        },
+        {
+          "question": "Is the parent company AICTE approved for internships?",
+          "answer": "Yes. Apurva Software Solutions, the parent company behind Radhika SkillForge, is AICTE approved for internships. Contact our team for approval details and the requirements of your chosen programme."
         }
-      ]
+      ],
+      "seo": {
+        "title": "Full Stack Development Internship for Students | Radhika SkillForge",
+        "description": "Explore a full stack development internship for students with mentor-guided projects at Radhika SkillForge, under AICTE approved parent company Apurva Software Solutions."
+      }
     },
     {
       "slug": "mobile-application-design",
       "title": "Mobile Application Development",
       "icon": "flaticon flaticon-web-design",
       "summary": "Build practical knowledge of mobile applications through a mobile app development internship for students, with assignments and project-based learning.",
-      "overview": "Build practical knowledge of mobile applications through a mobile app development internship for students, with assignments and project-based learning. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "overview": "Explore a mobile app development internship for students through practical activities, assignments and projects. Radhika SkillForge is an initiative of Apurva Software Solutions, an AICTE approved company for internships. Your starting point depends on your interests, existing knowledge and programme eligibility.",
       "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
@@ -654,7 +686,7 @@
         },
         {
           "title": "Beginner-Friendly Options",
-          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
+          "description": "Enquire about a mobile app development internship for beginners suited to your current knowledge. Starting requirements vary by programme.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
@@ -752,7 +784,7 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
+      "handover": "Looking for an online mobile app development internship in India? Confirm whether your selected programme offers online participation, along with its schedule and eligibility requirements, before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
@@ -782,15 +814,23 @@
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "
+        },
+        {
+          "question": "Is the parent company AICTE approved for internships?",
+          "answer": "Yes. Apurva Software Solutions, the parent company behind Radhika SkillForge, is AICTE approved for internships. Contact our team for approval details and the requirements of your chosen programme."
         }
-      ]
+      ],
+      "seo": {
+        "title": "Mobile App Development Internship for Students | Radhika SkillForge",
+        "description": "Explore a mobile app development internship for students with mentor-guided projects at Radhika SkillForge, under AICTE approved parent company Apurva Software Solutions."
+      }
     },
     {
       "slug": "branding-and-illustration",
       "title": "Digital Marketing",
       "icon": "flaticon flaticon-illustration",
       "summary": "Explore digital marketing fundamentals, online promotion and digital communication through a digital marketing internship for students.",
-      "overview": "Explore digital marketing fundamentals, online promotion and digital communication through a digital marketing internship for students. This internship training programme combines structured learning with opportunities to develop practical skills.",
+      "overview": "Explore a digital marketing internship for students through practical activities, assignments and projects. Radhika SkillForge is an initiative of Apurva Software Solutions, an AICTE approved company for internships. Your starting point depends on your interests, existing knowledge and programme eligibility.",
       "approach": "Mentor-guided internship training helps students work through learning activities, clarify doubts and apply concepts in practical assignments. Project-based internship training gives students opportunities to apply concepts through assignments and practical projects that strengthen their skills.",
       "features": [
         {
@@ -810,7 +850,7 @@
         },
         {
           "title": "Beginner-Friendly Options",
-          "description": "Students with no prior experience can explore beginner-friendly internship options suited to their interests and current knowledge. Eligibility and starting requirements vary by domain.",
+          "description": "Enquire about a digital marketing internship for beginners suited to your current knowledge. Starting requirements vary by programme.",
           "icon": "flaticon flaticon-web-design-2"
         }
       ],
@@ -908,7 +948,7 @@
         }
       ],
       "detailIcon": "flaticon flaticon-development",
-      "handover": "Online internship training is available for students across India. Confirm whether your preferred domain and programme offer online participation before applying.",
+      "handover": "Looking for an online digital marketing internship in India? Confirm whether your selected programme offers online participation, along with its schedule and eligibility requirements, before applying.",
       "faqHeading": "Programme Questions",
       "faqs": [
         {
@@ -938,8 +978,16 @@
           "initiallyOpen": false,
           "id": "pxl_accordion-a31e278-4689-21ae2db",
           "itemClass": "pxl--item "
+        },
+        {
+          "question": "Is the parent company AICTE approved for internships?",
+          "answer": "Yes. Apurva Software Solutions, the parent company behind Radhika SkillForge, is AICTE approved for internships. Contact our team for approval details and the requirements of your chosen programme."
         }
-      ]
+      ],
+      "seo": {
+        "title": "Digital Marketing Internship for Students | Radhika SkillForge",
+        "description": "Explore a digital marketing internship for students with mentor-guided projects at Radhika SkillForge, under AICTE approved parent company Apurva Software Solutions."
+      }
     }
   ]
 }

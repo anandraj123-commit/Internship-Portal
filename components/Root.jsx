@@ -1,4 +1,5 @@
 import Head from "next/head";
+import seo from "../data/seo.json";
 import LegacyScripts from "./LegacyScripts";
 import pageData from "../data/pages.json";
 import servicePageData from "../data/service-pages.json";
@@ -15,11 +16,18 @@ export default function Root({
   pageKey,
   Styles,
   title = "Student Internship Programme in India | Radhika SkillForge",
+  description,
 }) {
+  const pageTitle = seo[pageKey]?.title || title;
+  const pageDescription = description || seo[pageKey]?.description;
+
   return (
     <>
       <Head>
-        <title>{title}</title>
+        <title>{pageTitle}</title>
+        {pageDescription && <meta name="description" content={pageDescription} key="description" />}
+        <meta property="og:title" content={pageTitle} key="og:title" />
+        {pageDescription && <meta property="og:description" content={pageDescription} key="og:description" />}
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=1"

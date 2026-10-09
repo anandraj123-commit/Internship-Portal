@@ -107,7 +107,7 @@ export default function ServicesSection() {
                               data-wow-delay={"ms"}
                             >
                               {
-                                "\n\t\tAn initiative of Apurva Software Solutions, Radhika SkillForge offers student internships with mentor guidance, assignments and practical projects across India.\t\t\n\t"
+                                "\n\t\tRadhika SkillForge is an initiative of Apurva Software Solutions, our AICTE approved parent company. Explore mentor-guided internships for college students through assignments and practical projects.\t\t\n\t"
                               }
                             </div>
                           </div>

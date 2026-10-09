@@ -1,22 +1,15 @@
 import { useState } from "react";
 import styles from "./Footer.module.css";
+import { services } from "../data/services";
 
 const usefulLinks = [
   ["Home", "/"],
   ["About Us", "/about-us"],
-  ["Maintenance & Support", "/contact-us"],
   ["Blogs", "/blog"],
   ["Internship", "/apply-job"],
 ];
 
-const services = [
-  ["Software Development", "/service"],
-  ["SPA Development", "/service"],
-  ["PWA Applications", "/service"],
-  ["Cloud Solutions", "/service"],
-  ["Cyber Security", "/service"],
-  ["Digital Marketing", "/service"],
-];
+const internships = services.map(({ title, slug }) => [title, `/service/${slug}`]);
 
 const socialLinks = [
   ["X", null],
@@ -73,7 +66,7 @@ export default function Footer() {
             </div>
           </section>
           <FooterLinks title="Useful Links" links={usefulLinks} />
-          <FooterLinks title="Our Services" links={services} />
+          <FooterLinks title="Our Internship" links={internships} />
           <section className={styles.newsletter} aria-labelledby="footer-newsletter-title">
             <h3 id="footer-newsletter-title">Stay Ahead with Radhika SkillForge</h3>
             <p>Receive updates on internship opportunities, practical training, mentor guidance and project-based learning.</p>

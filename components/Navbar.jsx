@@ -1,3 +1,19 @@
+import { services } from "../data/services";
+
+function InternshipDomainsMenu() {
+  return (
+    <ul className="sub-menu">
+      {services.map(({ slug, title }) => (
+        <li className="menu-item menu-item-type-custom menu-item-object-custom" key={slug}>
+          <a href={`/service/${slug}`}>
+            <span className="pxl-menu-item-text">{title}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  );
+}
+
 export default function Navbar({ variant = 0 }) {
   return [
     <>
@@ -34,16 +50,17 @@ export default function Navbar({ variant = 0 }) {
           <li
             id={"menu-item-6908"}
             className={
-              "menu-item menu-item-type-custom menu-item-object-custom menu-item-6908"
+              "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6908"
             }
           >
             <a href={"/service"}>
               <span className={"pxl-menu-item-text"}>
-                {"Services"}
+                {"Internship"}
                 <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
                 <span className={"pxl-item-menu-icon pxl-hide "}></span>
               </span>
             </a>
+            <InternshipDomainsMenu />
           </li>
           <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-apply-job">
             <a href="/apply-job">
@@ -170,16 +187,17 @@ export default function Navbar({ variant = 0 }) {
           </li>
           <li
             className={
-              "menu-item menu-item-type-custom menu-item-object-custom menu-item-6908"
+              "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6908"
             }
           >
             <a href={"/service"}>
               <span className={"pxl-menu-item-text"}>
-                {"Services"}
+                {"Internship"}
                 <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
                 <span className={"pxl-item-menu-icon pxl-hide "}></span>
               </span>
             </a>
+            <InternshipDomainsMenu />
           </li>
           <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-apply-job">
             <a href="/apply-job">
@@ -292,12 +310,13 @@ export default function Navbar({ variant = 0 }) {
           </li>
           <li
             className={
-              "menu-item menu-item-type-custom menu-item-object-custom menu-item-6908"
+              "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6908"
             }
           >
             <a href={"/service"}>
-              <span>{"Services"}</span>
+              <span>{"Internship"}</span>
             </a>
+            <InternshipDomainsMenu />
           </li>
           <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-apply-job">
             <a href="/apply-job">

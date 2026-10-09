@@ -1,3 +1,5 @@
+import { services } from "../../data/services";
+
 export default function CaseStudiesSection() {
   return (
     <>
@@ -57,7 +59,7 @@ export default function CaseStudiesSection() {
                         </h3>
                         <div className={"pxl-widget--desc pxl-empty"}>
                           {
-                            "Explore IT internships for students in web, mobile and digital marketing domains. Other technology-related opportunities may be available, depending on your interests and eligibility."
+                            "Explore IT internships for college students in web, mobile and digital marketing domains through Radhika SkillForge, an initiative of AICTE approved Apurva Software Solutions. Domain availability depends on your interests and eligibility."
                           }
                         </div>
                         <div className={"pxl-widget--button"}>
@@ -65,7 +67,7 @@ export default function CaseStudiesSection() {
                             className={
                               "btn btn-text-parallax btn-outline-gradient style-1"
                             }
-                            href={"portfolio/index.html"}
+                            href={"/service"}
                           >
                             <span className={"pxl--btn-text"}>
                               {"Internship Domains"}
@@ -82,7 +84,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_1"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"Web Development"}
+                                <a href={`/service/${services[0].slug}`}>{services[0].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -158,7 +160,7 @@ export default function CaseStudiesSection() {
                             </svg>
                           </div>
                           <div className={"pxl-post--image"}>
-                            <a href={"index.html%3Fp=2574.html"}>
+                            <a href={`/service/${services[0].slug}`}>
                               <img
                                 loading={"lazy"}
                                 decoding={"async"}
@@ -174,7 +176,7 @@ export default function CaseStudiesSection() {
                             </a>
                             <div className={"pxl-post--readmore"}>
                               <a
-                                href={"index.html%3Fp=2574.html"}
+                                href={`/service/${services[0].slug}`}
                                 className={"btn btn-stroke"}
                               >
                                 <span className={"pxl--btn-text"}>
@@ -203,7 +205,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_2"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"Frontend Development"}
+                                <a href={`/service/${services[1].slug}`}>{services[1].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -279,7 +281,7 @@ export default function CaseStudiesSection() {
                             </svg>
                           </div>
                           <div className={"pxl-post--image"}>
-                            <a href={"index.html%3Fp=2572.html"}>
+                            <a href={`/service/${services[1].slug}`}>
                               <img
                                 loading={"lazy"}
                                 decoding={"async"}
@@ -295,7 +297,7 @@ export default function CaseStudiesSection() {
                             </a>
                             <div className={"pxl-post--readmore"}>
                               <a
-                                href={"index.html%3Fp=2572.html"}
+                                href={`/service/${services[1].slug}`}
                                 className={"btn btn-stroke"}
                               >
                                 <span className={"pxl--btn-text"}>
@@ -324,7 +326,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_3"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"Backend Development"}
+                                <a href={`/service/${services[2].slug}`}>{services[2].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -400,7 +402,7 @@ export default function CaseStudiesSection() {
                             </svg>
                           </div>
                           <div className={"pxl-post--image"}>
-                            <a href={"index.html%3Fp=2570.html"}>
+                            <a href={`/service/${services[2].slug}`}>
                               <img
                                 loading={"lazy"}
                                 decoding={"async"}
@@ -416,7 +418,7 @@ export default function CaseStudiesSection() {
                             </a>
                             <div className={"pxl-post--readmore"}>
                               <a
-                                href={"index.html%3Fp=2570.html"}
+                                href={`/service/${services[2].slug}`}
                                 className={"btn btn-stroke"}
                               >
                                 <span className={"pxl--btn-text"}>
@@ -445,7 +447,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_4"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"Full-Stack Development"}
+                                <a href={`/service/${services[3].slug}`}>{services[3].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -521,7 +523,7 @@ export default function CaseStudiesSection() {
                             </svg>
                           </div>
                           <div className={"pxl-post--image"}>
-                            <a href={"index.html%3Fp=2568.html"}>
+                            <a href={`/service/${services[3].slug}`}>
                               <img
                                 loading={"lazy"}
                                 decoding={"async"}
@@ -537,7 +539,7 @@ export default function CaseStudiesSection() {
                             </a>
                             <div className={"pxl-post--readmore"}>
                               <a
-                                href={"index.html%3Fp=2568.html"}
+                                href={`/service/${services[3].slug}`}
                                 className={"btn btn-stroke"}
                               >
                                 <span className={"pxl--btn-text"}>
@@ -566,7 +568,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_5"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"Mobile Application Development"}
+                                <a href={`/service/${services[4].slug}`}>{services[4].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -642,7 +644,7 @@ export default function CaseStudiesSection() {
                             </svg>
                           </div>
                           <div className={"pxl-post--image"}>
-                            <a href={"index.html%3Fp=2566.html"}>
+                            <a href={`/service/${services[4].slug}`}>
                               <img
                                 loading={"lazy"}
                                 decoding={"async"}
@@ -658,7 +660,7 @@ export default function CaseStudiesSection() {
                             </a>
                             <div className={"pxl-post--readmore"}>
                               <a
-                                href={"index.html%3Fp=2566.html"}
+                                href={`/service/${services[4].slug}`}
                                 className={"btn btn-stroke"}
                               >
                                 <span className={"pxl--btn-text"}>
@@ -687,7 +689,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_6"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                {"Digital Marketing"}
+                                <a href={`/service/${services[5].slug}`}>{services[5].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -763,7 +765,7 @@ export default function CaseStudiesSection() {
                             </svg>
                           </div>
                           <div className={"pxl-post--image"}>
-                            <a href={"index.html%3Fp=2564.html"}>
+                            <a href={`/service/${services[5].slug}`}>
                               <img
                                 loading={"lazy"}
                                 decoding={"async"}
@@ -779,7 +781,7 @@ export default function CaseStudiesSection() {
                             </a>
                             <div className={"pxl-post--readmore"}>
                               <a
-                                href={"index.html%3Fp=2564.html"}
+                                href={`/service/${services[5].slug}`}
                                 className={"btn btn-stroke"}
                               >
                                 <span className={"pxl--btn-text"}>

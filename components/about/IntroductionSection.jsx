@@ -206,7 +206,7 @@ export default function IntroductionSection() {
                                       data-wow-delay={"ms"}
                                     >
                                       {
-                                        "\n\t\tRadhika SkillForge – Placement & Training Institute, an initiative of Apurva Software Solutions, offers an internship programme for graduation students in India. College students from technical and non-technical backgrounds can build practical skills through mentor guidance, assignments and projects. Our student internship and training programme complements academic study with practical experience and skill development.\n\n\t\t\n\t"
+                                        "\n\t\tRadhika SkillForge – Placement & Training Institute, an initiative of Apurva Software Solutions, offers an internship programme for graduation students in India. Apurva Software Solutions is our AICTE approved parent company for internships. College students from technical and non-technical backgrounds can build practical skills through mentor guidance, assignments and projects. Our student internship and training programme complements academic study with practical experience and skill development.\n\n\t\t\n\t"
                                       }
                                     </div>
                                   </div>

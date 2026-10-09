@@ -492,7 +492,7 @@ function HeroSection() {
                                                                                                     zIndex: "7",
                                                                                                     fontFamily: "'Lato'"
                                                                                                 },
-                                                                                                children: "Explore a student internship programme in India with Radhika SkillForge, an initiative of Apurva Software Solutions. \n\t\t\t\t\t\t\t\t"
+                                                                                                children: "Explore online internships for college students in India with Radhika SkillForge, an initiative of Apurva Software Solutions, an AICTE approved company for internships. \n\t\t\t\t\t\t\t\t"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                 lineNumber: 352,
@@ -865,7 +865,7 @@ function HeroSection() {
                                                                                                     zIndex: "7",
                                                                                                     fontFamily: "'Lato'"
                                                                                                 },
-                                                                                                children: "Internship and training opportunities for college students from technical and non-technical backgrounds. \n\t\t\t\t\t\t\t\t"
+                                                                                                children: "Explore internship training for engineering students and internship opportunities for non-technical students, subject to domain eligibility. \n\t\t\t\t\t\t\t\t"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                 lineNumber: 618,
@@ -1238,7 +1238,7 @@ function HeroSection() {
                                                                                                     zIndex: "7",
                                                                                                     fontFamily: "'Lato'"
                                                                                                 },
-                                                                                                children: "Build practical skills through project-based internship learning, assignments and mentor guidance. \n\t\t\t\t\t\t\t\t"
+                                                                                                children: "Build practical skills through project-based internship training for students, with assignments and mentor guidance. \n\t\t\t\t\t\t\t\t"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                 lineNumber: 884,
@@ -1611,7 +1611,7 @@ function HeroSection() {
                                                                                                     zIndex: "7",
                                                                                                     fontFamily: "'Lato'"
                                                                                                 },
-                                                                                                children: "Explore online internships for students across India. Participation depends on your chosen domain and programme. \n\t\t\t\t\t\t\t\t"
+                                                                                                children: "Explore online internship training for beginners in India. Participation depends on your chosen domain and programme. \n\t\t\t\t\t\t\t\t"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/HeroSection.jsx",
                                                                                                 lineNumber: 1150,
