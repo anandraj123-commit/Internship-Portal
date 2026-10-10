@@ -279,7 +279,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/wp-content/uploads/2023/09/u-team1.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-practical.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -291,7 +291,7 @@ function TeamSection() {
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                         className: "pxl-image--bg image-bg",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/wp-content/uploads/2023/09/u-team1.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-practical.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",
@@ -433,7 +433,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/wp-content/uploads/2023/09/u-team2.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-mentorship.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -445,7 +445,7 @@ function TeamSection() {
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                         className: "pxl-image--bg image-bg",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/wp-content/uploads/2023/09/u-team2.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-mentorship.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",
@@ -587,7 +587,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/wp-content/uploads/2023/09/u-team3.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-projects.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -599,7 +599,7 @@ function TeamSection() {
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                         className: "pxl-image--bg image-bg",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/wp-content/uploads/2023/09/u-team3.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-projects.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",
@@ -741,7 +741,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/wp-content/uploads/2023/09/u-team4.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-certificate.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -753,7 +753,7 @@ function TeamSection() {
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                         className: "pxl-image--bg image-bg",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/wp-content/uploads/2023/09/u-team4.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-certificate.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",
@@ -895,7 +895,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/wp-content/uploads/2023/09/u-team5.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-academic-support.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -907,7 +907,7 @@ function TeamSection() {
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                         className: "pxl-image--bg image-bg",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/wp-content/uploads/2023/09/u-team5.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-academic-support.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",
@@ -1049,7 +1049,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/wp-content/uploads/2023/09/u-team6.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-beginner.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -1061,7 +1061,7 @@ function TeamSection() {
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                                         className: "pxl-image--bg image-bg",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/wp-content/uploads/2023/09/u-team6.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-beginner.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",

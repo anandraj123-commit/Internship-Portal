@@ -194,7 +194,7 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/wp-content/uploads/2023/09/u-team1.jpg)",
+                                      "url(/images/internship-benefit-practical.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
@@ -202,7 +202,7 @@ export default function TeamSection() {
                                     className={"pxl-image--bg image-bg"}
                                     style={{
                                       backgroundImage:
-                                        "url(/wp-content/uploads/2023/09/u-team1.jpg)",
+                                        "url(/images/internship-benefit-practical.jpg)",
                                     }}
                                   ></div>
                                 </div>
@@ -248,7 +248,7 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/wp-content/uploads/2023/09/u-team2.jpg)",
+                                      "url(/images/internship-benefit-mentorship.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
@@ -256,7 +256,7 @@ export default function TeamSection() {
                                     className={"pxl-image--bg image-bg"}
                                     style={{
                                       backgroundImage:
-                                        "url(/wp-content/uploads/2023/09/u-team2.jpg)",
+                                        "url(/images/internship-benefit-mentorship.jpg)",
                                     }}
                                   ></div>
                                 </div>
@@ -302,7 +302,7 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/wp-content/uploads/2023/09/u-team3.jpg)",
+                                      "url(/images/internship-benefit-projects.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
@@ -310,7 +310,7 @@ export default function TeamSection() {
                                     className={"pxl-image--bg image-bg"}
                                     style={{
                                       backgroundImage:
-                                        "url(/wp-content/uploads/2023/09/u-team3.jpg)",
+                                        "url(/images/internship-benefit-projects.jpg)",
                                     }}
                                   ></div>
                                 </div>
@@ -356,7 +356,7 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/wp-content/uploads/2023/09/u-team4.jpg)",
+                                      "url(/images/internship-benefit-certificate.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
@@ -364,7 +364,7 @@ export default function TeamSection() {
                                     className={"pxl-image--bg image-bg"}
                                     style={{
                                       backgroundImage:
-                                        "url(/wp-content/uploads/2023/09/u-team4.jpg)",
+                                        "url(/images/internship-benefit-certificate.jpg)",
                                     }}
                                   ></div>
                                 </div>
@@ -410,7 +410,7 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/wp-content/uploads/2023/09/u-team5.jpg)",
+                                      "url(/images/internship-benefit-academic-support.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
@@ -418,7 +418,7 @@ export default function TeamSection() {
                                     className={"pxl-image--bg image-bg"}
                                     style={{
                                       backgroundImage:
-                                        "url(/wp-content/uploads/2023/09/u-team5.jpg)",
+                                        "url(/images/internship-benefit-academic-support.jpg)",
                                     }}
                                   ></div>
                                 </div>
@@ -464,7 +464,7 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/wp-content/uploads/2023/09/u-team6.jpg)",
+                                      "url(/images/internship-benefit-beginner.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
@@ -472,7 +472,7 @@ export default function TeamSection() {
                                     className={"pxl-image--bg image-bg"}
                                     style={{
                                       backgroundImage:
-                                        "url(/wp-content/uploads/2023/09/u-team6.jpg)",
+                                        "url(/images/internship-benefit-beginner.jpg)",
                                     }}
                                   ></div>
                                 </div>

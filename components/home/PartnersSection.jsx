@@ -1,7 +1,32 @@
+import { useEffect, useRef } from "react";
 import ApplyButton from "../ApplyButton";
 import { services } from "../../data/services";
 
 export default function PartnersSection() {
+  const internshipImageRef = useRef(null);
+
+  useEffect(() => {
+    const image = internshipImageRef.current;
+    const mask = image?.closest(".pxl-sticky-mask");
+    if (!image || !mask || window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      return;
+    }
+
+    image.classList.add("internship-section-image--pending");
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (!entry.isIntersecting) return;
+        image.classList.remove("internship-section-image--pending");
+        image.classList.add("internship-section-image--revealed");
+        observer.disconnect();
+      },
+      { threshold: 0.15 }
+    );
+
+    observer.observe(mask);
+    return () => observer.disconnect();
+  }, []);
+
   return (
     <>
       <section
@@ -74,6 +99,7 @@ export default function PartnersSection() {
                                 "College students collaborating on technology and creative internship projects"
                               }
                               className={"internship-section-image"}
+                              ref={internshipImageRef}
                               width={"1536"}
                               height={"1024"}
                               style={{

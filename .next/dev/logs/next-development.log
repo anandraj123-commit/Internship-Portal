@@ -1,27 +1,28 @@
-{"timestamp":"00:00:00.652","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:01.600","source":"Browser","level":"LOG","message":"JQMIGRATE: Migrate is installed, version 3.4.1"}
-{"timestamp":"00:00:03.386","source":"Browser","level":"WARN","message":"GSAP target .pxl-section-fix-bottom not found. https://greensock.com"}
-{"timestamp":"00:00:03.410","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mGSAP target .pxl-section-fix-bottom not found. https://greensock.com\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/gsap.min.js:10:933)\\u001b[22m\""}
-{"timestamp":"00:00:03.410","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-bottom"}
-{"timestamp":"00:00:03.416","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-bottom\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
-{"timestamp":"00:00:03.416","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-top"}
-{"timestamp":"00:00:03.418","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-top\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
-{"timestamp":"00:00:03.418","source":"Browser","level":"WARN","message":"GSAP target .pxl-section-fix-bottom .pxl-section-overlay-color not found. https://greensock.com"}
-{"timestamp":"00:00:03.421","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mGSAP target .pxl-section-fix-bottom .pxl-section-overlay-color not found. https://greensock.com\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/gsap.min.js:10:933)\\u001b[22m\""}
-{"timestamp":"00:00:03.421","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-bottom"}
-{"timestamp":"00:00:03.424","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-bottom\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
-{"timestamp":"00:00:03.424","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-top"}
-{"timestamp":"00:00:03.426","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-top\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
-{"timestamp":"00:03:10.557","source":"Server","level":"LOG","message":"✓ Compiled in 41ms"}
-{"timestamp":"00:03:36.525","source":"Browser","level":"WARN","message":"GSAP target .pxl-section-fix-bottom not found. https://greensock.com"}
-{"timestamp":"00:03:36.531","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mGSAP target .pxl-section-fix-bottom not found. https://greensock.com\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/gsap.min.js:10:933)\\u001b[22m\""}
-{"timestamp":"00:03:36.532","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-bottom"}
-{"timestamp":"00:03:36.532","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-bottom\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
-{"timestamp":"00:03:36.532","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-top"}
-{"timestamp":"00:03:36.532","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-top\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
-{"timestamp":"00:03:36.532","source":"Browser","level":"WARN","message":"GSAP target .pxl-section-fix-bottom .pxl-section-overlay-color not found. https://greensock.com"}
-{"timestamp":"00:03:36.533","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mGSAP target .pxl-section-fix-bottom .pxl-section-overlay-color not found. https://greensock.com\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/gsap.min.js:10:933)\\u001b[22m\""}
-{"timestamp":"00:03:36.533","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-bottom"}
-{"timestamp":"00:03:36.533","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-bottom\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
-{"timestamp":"00:03:36.533","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-top"}
-{"timestamp":"00:03:36.533","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-top\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
+{"timestamp":"00:00:00.682","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:01.645","source":"Browser","level":"LOG","message":"JQMIGRATE: Migrate is installed, version 3.4.1"}
+{"timestamp":"00:00:04.278","source":"Browser","level":"LOG","message":"JQMIGRATE: Migrate is installed, version 3.4.1"}
+{"timestamp":"00:00:05.922","source":"Browser","level":"WARN","message":"GSAP target .pxl-section-fix-bottom not found. https://greensock.com"}
+{"timestamp":"00:00:05.938","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mGSAP target .pxl-section-fix-bottom not found. https://greensock.com\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/gsap.min.js:10:933)\\u001b[22m\""}
+{"timestamp":"00:00:05.938","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-bottom"}
+{"timestamp":"00:00:05.941","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-bottom\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
+{"timestamp":"00:00:05.941","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-top"}
+{"timestamp":"00:00:05.942","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-top\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
+{"timestamp":"00:00:05.942","source":"Browser","level":"WARN","message":"GSAP target .pxl-section-fix-bottom .pxl-section-overlay-color not found. https://greensock.com"}
+{"timestamp":"00:00:05.942","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mGSAP target .pxl-section-fix-bottom .pxl-section-overlay-color not found. https://greensock.com\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/gsap.min.js:10:933)\\u001b[22m\""}
+{"timestamp":"00:00:05.942","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-bottom"}
+{"timestamp":"00:00:05.943","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-bottom\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
+{"timestamp":"00:00:05.943","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-top"}
+{"timestamp":"00:00:05.943","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-top\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
+{"timestamp":"00:00:21.152","source":"Browser","level":"LOG","message":"JQMIGRATE: Migrate is installed, version 3.4.1"}
+{"timestamp":"00:00:21.544","source":"Browser","level":"WARN","message":"GSAP target .pxl-section-fix-bottom not found. https://greensock.com"}
+{"timestamp":"00:00:21.545","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mGSAP target .pxl-section-fix-bottom not found. https://greensock.com\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/gsap.min.js:10:933)\\u001b[22m\""}
+{"timestamp":"00:00:21.545","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-bottom"}
+{"timestamp":"00:00:21.546","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-bottom\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
+{"timestamp":"00:00:21.546","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-top"}
+{"timestamp":"00:00:21.548","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-top\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
+{"timestamp":"00:00:21.548","source":"Browser","level":"WARN","message":"GSAP target .pxl-section-fix-bottom .pxl-section-overlay-color not found. https://greensock.com"}
+{"timestamp":"00:00:21.549","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mGSAP target .pxl-section-fix-bottom .pxl-section-overlay-color not found. https://greensock.com\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/gsap.min.js:10:933)\\u001b[22m\""}
+{"timestamp":"00:00:21.549","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-bottom"}
+{"timestamp":"00:00:21.550","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-bottom\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}
+{"timestamp":"00:00:21.550","source":"Browser","level":"WARN","message":"Element not found: .pxl-section-fix-top"}
+{"timestamp":"00:00:21.552","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.pxl-section-fix-top\\u001b[39m\" \"\\u001b[2m(http://localhost:3000/wp-content/themes/saira/assets/js/libs/scroll-trigger.js:10:1171)\\u001b[22m\""}

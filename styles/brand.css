@@ -19,6 +19,21 @@
   --header-bg: rgba(255, 74, 23, 0.72);
 }
 
+.internship-section-image--pending {
+  transform: translateX(-100%);
+}
+.internship-section-image--revealed {
+  transform: translateX(0);
+  transition: transform 1.2s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+@media (prefers-reduced-motion: reduce) {
+  .internship-section-image--pending,
+  .internship-section-image--revealed {
+    transform: none;
+    transition: none;
+  }
+}
+
 body .btn,
 body button[type="submit"],
 body input[type="submit"],
