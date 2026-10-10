@@ -279,7 +279,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/images/internship-benefit-practical.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-practical-portrait.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -289,9 +289,9 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--overlay",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                        className: "pxl-image--bg image-bg",
+                                                                                        className: "pxl-image--bg image-bg bg-image",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/images/internship-benefit-practical.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-practical-portrait.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",
@@ -433,7 +433,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/images/internship-benefit-mentorship.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-mentorship-portrait.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -443,9 +443,9 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--overlay",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                        className: "pxl-image--bg image-bg",
+                                                                                        className: "pxl-image--bg image-bg bg-image",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/images/internship-benefit-mentorship.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-mentorship-portrait.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",
@@ -587,7 +587,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/images/internship-benefit-projects.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-projects-portrait.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -597,9 +597,9 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--overlay",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                        className: "pxl-image--bg image-bg",
+                                                                                        className: "pxl-image--bg image-bg bg-image",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/images/internship-benefit-projects.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-projects-portrait.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",
@@ -741,7 +741,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/images/internship-benefit-certificate.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-certificate-portrait.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -751,9 +751,9 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--overlay",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                        className: "pxl-image--bg image-bg",
+                                                                                        className: "pxl-image--bg image-bg bg-image",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/images/internship-benefit-certificate.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-certificate-portrait.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",
@@ -895,7 +895,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/images/internship-benefit-academic-support.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-academic-support-portrait.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -905,9 +905,9 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--overlay",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                        className: "pxl-image--bg image-bg",
+                                                                                        className: "pxl-image--bg image-bg bg-image",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/images/internship-benefit-academic-support.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-academic-support-portrait.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",
@@ -1049,7 +1049,7 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--main bg-image",
                                                                                     style: {
-                                                                                        backgroundImage: "url(/images/internship-benefit-beginner.jpg)"
+                                                                                        backgroundImage: "url(/images/internship-benefit-beginner-portrait.jpg)"
                                                                                     }
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/home/TeamSection.jsx",
@@ -1059,9 +1059,9 @@ function TeamSection() {
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                                     className: "pxl-image--overlay",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                        className: "pxl-image--bg image-bg",
+                                                                                        className: "pxl-image--bg image-bg bg-image",
                                                                                         style: {
-                                                                                            backgroundImage: "url(/images/internship-benefit-beginner.jpg)"
+                                                                                            backgroundImage: "url(/images/internship-benefit-beginner-portrait.jpg)"
                                                                                         }
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/TeamSection.jsx",

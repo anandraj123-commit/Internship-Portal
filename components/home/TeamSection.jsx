@@ -194,15 +194,15 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/images/internship-benefit-practical.jpg)",
+                                      "url(/images/internship-benefit-practical-portrait.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
                                   <div
-                                    className={"pxl-image--bg image-bg"}
+                                    className={"pxl-image--bg image-bg bg-image"}
                                     style={{
                                       backgroundImage:
-                                        "url(/images/internship-benefit-practical.jpg)",
+                                        "url(/images/internship-benefit-practical-portrait.jpg)",
                                     }}
                                   ></div>
                                 </div>
@@ -248,15 +248,15 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/images/internship-benefit-mentorship.jpg)",
+                                      "url(/images/internship-benefit-mentorship-portrait.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
                                   <div
-                                    className={"pxl-image--bg image-bg"}
+                                    className={"pxl-image--bg image-bg bg-image"}
                                     style={{
                                       backgroundImage:
-                                        "url(/images/internship-benefit-mentorship.jpg)",
+                                        "url(/images/internship-benefit-mentorship-portrait.jpg)",
                                     }}
                                   ></div>
                                 </div>
@@ -302,15 +302,15 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/images/internship-benefit-projects.jpg)",
+                                      "url(/images/internship-benefit-projects-portrait.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
                                   <div
-                                    className={"pxl-image--bg image-bg"}
+                                    className={"pxl-image--bg image-bg bg-image"}
                                     style={{
                                       backgroundImage:
-                                        "url(/images/internship-benefit-projects.jpg)",
+                                        "url(/images/internship-benefit-projects-portrait.jpg)",
                                     }}
                                   ></div>
                                 </div>
@@ -356,15 +356,15 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/images/internship-benefit-certificate.jpg)",
+                                      "url(/images/internship-benefit-certificate-portrait.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
                                   <div
-                                    className={"pxl-image--bg image-bg"}
+                                    className={"pxl-image--bg image-bg bg-image"}
                                     style={{
                                       backgroundImage:
-                                        "url(/images/internship-benefit-certificate.jpg)",
+                                        "url(/images/internship-benefit-certificate-portrait.jpg)",
                                     }}
                                   ></div>
                                 </div>
@@ -410,15 +410,15 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/images/internship-benefit-academic-support.jpg)",
+                                      "url(/images/internship-benefit-academic-support-portrait.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
                                   <div
-                                    className={"pxl-image--bg image-bg"}
+                                    className={"pxl-image--bg image-bg bg-image"}
                                     style={{
                                       backgroundImage:
-                                        "url(/images/internship-benefit-academic-support.jpg)",
+                                        "url(/images/internship-benefit-academic-support-portrait.jpg)",
                                     }}
                                   ></div>
                                 </div>
@@ -464,15 +464,15 @@ export default function TeamSection() {
                                   className={"pxl-image--main bg-image"}
                                   style={{
                                     backgroundImage:
-                                      "url(/images/internship-benefit-beginner.jpg)",
+                                      "url(/images/internship-benefit-beginner-portrait.jpg)",
                                   }}
                                 ></div>
                                 <div className={"pxl-image--overlay"}>
                                   <div
-                                    className={"pxl-image--bg image-bg"}
+                                    className={"pxl-image--bg image-bg bg-image"}
                                     style={{
                                       backgroundImage:
-                                        "url(/images/internship-benefit-beginner.jpg)",
+                                        "url(/images/internship-benefit-beginner-portrait.jpg)",
                                     }}
                                   ></div>
                                 </div>
