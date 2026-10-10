@@ -85,7 +85,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_1"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                <a href={`/service/${services[0].slug}`}>{services[0].title}</a>
+                                <a href={`/service/${services[0].slug}`} style={{ color: "#fff" }}>{services[0].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -207,7 +207,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_2"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                <a href={`/service/${services[1].slug}`}>{services[1].title}</a>
+                                <a href={`/service/${services[1].slug}`} style={{ color: "#fff" }}>{services[1].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -329,7 +329,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_3"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                <a href={`/service/${services[2].slug}`}>{services[2].title}</a>
+                                <a href={`/service/${services[2].slug}`} style={{ color: "#fff" }}>{services[2].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -451,7 +451,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_4"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                <a href={`/service/${services[3].slug}`}>{services[3].title}</a>
+                                <a href={`/service/${services[3].slug}`} style={{ color: "#fff" }}>{services[3].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -573,7 +573,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_5"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                <a href={`/service/${services[4].slug}`}>{services[4].title}</a>
+                                <a href={`/service/${services[4].slug}`} style={{ color: "#fff" }}>{services[4].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}
@@ -695,7 +695,7 @@ export default function CaseStudiesSection() {
                           <div className={"pxl-post-block--min pxl-post-min_6"}>
                             <div className={"pxl-post-min--inner"}>
                               <h3 className={"pxl-post--title pxl-empty"}>
-                                <a href={`/service/${services[5].slug}`}>{services[5].title}</a>
+                                <a href={`/service/${services[5].slug}`} style={{ color: "#fff" }}>{services[5].title}</a>
                               </h3>
                               <div
                                 className={"pxl-post--subtitle pxl-empty"}

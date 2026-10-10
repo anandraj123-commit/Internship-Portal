@@ -155,6 +155,9 @@ function CaseStudiesSection() {
                                                                                     className: "pxl-post--title pxl-empty",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                                                                                         href: `/service/${__TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][0].slug}`,
+                                                                                        style: {
+                                                                                            color: "#fff"
+                                                                                        },
                                                                                         children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][0].title
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/CaseStudiesSection.jsx",
@@ -381,6 +384,9 @@ function CaseStudiesSection() {
                                                                                     className: "pxl-post--title pxl-empty",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                                                                                         href: `/service/${__TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][1].slug}`,
+                                                                                        style: {
+                                                                                            color: "#fff"
+                                                                                        },
                                                                                         children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][1].title
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/CaseStudiesSection.jsx",
@@ -607,6 +613,9 @@ function CaseStudiesSection() {
                                                                                     className: "pxl-post--title pxl-empty",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                                                                                         href: `/service/${__TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][2].slug}`,
+                                                                                        style: {
+                                                                                            color: "#fff"
+                                                                                        },
                                                                                         children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][2].title
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/CaseStudiesSection.jsx",
@@ -833,6 +842,9 @@ function CaseStudiesSection() {
                                                                                     className: "pxl-post--title pxl-empty",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                                                                                         href: `/service/${__TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][3].slug}`,
+                                                                                        style: {
+                                                                                            color: "#fff"
+                                                                                        },
                                                                                         children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][3].title
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/CaseStudiesSection.jsx",
@@ -1059,6 +1071,9 @@ function CaseStudiesSection() {
                                                                                     className: "pxl-post--title pxl-empty",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                                                                                         href: `/service/${__TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][4].slug}`,
+                                                                                        style: {
+                                                                                            color: "#fff"
+                                                                                        },
                                                                                         children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][4].title
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/CaseStudiesSection.jsx",
@@ -1285,6 +1300,9 @@ function CaseStudiesSection() {
                                                                                     className: "pxl-post--title pxl-empty",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                                                                                         href: `/service/${__TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][5].slug}`,
+                                                                                        style: {
+                                                                                            color: "#fff"
+                                                                                        },
                                                                                         children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["services"][5].title
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/CaseStudiesSection.jsx",
