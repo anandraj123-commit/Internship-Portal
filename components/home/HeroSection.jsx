@@ -17,7 +17,7 @@ export default function HeroSection() {
         group.style.setProperty("--description-width", `${headingWidth * 0.8}px`);
         const descriptionTop = heading.offsetHeight + 16;
         const buttonsTop = descriptionTop + description.offsetHeight + 32;
-        const buttons = group.querySelectorAll('a[id$="-layer-5"], rs-layer[id$="-layer-7"]');
+        const buttons = group.querySelectorAll('a[id$="-layer-5"]');
         const buttonHeight = Math.max(...Array.from(buttons, (button) => button.offsetHeight));
         group.style.setProperty("--description-top", `${descriptionTop}px`);
         group.style.setProperty("--buttons-top", `${buttonsTop}px`);
@@ -29,7 +29,7 @@ export default function HeroSection() {
       frame = requestAnimationFrame(layout);
     };
     const observer = new ResizeObserver(schedule);
-    slider.querySelectorAll('rs-layer[id$="-layer-3"], rs-layer[id$="-layer-4"], a[id$="-layer-5"], rs-layer[id$="-layer-7"]').forEach((layer) => observer.observe(layer));
+    slider.querySelectorAll('rs-layer[id$="-layer-3"], rs-layer[id$="-layer-4"], a[id$="-layer-5"]').forEach((layer) => observer.observe(layer));
     window.addEventListener("resize", schedule);
     document.fonts.ready.then(schedule);
     schedule();
@@ -253,45 +253,6 @@ export default function HeroSection() {
                                           }
                                           data-no-retina={""}
                                         />
-                                      </rs-layer>
-                                      <rs-layer
-                                        id={"slider-2-slide-3-layer-7"}
-                                        data-type={"text"}
-                                        data-xy={"xo:280px,280px,280px,0;y:b;"}
-                                        data-pos={"a"}
-                                        data-text={
-                                          "w:normal;s:13;l:25,21,15,9;"
-                                        }
-                                        data-dim={"w:250px;"}
-                                        data-rsp_o={"off"}
-                                        data-rsp_bd={"off"}
-                                        data-frame_0={"x:50;"}
-                                        data-frame_1={
-                                          "e:back.inOut;st:1550;sp:1000;sR:1550;"
-                                        }
-                                        data-frame_999={"o:0;st:w;sR:6450;"}
-                                        style={{
-                                          zIndex: "9",
-                                          fontFamily: "'Roboto'",
-                                        }}
-                                      >
-                                        <a
-                                          className={
-                                            "shortcode-btn-style1 pxl-action-popup btn-text-parallax"
-                                          }
-                                          href={
-                                            "https://www.youtube.com/watch?v=SF4aHwxHtZ0"
-                                          }
-                                        >
-                                          <span
-                                            className={
-                                              "shortcode-btn-icon caseicon-play1 pxl-mr-18"
-                                            }
-                                          ></span>
-                                          <span className={"pxl--btn-text"}>
-                                            {"Video"}
-                                          </span>
-                                        </a>
                                       </rs-layer>
                                       <a
                                         id={"slider-2-slide-3-layer-5"}
@@ -520,45 +481,6 @@ export default function HeroSection() {
                                           data-no-retina={""}
                                         />
                                       </rs-layer>
-                                      <rs-layer
-                                        id={"slider-2-slide-4-layer-7"}
-                                        data-type={"text"}
-                                        data-xy={"xo:280px,280px,280px,0;y:b;"}
-                                        data-pos={"a"}
-                                        data-text={
-                                          "w:normal;s:13;l:25,21,15,9;"
-                                        }
-                                        data-dim={"w:250px;"}
-                                        data-rsp_o={"off"}
-                                        data-rsp_bd={"off"}
-                                        data-frame_0={"x:50;"}
-                                        data-frame_1={
-                                          "e:back.inOut;st:1550;sp:1000;sR:1550;"
-                                        }
-                                        data-frame_999={"o:0;st:w;sR:6450;"}
-                                        style={{
-                                          zIndex: "9",
-                                          fontFamily: "'Roboto'",
-                                        }}
-                                      >
-                                        <a
-                                          className={
-                                            "shortcode-btn-style1 pxl-action-popup btn-text-parallax"
-                                          }
-                                          href={
-                                            "https://www.youtube.com/watch?v=SF4aHwxHtZ0"
-                                          }
-                                        >
-                                          <span
-                                            className={
-                                              "shortcode-btn-icon caseicon-play1 pxl-mr-18"
-                                            }
-                                          ></span>
-                                          <span className={"pxl--btn-text"}>
-                                            {"Video"}
-                                          </span>
-                                        </a>
-                                      </rs-layer>
                                       <a
                                         id={"slider-2-slide-4-layer-5"}
                                         className={"rs-layer"}
@@ -786,45 +708,6 @@ export default function HeroSection() {
                                           data-no-retina={""}
                                         />
                                       </rs-layer>
-                                      <rs-layer
-                                        id={"slider-2-slide-5-layer-7"}
-                                        data-type={"text"}
-                                        data-xy={"xo:280px,280px,280px,0;y:b;"}
-                                        data-pos={"a"}
-                                        data-text={
-                                          "w:normal;s:13;l:25,21,15,9;"
-                                        }
-                                        data-dim={"w:250px;"}
-                                        data-rsp_o={"off"}
-                                        data-rsp_bd={"off"}
-                                        data-frame_0={"x:50;"}
-                                        data-frame_1={
-                                          "e:back.inOut;st:1550;sp:1000;sR:1550;"
-                                        }
-                                        data-frame_999={"o:0;st:w;sR:6450;"}
-                                        style={{
-                                          zIndex: "9",
-                                          fontFamily: "'Roboto'",
-                                        }}
-                                      >
-                                        <a
-                                          className={
-                                            "shortcode-btn-style1 pxl-action-popup btn-text-parallax"
-                                          }
-                                          href={
-                                            "https://www.youtube.com/watch?v=SF4aHwxHtZ0"
-                                          }
-                                        >
-                                          <span
-                                            className={
-                                              "shortcode-btn-icon caseicon-play1 pxl-mr-18"
-                                            }
-                                          ></span>
-                                          <span className={"pxl--btn-text"}>
-                                            {"Video"}
-                                          </span>
-                                        </a>
-                                      </rs-layer>
                                       <a
                                         id={"slider-2-slide-5-layer-5"}
                                         className={"rs-layer"}
@@ -1051,45 +934,6 @@ export default function HeroSection() {
                                           }
                                           data-no-retina={""}
                                         />
-                                      </rs-layer>
-                                      <rs-layer
-                                        id={"slider-2-slide-6-layer-7"}
-                                        data-type={"text"}
-                                        data-xy={"xo:280px,280px,280px,0;y:b;"}
-                                        data-pos={"a"}
-                                        data-text={
-                                          "w:normal;s:13;l:25,21,15,9;"
-                                        }
-                                        data-dim={"w:250px;"}
-                                        data-rsp_o={"off"}
-                                        data-rsp_bd={"off"}
-                                        data-frame_0={"x:50;"}
-                                        data-frame_1={
-                                          "e:back.inOut;st:1550;sp:1000;sR:1550;"
-                                        }
-                                        data-frame_999={"o:0;st:w;sR:6450;"}
-                                        style={{
-                                          zIndex: "9",
-                                          fontFamily: "'Roboto'",
-                                        }}
-                                      >
-                                        <a
-                                          className={
-                                            "shortcode-btn-style1 pxl-action-popup btn-text-parallax"
-                                          }
-                                          href={
-                                            "https://www.youtube.com/watch?v=SF4aHwxHtZ0"
-                                          }
-                                        >
-                                          <span
-                                            className={
-                                              "shortcode-btn-icon caseicon-play1 pxl-mr-18"
-                                            }
-                                          ></span>
-                                          <span className={"pxl--btn-text"}>
-                                            {"Video"}
-                                          </span>
-                                        </a>
                                       </rs-layer>
                                       <a
                                         id={"slider-2-slide-6-layer-5"}

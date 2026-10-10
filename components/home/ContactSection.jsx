@@ -27,33 +27,6 @@ export default function ContactSection() {
             >
               <div
                 className={
-                  "elementor-element elementor-element-b1a8662 elementor-widget__width-auto elementor-absolute elementor-hidden-tablet_extra elementor-hidden-tablet elementor-hidden-mobile pxl-label-custom1 elementor-widget elementor-widget-pxl_label"
-                }
-                data-id={"b1a8662"}
-                data-element_type={"widget"}
-                data-e-type={"widget"}
-                data-settings={'{"_position":"absolute"}'}
-                data-widget_type={"pxl_label.default"}
-              >
-                <div className={"elementor-widget-container"}>
-                  <div className={"pxl-e-label "} data-wow-delay={"ms"}>
-                    <div className={"pxl-label--image"}>
-                      <img
-                        loading={"lazy"}
-                        decoding={"async"}
-                        width={"55"}
-                        height={"85"}
-                        src={"/wp-content/uploads/2023/07/shape-2.png"}
-                        className={"attachment-full"}
-                        alt={""}
-                      />
-                    </div>
-                    <label>{"Or hit me up"}</label>
-                  </div>
-                </div>
-              </div>
-              <div
-                className={
                   "elementor-element elementor-element-bda067b elementor-widget__width-auto elementor-widget elementor-widget-pxl_banner_box"
                 }
                 data-id={"bda067b"}
@@ -64,128 +37,32 @@ export default function ContactSection() {
                 <div className={"elementor-widget-container"}>
                   <div className={"pxl-banner pxl-banner1 style-2"}>
                     <div className={"pxl-banner-inner"}>
-                      <div className={"pxl-item--image"}>
+                      <div
+                        className={"pxl-item--image"}
+                        style={{
+                          width: "min(100%, 514px)",
+                          aspectRatio: "4 / 5",
+                          borderRadius: "43% 57% 54% 46% / 47% 42% 58% 53%",
+                          overflow: "hidden",
+                        }}
+                      >
                         <img
                           loading={"lazy"}
                           decoding={"async"}
                           width={"514"}
                           height={"628"}
-                          src={"/images/internship-career-prep.jpg"}
+                          src={"/images/internship-footer-students.jpg"}
                           className={"attachment-full"}
-                          alt={""}
-                          srcSet={
-                            "/images/internship-career-prep.jpg 1536w"
-                          }
+                          alt={"College students collaborating on an internship project"}
+                          style={{
+                            display: "block",
+                            width: "100%",
+                            height: "100%",
+                            objectFit: "cover",
+                            objectPosition: "center",
+                          }}
+                          srcSet={"/images/internship-footer-students.jpg 1122w"}
                           sizes={"(max-width: 514px) 100vw, 514px"}
-                        />
-                      </div>
-                      <svg
-                        className={"pxl-svg-ani-01"}
-                        xmlns={"http://www.w3.org/2000/svg"}
-                        width={"445"}
-                        height={"490"}
-                        viewBox={"0 0 445 490"}
-                      >
-                        <defs>
-                          <linearGradient
-                            id={"pxl-svg-ani-01-pxl_banner_box-bda067b-8982"}
-                            x1={"0%"}
-                            y1={"0%"}
-                            x2={"100%"}
-                            y2={"0%"}
-                          >
-                            <stop
-                              offset={"0%"}
-                              style={{ stopColor: "var(--brand-color)", stopOpacity: "1" }}
-                            ></stop>
-                            <stop
-                              offset={"100%"}
-                              style={{ stopColor: "var(--brand-color)", stopOpacity: "1" }}
-                            ></stop>
-                          </linearGradient>
-                        </defs>
-                        <path
-                          fill={
-                            "url(#pxl-svg-ani-01-pxl_banner_box-bda067b-8982)"
-                          }
-                          d={
-                            "M425.838,151.942c51.155,124.875-6.183,267.131-132.28,319.286C229.435,497.7,170.2,492.984,139.454,459.1c-34-32.682-39.5-94.528-71.363-154.653C39.085,243.273-1.3,191.908,1.543,141.886,1.144,93.055,43.971,45.567,106.552,19.662c125.8-52.044,267.285,7.717,319.286,132.28"
-                          }
-                        ></path>
-                      </svg>
-                      <svg
-                        className={"pxl-svg-ani-02"}
-                        xmlns={"http://www.w3.org/2000/svg"}
-                        width={"490"}
-                        height={"442"}
-                        viewBox={"0 0 490 442"}
-                      >
-                        <defs>
-                          <linearGradient
-                            id={"pxl-svg-ani-02-pxl_banner_box-bda067b-8982"}
-                            x1={"0%"}
-                            y1={"0%"}
-                            x2={"100%"}
-                            y2={"0%"}
-                          >
-                            <stop
-                              offset={"0%"}
-                              style={{ stopColor: "var(--brand-color)", stopOpacity: "1" }}
-                            ></stop>
-                            <stop
-                              offset={"100%"}
-                              style={{ stopColor: "var(--brand-color)", stopOpacity: "1" }}
-                            ></stop>
-                          </linearGradient>
-                        </defs>
-                        <path
-                          fill={
-                            "url(#pxl-svg-ani-02-pxl_banner_box-bda067b-8982)"
-                          }
-                          d={
-                            "M161.212,16.55C288.03-29.579,427.883,33.392,474.962,161.471,498.854,226.6,491.776,285.6,456.7,314.967c-34.013,32.667-96.029,35.693-157.379,65.133-62.286,26.54-115.222,64.841-165.091,60-48.808-1.55-94.548-46.238-117.935-109.8C-30.69,202.526,34.672,63.536,161.212,16.55"
-                          }
-                        ></path>
-                      </svg>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                className={
-                  "elementor-element elementor-element-f63fc69 elementor-widget__width-auto elementor-absolute elementor-hidden-tablet_extra elementor-hidden-tablet elementor-hidden-mobile pxl-img-custom1 elementor-widget elementor-widget-pxl_image"
-                }
-                data-id={"f63fc69"}
-                data-element_type={"widget"}
-                data-e-type={"widget"}
-                data-settings={'{"_position":"absolute"}'}
-                data-widget_type={"pxl_image.default"}
-              >
-                <div className={"elementor-widget-container"}>
-                  <div
-                    id={"pxl_image-f63fc69-7293"}
-                    className={
-                      "pxl-image-single pxl-disable-parallax-sm pxl-hide-sr-lg pxl-image-spin "
-                    }
-                    data-wow-delay={"ms"}
-                  >
-                    <div className={"pxl-item--inner"} data-wow-delay={"120ms"}>
-                      <div
-                        className={"pxl-item--image"}
-                        data-parallax-value={""}
-                      >
-                        <img
-                          loading={"lazy"}
-                          decoding={"async"}
-                          width={"240"}
-                          height={"240"}
-                          src={"/wp-content/uploads/2023/07/shape-1.png"}
-                          className={"no-lazyload attachment-full"}
-                          alt={""}
-                          srcSet={
-                            "/wp-content/uploads/2023/07/shape-1.png 240w, /wp-content/uploads/2023/07/shape-1-150x150.png 150w"
-                          }
-                          sizes={"(max-width: 240px) 100vw, 240px"}
                         />
                       </div>
                     </div>
