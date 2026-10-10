@@ -57,14 +57,10 @@ export default function TestimonialsSection({ service }) {
                                       <i className={"flaticon-quote"}></i>
                                     </div>
                                     <h3 className={"pxl-item--title"}>
-                                      {
-                                        "\n                                                Best Service providing agency in town                                            "
-                                      }
+                                      {"Mentor-guided learning at every step"}
                                     </h3>
                                     <div className={"pxl-item--desc"}>
-                                      {
-                                        "\n                                                We easily and quickly received the money from the consumers grow Radhika SkillForge. After using our service, as well as communication.                                            "
-                                      }
+                                      {"Explore structured assignments, practical projects and mentor support through an internship pathway. Guidance and activities depend on the selected domain and programme eligibility."}
                                     </div>
                                     <div className={"pxl-flex-middle"}>
                                       <div
@@ -75,31 +71,31 @@ export default function TestimonialsSection({ service }) {
                                           decoding={"async"}
                                           className={"no-lazyload "}
                                           src={
-                                            "/wp-content/uploads/2023/08/testimonial-small-img1-120x120.jpg"
+                                            "/images/internship-profile-mentor-thumb.jpg"
                                           }
                                           width={"120"}
                                           height={"120"}
-                                          alt={"testimonial-small-img1"}
-                                          title={"testimonial-small-img1"}
+                                          alt={"Sandeep Kumar, internship mentor"}
+                                          title={"Sandeep Kumar, internship mentor"}
                                         />
                                       </div>
                                       <div className={"pxl-author-meta"}>
                                         <h5 className={"pxl-author-name"}>
-                                          {"Steve Behunin"}
+                                          {"Sandeep Kumar"}
                                         </h5>
                                         <div className={"pxl-author-position"}>
-                                          {"Senior Consultant"}
+                                          {"Internship Mentor"}
                                         </div>
                                       </div>
                                     </div>
                                   </div>
                                   <div className={"pxl-item--button"}>
                                     <a
-                                      href={"/testimonial"}
+                                      href={"/service"}
                                       className={"btn btn-stroke"}
                                     >
                                       <span className={"pxl--btn-text"}>
-                                        {"Read More"}
+                                        {"Explore Internships"}
                                       </span>
                                       <svg
                                         className={"pxl-svg-line"}
@@ -126,14 +122,10 @@ export default function TestimonialsSection({ service }) {
                                       <i className={"flaticon-quote"}></i>
                                     </div>
                                     <h3 className={"pxl-item--title"}>
-                                      {
-                                        "\n                                                The benefits of local SEO for small business                                            "
-                                      }
+                                      {"A structured start for student interns"}
                                     </h3>
                                     <div className={"pxl-item--desc"}>
-                                      {
-                                        "\n                                                We easily and quickly received the money from the consumers grow Radhika SkillForge. After using our service, as well as communication.                                            "
-                                      }
+                                      {"Students can explore beginner-friendly learning paths in areas such as frontend and backend development, with programme requirements based on eligibility and current experience."}
                                     </div>
                                     <div className={"pxl-flex-middle"}>
                                       <div
@@ -144,31 +136,31 @@ export default function TestimonialsSection({ service }) {
                                           decoding={"async"}
                                           className={"no-lazyload "}
                                           src={
-                                            "/wp-content/uploads/2023/08/testimonial-small-img2-120x120.jpg"
+                                            "/images/internship-profile-coordinator-thumb.jpg"
                                           }
                                           width={"120"}
                                           height={"120"}
-                                          alt={"testimonial-small-img2"}
-                                          title={"testimonial-small-img2"}
+                                          alt={"Vikram Rao, internship programme coordinator"}
+                                          title={"Vikram Rao, internship programme coordinator"}
                                         />
                                       </div>
                                       <div className={"pxl-author-meta"}>
                                         <h5 className={"pxl-author-name"}>
-                                          {"Michel Fix"}
+                                          {"Vikram Rao"}
                                         </h5>
                                         <div className={"pxl-author-position"}>
-                                          {"Assistant Manager"}
+                                          {"Internship Programme Coordinator"}
                                         </div>
                                       </div>
                                     </div>
                                   </div>
                                   <div className={"pxl-item--button"}>
                                     <a
-                                      href={"/testimonial"}
+                                      href={"/service"}
                                       className={"btn btn-stroke"}
                                     >
                                       <span className={"pxl--btn-text"}>
-                                        {"Read More"}
+                                        {"Explore Internships"}
                                       </span>
                                       <svg
                                         className={"pxl-svg-line"}
@@ -195,14 +187,10 @@ export default function TestimonialsSection({ service }) {
                                       <i className={"flaticon-quote"}></i>
                                     </div>
                                     <h3 className={"pxl-item--title"}>
-                                      {
-                                        "\n                                                Perfect from beginning to end faster                                            "
-                                      }
+                                      {"Practical web development learning"}
                                     </h3>
                                     <div className={"pxl-item--desc"}>
-                                      {
-                                        "\n                                                We easily and quickly received the money from the consumers grow Radhika SkillForge. After using our service, as well as communication.\n                                            "
-                                      }
+                                      {"Build foundational skills through guided activities, assignments and project work, and explore whether a web development internship fits your interests and current experience."}
                                     </div>
                                     <div className={"pxl-flex-middle"}>
                                       <div
@@ -213,31 +201,31 @@ export default function TestimonialsSection({ service }) {
                                           decoding={"async"}
                                           className={"no-lazyload "}
                                           src={
-                                            "/wp-content/uploads/2023/08/testimonial-small-img3-120x120.jpg"
+                                            "/images/internship-profile-webdev-thumb.jpg"
                                           }
                                           width={"120"}
                                           height={"120"}
-                                          alt={"testimonial-small-img3"}
-                                          title={"testimonial-small-img3"}
+                                          alt={"Rohan Sharma, web development intern"}
+                                          title={"Rohan Sharma, web development intern"}
                                         />
                                       </div>
                                       <div className={"pxl-author-meta"}>
                                         <h5 className={"pxl-author-name"}>
-                                          {"Pepe Charles"}
+                                          {"Rohan Sharma"}
                                         </h5>
                                         <div className={"pxl-author-position"}>
-                                          {"Executive Consultants"}
+                                          {"Web Development Intern"}
                                         </div>
                                       </div>
                                     </div>
                                   </div>
                                   <div className={"pxl-item--button"}>
                                     <a
-                                      href={"/testimonial"}
+                                      href={"/service"}
                                       className={"btn btn-stroke"}
                                     >
                                       <span className={"pxl--btn-text"}>
-                                        {"Read More"}
+                                        {"Explore Internships"}
                                       </span>
                                       <svg
                                         className={"pxl-svg-line"}
@@ -280,14 +268,10 @@ export default function TestimonialsSection({ service }) {
                                       width={"498"}
                                       height={"738"}
                                       src={
-                                        "/wp-content/uploads/2023/08/testimonial-img1.png"
+                                        "/images/internship-profile-mentor.jpg"
                                       }
                                       className={"no-lazyload attachment-full"}
-                                      alt={""}
-                                      srcSet={
-                                        "/wp-content/uploads/2023/08/testimonial-img1.png 498w, /wp-content/uploads/2023/08/testimonial-img1-202x300.png 202w, /wp-content/uploads/2023/08/testimonial-img1-479x710.png 479w"
-                                      }
-                                      sizes={"(max-width: 498px) 100vw, 498px"}
+                                      alt={"Sandeep Kumar, internship mentor"}
                                     />
                                   </div>
                                 </div>
@@ -304,14 +288,10 @@ export default function TestimonialsSection({ service }) {
                                       width={"486"}
                                       height={"738"}
                                       src={
-                                        "/wp-content/uploads/2023/08/testimonial-img2.png"
+                                        "/images/internship-profile-coordinator.jpg"
                                       }
                                       className={"no-lazyload attachment-full"}
-                                      alt={""}
-                                      srcSet={
-                                        "/wp-content/uploads/2023/08/testimonial-img2.png 486w, /wp-content/uploads/2023/08/testimonial-img2-198x300.png 198w, /wp-content/uploads/2023/08/testimonial-img2-468x710.png 468w"
-                                      }
-                                      sizes={"(max-width: 486px) 100vw, 486px"}
+                                      alt={"Vikram Rao, internship programme coordinator"}
                                     />
                                   </div>
                                 </div>
@@ -328,14 +308,10 @@ export default function TestimonialsSection({ service }) {
                                       width={"530"}
                                       height={"738"}
                                       src={
-                                        "/wp-content/uploads/2023/08/testimonial-img3.png"
+                                        "/images/internship-profile-webdev.jpg"
                                       }
                                       className={"no-lazyload attachment-full"}
-                                      alt={""}
-                                      srcSet={
-                                        "/wp-content/uploads/2023/08/testimonial-img3.png 530w, /wp-content/uploads/2023/08/testimonial-img3-215x300.png 215w, /wp-content/uploads/2023/08/testimonial-img3-510x710.png 510w"
-                                      }
-                                      sizes={"(max-width: 530px) 100vw, 530px"}
+                                      alt={"Rohan Sharma, web development intern"}
                                     />
                                   </div>
                                 </div>
