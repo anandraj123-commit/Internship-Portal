@@ -245,6 +245,73 @@ body .course-apply-image:hover > .course-apply-overlay {
   margin-top: 32px;
   text-align: center;
 }
+.internship-banner-content {
+  width: min(100%, 920px);
+  margin: auto;
+  padding: clamp(32px, 6vw, 88px) 24px;
+  text-align: center;
+}
+.internship-banner-eyebrow {
+  margin: 0 0 12px;
+  color: #ffd2c3;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.internship-banner-content h2 {
+  margin: 0;
+  color: #fff;
+  font-size: clamp(34px, 5vw, 64px);
+  font-weight: 800;
+  line-height: 1.05;
+}
+.internship-banner-description {
+  max-width: 620px;
+  margin: 18px auto 28px;
+  color: #fff;
+  font-size: clamp(16px, 1.6vw, 20px);
+  line-height: 1.6;
+}
+.internship-banner-domains {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  max-width: 780px;
+  margin: 0 auto 30px;
+  padding: 0;
+  list-style: none;
+}
+.internship-banner-domains li a {
+  display: block;
+  height: 100%;
+  padding: 13px 16px;
+  border: 1px solid rgb(255 255 255 / 45%);
+  border-radius: 8px;
+  background: rgb(12 18 28 / 46%);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background-color 180ms ease, border-color 180ms ease;
+}
+.internship-banner-domains li a:hover,
+.internship-banner-domains li a:focus-visible {
+  border-color: var(--brand-color);
+  background: var(--brand-color);
+  color: #fff;
+}
+@media (max-width: 767px) {
+  .internship-banner-domains {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    margin-bottom: 22px;
+  }
+  .internship-banner-domains li a {
+    padding: 11px 10px;
+    font-size: 13px;
+  }
+}
 @media (prefers-reduced-motion: reduce) {
   body a.course-apply-button {
     transition: none;

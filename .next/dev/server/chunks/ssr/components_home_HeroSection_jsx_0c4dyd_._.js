@@ -202,7 +202,7 @@ function HeroSection() {
                                                                                 },
                                                                                 "data-key": "rs-3",
                                                                                 "data-title": "Slide",
-                                                                                "data-thumb": "/wp-content/uploads/2023/09/u-slider-bg2-300x300.jpg",
+                                                                                "data-thumb": "/images/internship-hero.jpg",
                                                                                 "data-in": "o:0;",
                                                                                 "data-out": "a:false;",
                                                                                 children: [
@@ -214,7 +214,7 @@ function HeroSection() {
                                                                                         width: "1800",
                                                                                         height: "1066",
                                                                                         className: "rev-slidebg tp-rs-img rs-lazyload",
-                                                                                        "data-lazyload": "/wp-content/uploads/2023/09/u-slider-bg2.jpg",
+                                                                                        "data-lazyload": "/images/internship-hero.jpg",
                                                                                         "data-panzoom": "d:10000;ss:110%;se:100%;",
                                                                                         "data-no-retina": ""
                                                                                     }, void 0, false, {
@@ -574,7 +574,7 @@ function HeroSection() {
                                                                                 },
                                                                                 "data-key": "rs-4",
                                                                                 "data-title": "Slide",
-                                                                                "data-thumb": "/wp-content/uploads/2023/09/u-bg-slide-2-300x300.jpg",
+                                                                                "data-thumb": "/images/internship-web-dev.jpg",
                                                                                 "data-in": "o:0;",
                                                                                 "data-out": "a:false;",
                                                                                 children: [
@@ -587,7 +587,7 @@ function HeroSection() {
                                                                                         width: "1800",
                                                                                         height: "1066",
                                                                                         className: "rev-slidebg tp-rs-img rs-lazyload",
-                                                                                        "data-lazyload": "/wp-content/uploads/2023/09/u-bg-slide-2.jpg",
+                                                                                        "data-lazyload": "/images/internship-web-dev.jpg",
                                                                                         "data-panzoom": "d:10000;ss:100%;se:110%;",
                                                                                         "data-no-retina": ""
                                                                                     }, void 0, false, {
@@ -947,7 +947,7 @@ function HeroSection() {
                                                                                 },
                                                                                 "data-key": "rs-5",
                                                                                 "data-title": "Slide",
-                                                                                "data-thumb": "/wp-content/uploads/2023/09/u-bg-slide-3-300x300.jpg",
+                                                                                "data-thumb": "/images/internship-mentorship.jpg",
                                                                                 "data-in": "o:0;",
                                                                                 "data-out": "a:false;",
                                                                                 children: [
@@ -960,7 +960,7 @@ function HeroSection() {
                                                                                         width: "1800",
                                                                                         height: "1066",
                                                                                         className: "rev-slidebg tp-rs-img rs-lazyload",
-                                                                                        "data-lazyload": "/wp-content/uploads/2023/09/u-bg-slide-3.jpg",
+                                                                                        "data-lazyload": "/images/internship-mentorship.jpg",
                                                                                         "data-panzoom": "d:10000;ss:110%;se:100%;",
                                                                                         "data-no-retina": ""
                                                                                     }, void 0, false, {
@@ -1320,7 +1320,7 @@ function HeroSection() {
                                                                                 },
                                                                                 "data-key": "rs-6",
                                                                                 "data-title": "Slide",
-                                                                                "data-thumb": "/wp-content/uploads/2023/09/u-bg-slide-4-300x300.jpg",
+                                                                                "data-thumb": "/images/internship-mobile-app.jpg",
                                                                                 "data-in": "o:0;",
                                                                                 "data-out": "a:false;",
                                                                                 children: [
@@ -1333,7 +1333,7 @@ function HeroSection() {
                                                                                         width: "1800",
                                                                                         height: "1066",
                                                                                         className: "rev-slidebg tp-rs-img rs-lazyload",
-                                                                                        "data-lazyload": "/wp-content/uploads/2023/09/u-bg-slide-4.jpg",
+                                                                                        "data-lazyload": "/images/internship-mobile-app.jpg",
                                                                                         "data-panzoom": "d:10000;ss:100%;se:110%;",
                                                                                         "data-no-retina": ""
                                                                                     }, void 0, false, {

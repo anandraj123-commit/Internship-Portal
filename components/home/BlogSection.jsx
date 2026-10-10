@@ -127,7 +127,7 @@ export default function BlogSection() {
                                   }
                                   style={{
                                     backgroundImage:
-                                      "url(/wp-content/uploads/2023/08/blog-01-553x533.jpg)",
+                                      "url(/images/internship-career-prep.jpg)",
                                   }}
                                 >
                                   <a
@@ -140,7 +140,7 @@ export default function BlogSection() {
                                   className={"pxl-post--featured bg-image "}
                                   style={{
                                     backgroundImage:
-                                      "url(/wp-content/uploads/2023/08/blog-02-553x533.jpg)",
+                                      "url(/images/internship-web-dev.jpg)",
                                   }}
                                 >
                                   <a
@@ -153,7 +153,7 @@ export default function BlogSection() {
                                   className={"pxl-post--featured bg-image "}
                                   style={{
                                     backgroundImage:
-                                      "url(/wp-content/uploads/2023/07/blog-03-553x533.jpg)",
+                                      "url(/images/internship-teamwork.jpg)",
                                   }}
                                 >
                                   <a
@@ -166,7 +166,7 @@ export default function BlogSection() {
                                   className={"pxl-post--featured bg-image "}
                                   style={{
                                     backgroundImage:
-                                      "url(/wp-content/uploads/2023/07/blog-04-553x533.jpg)",
+                                      "url(/images/internship-mobile-app.jpg)",
                                   }}
                                 >
                                   <a
@@ -192,7 +192,7 @@ export default function BlogSection() {
                                           decoding={"async"}
                                           className={""}
                                           src={
-                                            "/wp-content/uploads/2023/08/blog-01-553x533.jpg"
+                                            "/images/internship-career-prep.jpg"
                                           }
                                           width={"553"}
                                           height={"533"}
@@ -278,7 +278,7 @@ export default function BlogSection() {
                                           decoding={"async"}
                                           className={""}
                                           src={
-                                            "/wp-content/uploads/2023/08/blog-02-553x533.jpg"
+                                            "/images/internship-web-dev.jpg"
                                           }
                                           width={"553"}
                                           height={"533"}
@@ -364,7 +364,7 @@ export default function BlogSection() {
                                           decoding={"async"}
                                           className={""}
                                           src={
-                                            "/wp-content/uploads/2023/07/blog-03-553x533.jpg"
+                                            "/images/internship-teamwork.jpg"
                                           }
                                           width={"553"}
                                           height={"533"}
@@ -450,7 +450,7 @@ export default function BlogSection() {
                                           decoding={"async"}
                                           className={""}
                                           src={
-                                            "/wp-content/uploads/2023/07/blog-04-553x533.jpg"
+                                            "/images/internship-mobile-app.jpg"
                                           }
                                           width={"553"}
                                           height={"533"}

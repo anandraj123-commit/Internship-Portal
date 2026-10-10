@@ -71,7 +71,7 @@ export default function IntroductionSection() {
                                     data-parallax={'{"y":-60}'}
                                     style={{
                                       backgroundImage:
-                                        "url(/wp-content/uploads/2023/08/video-03.jpg)",
+                                        "url(/images/internship-mentorship.jpg)",
                                     }}
                                   ></div>
                                 </div>

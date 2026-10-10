@@ -1,3 +1,6 @@
+import ApplyButton from "../ApplyButton";
+import { services } from "../../data/services";
+
 export default function PartnersSection() {
   return (
     <>
@@ -65,16 +68,42 @@ export default function PartnersSection() {
                         </div>
                         <div className={"pxl-sticky-mask"}>
                           <div className={"pxl-sticky-parallax"}>
-                            <video loop={true} autoPlay={true}>
-                              <source
-                                src={
-                                  "/wp-content/uploads/2023/07/section-video1.mp4"
-                                }
-                                type={"video/mp4"}
-                              />
-                            </video>
+                            <img
+                              src={"/images/internship-college-team-wide.jpg"}
+                              alt={
+                                "College students collaborating on technology and creative internship projects"
+                              }
+                              className={"internship-section-image"}
+                              width={"1536"}
+                              height={"1024"}
+                              style={{
+                                width: "100%",
+                                height: "100%",
+                                objectFit: "cover",
+                                display: "block",
+                              }}
+                            />
                           </div>
-                          <div className={"pxl-section-overlay"}></div>
+                          <div className={"pxl-section-overlay"}>
+                            <div className={"internship-banner-content"}>
+                              <p className={"internship-banner-eyebrow"}>
+                                Radhika SkillForge · For college students
+                              </p>
+                              <h2>Find your internship path</h2>
+                              <p className={"internship-banner-description"}>
+                                Explore practical, mentor-guided internships
+                                across technology and digital media.
+                              </p>
+                              <ul className={"internship-banner-domains"}>
+                                {services.map((service) => (
+                                  <li key={service.slug}>
+                                    <a href={service.href}>{service.title}</a>
+                                  </li>
+                                ))}
+                              </ul>
+                              <ApplyButton />
+                            </div>
+                          </div>
                         </div>
                       </div>
                     </div>

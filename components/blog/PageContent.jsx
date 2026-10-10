@@ -237,7 +237,7 @@ export default function PageContent({ children }) {
                 className="pxl-contact-info-widget bg-image"
                 style={{
                   backgroundImage:
-                    "url(/wp-content/uploads/2023/08/bg-contact-info.jpg)",
+                    "url(/images/internship-mentorship.jpg)",
                 }}
               >
                 <div className="content-inner">

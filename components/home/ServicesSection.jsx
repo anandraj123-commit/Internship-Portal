@@ -356,12 +356,12 @@ export default function ServicesSection() {
                                   width={"600"}
                                   height={"660"}
                                   src={
-                                    "/wp-content/uploads/2023/09/u-banner-1.jpg"
+                                    "/images/internship-web-dev-portrait.jpg"
                                   }
                                   className={"no-lazyload attachment-full"}
                                   alt={""}
                                   srcSet={
-                                    "/wp-content/uploads/2023/09/u-banner-1.jpg 600w, /wp-content/uploads/2023/09/u-banner-1-273x300.jpg 273w"
+                                    "/images/internship-web-dev-portrait.jpg 1200w"
                                   }
                                   sizes={"(max-width: 600px) 100vw, 600px"}
                                 />
@@ -414,11 +414,13 @@ export default function ServicesSection() {
                           decoding={"async"}
                           width={"600"}
                           height={"743"}
-                          src={"/wp-content/uploads/2023/09/u-banner-2.jpg"}
+                          src={"/images/internship-college-team-portrait.jpg"}
                           className={"no-lazyload attachment-full"}
-                          alt={""}
+                          alt={
+                            "College students collaborating on coding, app design, and internship projects"
+                          }
                           srcSet={
-                            "/wp-content/uploads/2023/09/u-banner-2.jpg 600w, /wp-content/uploads/2023/09/u-banner-2-242x300.jpg 242w, /wp-content/uploads/2023/09/u-banner-2-573x710.jpg 573w"
+                            "/images/internship-college-team-portrait.jpg 1200w"
                           }
                           sizes={"(max-width: 600px) 100vw, 600px"}
                         />

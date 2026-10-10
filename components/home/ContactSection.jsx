@@ -70,11 +70,11 @@ export default function ContactSection() {
                           decoding={"async"}
                           width={"514"}
                           height={"628"}
-                          src={"/wp-content/uploads/2023/08/banner-2.png"}
+                          src={"/images/internship-career-prep.jpg"}
                           className={"attachment-full"}
                           alt={""}
                           srcSet={
-                            "/wp-content/uploads/2023/08/banner-2.png 514w, /wp-content/uploads/2023/08/banner-2-246x300.png 246w"
+                            "/images/internship-career-prep.jpg 1536w"
                           }
                           sizes={"(max-width: 514px) 100vw, 514px"}
                         />

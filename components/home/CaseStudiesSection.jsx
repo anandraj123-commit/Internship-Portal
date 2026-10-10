@@ -167,7 +167,7 @@ export default function CaseStudiesSection() {
                                 decoding={"async"}
                                 className={""}
                                 src={
-                                  "/wp-content/uploads/2023/07/blog-07-800x542.jpg"
+                                  "/images/internship-career-prep.jpg"
                                 }
                                 width={"800"}
                                 height={"542"}
@@ -289,7 +289,7 @@ export default function CaseStudiesSection() {
                                 decoding={"async"}
                                 className={""}
                                 src={
-                                  "/wp-content/uploads/2023/08/portfolio-01-800x542.jpg"
+                                  "/images/internship-web-dev.jpg"
                                 }
                                 width={"800"}
                                 height={"542"}
@@ -411,7 +411,7 @@ export default function CaseStudiesSection() {
                                 decoding={"async"}
                                 className={""}
                                 src={
-                                  "/wp-content/uploads/2023/08/portfolio-02-800x542.jpg"
+                                  "/images/internship-teamwork.jpg"
                                 }
                                 width={"800"}
                                 height={"542"}
@@ -533,7 +533,7 @@ export default function CaseStudiesSection() {
                                 decoding={"async"}
                                 className={""}
                                 src={
-                                  "/wp-content/uploads/2023/08/portfolio-03-800x542.jpg"
+                                  "/images/internship-mobile-app.jpg"
                                 }
                                 width={"800"}
                                 height={"542"}
@@ -655,7 +655,7 @@ export default function CaseStudiesSection() {
                                 decoding={"async"}
                                 className={""}
                                 src={
-                                  "/wp-content/uploads/2023/08/portfolio-04-800x542.jpg"
+                                  "/images/internship-mentorship.jpg"
                                 }
                                 width={"800"}
                                 height={"542"}
@@ -777,7 +777,7 @@ export default function CaseStudiesSection() {
                                 decoding={"async"}
                                 className={""}
                                 src={
-                                  "/wp-content/uploads/2023/08/portfolio-06-800x542.jpg"
+                                  "/images/internship-digital-marketing.jpg"
                                 }
                                 width={"800"}
                                 height={"542"}

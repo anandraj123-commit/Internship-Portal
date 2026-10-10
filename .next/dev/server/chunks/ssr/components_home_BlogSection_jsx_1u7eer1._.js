@@ -137,7 +137,7 @@ function BlogSection() {
                                                                                 id: "pxl_post_modern-1ac5f0b-2101-0",
                                                                                 className: "pxl-post--featured bg-image pxl-post--first active",
                                                                                 style: {
-                                                                                    backgroundImage: "url(/wp-content/uploads/2023/08/blog-01-553x533.jpg)"
+                                                                                    backgroundImage: "url(/images/internship-career-prep.jpg)"
                                                                                 },
                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                                                                                     className: "pxl-post--link",
@@ -156,7 +156,7 @@ function BlogSection() {
                                                                                 id: "pxl_post_modern-1ac5f0b-2101-1",
                                                                                 className: "pxl-post--featured bg-image ",
                                                                                 style: {
-                                                                                    backgroundImage: "url(/wp-content/uploads/2023/08/blog-02-553x533.jpg)"
+                                                                                    backgroundImage: "url(/images/internship-web-dev.jpg)"
                                                                                 },
                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                                                                                     className: "pxl-post--link",
@@ -175,7 +175,7 @@ function BlogSection() {
                                                                                 id: "pxl_post_modern-1ac5f0b-2101-2",
                                                                                 className: "pxl-post--featured bg-image ",
                                                                                 style: {
-                                                                                    backgroundImage: "url(/wp-content/uploads/2023/07/blog-03-553x533.jpg)"
+                                                                                    backgroundImage: "url(/images/internship-teamwork.jpg)"
                                                                                 },
                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                                                                                     className: "pxl-post--link",
@@ -194,7 +194,7 @@ function BlogSection() {
                                                                                 id: "pxl_post_modern-1ac5f0b-2101-3",
                                                                                 className: "pxl-post--featured bg-image ",
                                                                                 style: {
-                                                                                    backgroundImage: "url(/wp-content/uploads/2023/07/blog-04-553x533.jpg)"
+                                                                                    backgroundImage: "url(/images/internship-mobile-app.jpg)"
                                                                                 },
                                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
                                                                                     className: "pxl-post--link",
@@ -239,7 +239,7 @@ function BlogSection() {
                                                                                                     loading: "lazy",
                                                                                                     decoding: "async",
                                                                                                     className: "",
-                                                                                                    src: "/wp-content/uploads/2023/08/blog-01-553x533.jpg",
+                                                                                                    src: "/images/internship-career-prep.jpg",
                                                                                                     width: "553",
                                                                                                     height: "533",
                                                                                                     alt: "blog-01",
@@ -391,7 +391,7 @@ function BlogSection() {
                                                                                                     loading: "lazy",
                                                                                                     decoding: "async",
                                                                                                     className: "",
-                                                                                                    src: "/wp-content/uploads/2023/08/blog-02-553x533.jpg",
+                                                                                                    src: "/images/internship-web-dev.jpg",
                                                                                                     width: "553",
                                                                                                     height: "533",
                                                                                                     alt: "blog-02",
@@ -543,7 +543,7 @@ function BlogSection() {
                                                                                                     loading: "lazy",
                                                                                                     decoding: "async",
                                                                                                     className: "",
-                                                                                                    src: "/wp-content/uploads/2023/07/blog-03-553x533.jpg",
+                                                                                                    src: "/images/internship-teamwork.jpg",
                                                                                                     width: "553",
                                                                                                     height: "533",
                                                                                                     alt: "blog-03",
@@ -695,7 +695,7 @@ function BlogSection() {
                                                                                                     loading: "lazy",
                                                                                                     decoding: "async",
                                                                                                     className: "",
-                                                                                                    src: "/wp-content/uploads/2023/07/blog-04-553x533.jpg",
+                                                                                                    src: "/images/internship-mobile-app.jpg",
                                                                                                     width: "553",
                                                                                                     height: "533",
                                                                                                     alt: "blog-04",

@@ -755,7 +755,7 @@ export default function DetailContent({ service }) {
                                     className={"pxl-item--bg bg-image"}
                                     style={{
                                       backgroundImage:
-                                        "url(/wp-content/uploads/2023/08/bg-contact-info.jpg)",
+                                        "url(/images/internship-mentorship.jpg)",
                                     }}
                                   ></div>
                                   <div className={"pxl-item--icon"}>
