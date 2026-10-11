@@ -1,7 +1,7 @@
 import IntroductionSection from "./IntroductionSection";
 import ServicesSection from "./ServicesSection";
 import FunFactsSection from "./FunFactsSection";
-import CaseStudiesSection from "./CaseStudiesSection";
+import InternshipDomainsSection from "../home/CaseStudiesSection";
 export default function PageContent() {
   return (
     <>
@@ -26,7 +26,19 @@ export default function PageContent() {
                       <IntroductionSection />
                       <ServicesSection />
                       <FunFactsSection />
-                      <CaseStudiesSection />
+                      <div className="about-internship-domains">
+                        <InternshipDomainsSection />
+                      </div>
+                      <style>{`
+                        .about-internship-domains .pxl-post-content .pxl-widget--title,
+                        .about-internship-domains .pxl-post-content .pxl-widget--desc {
+                          color: #ffffff;
+                          text-shadow: 0 1px 3px rgba(0, 0, 0, 0.45);
+                        }
+                        .about-internship-domains .pxl-post-content .pxl-widget--desc {
+                          color: rgba(255, 255, 255, 0.92);
+                        }
+                      `}</style>
                     </div>
                   </div>
                 </article>

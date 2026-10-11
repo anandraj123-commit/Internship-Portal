@@ -5,12 +5,6 @@ self.__BUILD_MANIFEST = {
   "/about-us": [
     "static/chunks/pages/about-us.js"
   ],
-  "/blog": [
-    "static/chunks/pages/blog.js"
-  ],
-  "/contact-us": [
-    "static/chunks/pages/contact-us.js"
-  ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [],
