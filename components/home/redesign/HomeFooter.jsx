@@ -1,3 +1,0 @@
-export default function HomeFooter() {
-  return <footer className="home-footer"><div className="home-container home-footer-top"><a className="home-footer-wordmark" href="/" aria-label="Radhika SkillForge home">Radhika SkillForge</a><p>Digital ideas, brought to life with care.</p><a className="home-footer-toplink" href="#top">Back to top ↑</a></div><div className="home-container home-footer-bottom"><span>Radhika SkillForge · Gaya, Bihar</span><nav aria-label="Footer"><a href="/about-us">About</a><a href="/service">Services</a><a href="/blog">Blog</a><a href="/contact-us">Contact</a></nav><a href="mailto:supports@apurvasoftwaresolutions.com">supports@apurvasoftwaresolutions.com</a></div></footer>;
-}

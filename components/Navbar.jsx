@@ -70,14 +70,12 @@ export default function Navbar({ variant = 0 }) {
           <li
             id={"menu-item-6906"}
             className={
-              "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6906"
+              "menu-item menu-item-type-custom menu-item-object-custom menu-item-6906"
             }
           >
             <a href={"/blog"}>
               <span className={"pxl-menu-item-text"}>
                 {"Blog"}
-                <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
-                <span className={"pxl-item-menu-icon pxl-hide "}></span>
               </span>
             </a>
           </li>
@@ -206,14 +204,12 @@ export default function Navbar({ variant = 0 }) {
           </li>
           <li
             className={
-              "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6906"
+              "menu-item menu-item-type-custom menu-item-object-custom menu-item-6906"
             }
           >
             <a href={"/blog"}>
               <span className={"pxl-menu-item-text"}>
                 {"Blog"}
-                <i className={"caseicon-angle-arrow-down pxl-hide"}></i>
-                <span className={"pxl-item-menu-icon pxl-hide "}></span>
               </span>
             </a>
           </li>
@@ -325,83 +321,7 @@ export default function Navbar({ variant = 0 }) {
           </li>
           <li
             className={
-              "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6907"
-            }
-          >
-            <a href={"/#"}>
-              <span>{"Portfolio"}</span>
-            </a>
-            <ul className={"sub-menu"}>
-              <li
-                className={
-                  "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6927"
-                }
-              >
-                <a href={"portfolio/index.html"}>
-                  <span>{"Portfolio Grid"}</span>
-                </a>
-                <ul className={"sub-menu"}>
-                  <li
-                    className={
-                      "menu-item menu-item-type-post_type menu-item-object-page menu-item-6948"
-                    }
-                  >
-                    <a href={"index.html%3Fp=2541.html"}>
-                      <span>{"2 Columns"}</span>
-                    </a>
-                  </li>
-                  <li
-                    className={
-                      "menu-item menu-item-type-post_type menu-item-object-page menu-item-6947"
-                    }
-                  >
-                    <a href={"index.html%3Fp=2543.html"}>
-                      <span>{"3 Columns"}</span>
-                    </a>
-                  </li>
-                  <li
-                    className={
-                      "menu-item menu-item-type-post_type menu-item-object-page menu-item-6946"
-                    }
-                  >
-                    <a href={"index.html%3Fp=2545.html"}>
-                      <span>{"4 Columns"}</span>
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li
-                className={
-                  "menu-item menu-item-type-post_type menu-item-object-page menu-item-6950"
-                }
-              >
-                <a href={"index.html%3Fp=2537.html"}>
-                  <span>{"Portfolio Modern"}</span>
-                </a>
-              </li>
-              <li
-                className={
-                  "menu-item menu-item-type-post_type menu-item-object-page menu-item-6949"
-                }
-              >
-                <a href={"index.html%3Fp=2539.html"}>
-                  <span>{"Portfolio Masonry"}</span>
-                </a>
-              </li>
-              <li
-                className={
-                  "menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-6951"
-                }
-              >
-                <a href={"index.html%3Fp=2574.html"}>
-                  <span>{"Single Portfolio"}</span>
-                </a>
-              </li>
-            </ul>
-          </li>
-          <li
-            className={
-              "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6906"
+              "menu-item menu-item-type-custom menu-item-object-custom menu-item-6906"
             }
           >
             <a href={"/blog"}>

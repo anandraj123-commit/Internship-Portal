@@ -8,6 +8,12 @@ self.__BUILD_MANIFEST = {
   "/apply-job": [
     "static/chunks/pages/apply-job.js"
   ],
+  "/blog": [
+    "static/chunks/pages/blog.js"
+  ],
+  "/service/[slug]": [
+    "static/chunks/pages/service/[slug].js"
+  ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [],
