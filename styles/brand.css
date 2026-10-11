@@ -19,6 +19,25 @@
   --header-bg: rgba(255, 74, 23, 0.72);
 }
 
+/* Make the square brand mark legible inside the shared circular page loader. */
+body .pxl-loader .loader-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body .pxl-loader .loader-logo .loader-brand-image {
+  box-sizing: border-box;
+  width: 78px;
+  height: 78px;
+  padding: 4px;
+  object-fit: contain;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 0 0 5px rgba(255, 74, 23, 0.22);
+}
+
 .internship-section-image--pending {
   transform: translateX(-100%);
 }
