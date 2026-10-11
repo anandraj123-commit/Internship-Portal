@@ -347,8 +347,9 @@ function TeamSection() {
                                                                                     className: "pxl-item--social",
                                                                                     children: [
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.facebook.com/profile.php?id=61580600206501",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
                                                                                                 className: "fab fa-facebook-f"
                                                                                             }, void 0, false, {
@@ -362,10 +363,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.instagram.com/radhikaskillforge2026/",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-twitter"
+                                                                                                className: "fab fa-instagram"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 231,
@@ -377,10 +379,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.youtube.com/@radhikaskillforge",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-behance"
+                                                                                                className: "fab fa-youtube"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 234,
@@ -501,8 +504,9 @@ function TeamSection() {
                                                                                     className: "pxl-item--social",
                                                                                     children: [
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.facebook.com/profile.php?id=61580600206501",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
                                                                                                 className: "fab fa-facebook-f"
                                                                                             }, void 0, false, {
@@ -516,10 +520,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.instagram.com/radhikaskillforge2026/",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-twitter"
+                                                                                                className: "fab fa-instagram"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 285,
@@ -531,10 +536,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.youtube.com/@radhikaskillforge",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-behance"
+                                                                                                className: "fab fa-youtube"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 288,
@@ -655,8 +661,9 @@ function TeamSection() {
                                                                                     className: "pxl-item--social",
                                                                                     children: [
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.facebook.com/profile.php?id=61580600206501",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
                                                                                                 className: "fab fa-facebook-f"
                                                                                             }, void 0, false, {
@@ -670,10 +677,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.instagram.com/radhikaskillforge2026/",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-twitter"
+                                                                                                className: "fab fa-instagram"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 339,
@@ -685,10 +693,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.youtube.com/@radhikaskillforge",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-behance"
+                                                                                                className: "fab fa-youtube"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 342,
@@ -809,8 +818,9 @@ function TeamSection() {
                                                                                     className: "pxl-item--social",
                                                                                     children: [
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.facebook.com/profile.php?id=61580600206501",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
                                                                                                 className: "fab fa-facebook-f"
                                                                                             }, void 0, false, {
@@ -824,10 +834,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.instagram.com/radhikaskillforge2026/",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-twitter"
+                                                                                                className: "fab fa-instagram"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 393,
@@ -839,10 +850,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.youtube.com/@radhikaskillforge",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-behance"
+                                                                                                className: "fab fa-youtube"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 396,
@@ -963,8 +975,9 @@ function TeamSection() {
                                                                                     className: "pxl-item--social",
                                                                                     children: [
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.facebook.com/profile.php?id=61580600206501",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
                                                                                                 className: "fab fa-facebook-f"
                                                                                             }, void 0, false, {
@@ -978,10 +991,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.instagram.com/radhikaskillforge2026/",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-twitter"
+                                                                                                className: "fab fa-instagram"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 447,
@@ -993,10 +1007,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.youtube.com/@radhikaskillforge",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-behance"
+                                                                                                className: "fab fa-youtube"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 450,
@@ -1117,8 +1132,9 @@ function TeamSection() {
                                                                                     className: "pxl-item--social",
                                                                                     children: [
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.facebook.com/profile.php?id=61580600206501",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
                                                                                                 className: "fab fa-facebook-f"
                                                                                             }, void 0, false, {
@@ -1132,10 +1148,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.instagram.com/radhikaskillforge2026/",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-twitter"
+                                                                                                className: "fab fa-instagram"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 501,
@@ -1147,10 +1164,11 @@ function TeamSection() {
                                                                                             columnNumber: 35
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                                                                            href: "/#",
+                                                                                            href: "https://www.youtube.com/@radhikaskillforge",
                                                                                             target: "_blank",
+                                                                                            rel: "noopener noreferrer",
                                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                                                                className: "fab fa-behance"
+                                                                                                className: "fab fa-youtube"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/TeamSection.jsx",
                                                                                                 lineNumber: 504,

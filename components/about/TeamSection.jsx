@@ -135,17 +135,17 @@ export default function TeamSection() {
                                 <i className={"flaticon-plus"}></i>
                               </div>
                               <div className={"pxl-social--icon"}>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.facebook.com/profile.php?id=61580600206501"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-facebook-f"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
-                                  <i className={"fab fa-twitter"}></i>
+                                <a href={"https://www.instagram.com/radhikaskillforge2026/"} target={"_blank"} rel={"noopener noreferrer"}>
+                                  <i className={"fab fa-instagram"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.linkedin.com/company/109134933/admin/dashboard/"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-linkedin-in"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
-                                  <i className={"fab fa-behance"}></i>
+                                <a href={"https://www.youtube.com/@radhikaskillforge"} target={"_blank"} rel={"noopener noreferrer"}>
+                                  <i className={"fab fa-youtube"}></i>
                                 </a>
                               </div>
                             </div>
@@ -199,13 +199,13 @@ export default function TeamSection() {
                                 <i className={"flaticon-plus"}></i>
                               </div>
                               <div className={"pxl-social--icon"}>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.facebook.com/profile.php?id=61580600206501"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-facebook-f"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
-                                  <i className={"fab fa-twitter"}></i>
+                                <a href={"https://www.instagram.com/radhikaskillforge2026/"} target={"_blank"} rel={"noopener noreferrer"}>
+                                  <i className={"fab fa-instagram"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.linkedin.com/company/109134933/admin/dashboard/"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-linkedin-in"}></i>
                                 </a>
                               </div>
@@ -260,17 +260,17 @@ export default function TeamSection() {
                                 <i className={"flaticon-plus"}></i>
                               </div>
                               <div className={"pxl-social--icon"}>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.facebook.com/profile.php?id=61580600206501"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-facebook-f"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
-                                  <i className={"fab fa-twitter"}></i>
+                                <a href={"https://www.instagram.com/radhikaskillforge2026/"} target={"_blank"} rel={"noopener noreferrer"}>
+                                  <i className={"fab fa-instagram"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.linkedin.com/company/109134933/admin/dashboard/"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-linkedin-in"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
-                                  <i className={"fab fa-behance"}></i>
+                                <a href={"https://www.youtube.com/@radhikaskillforge"} target={"_blank"} rel={"noopener noreferrer"}>
+                                  <i className={"fab fa-youtube"}></i>
                                 </a>
                               </div>
                             </div>
@@ -324,17 +324,17 @@ export default function TeamSection() {
                                 <i className={"flaticon-plus"}></i>
                               </div>
                               <div className={"pxl-social--icon"}>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.facebook.com/profile.php?id=61580600206501"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-facebook-f"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
-                                  <i className={"fab fa-twitter"}></i>
+                                <a href={"https://www.instagram.com/radhikaskillforge2026/"} target={"_blank"} rel={"noopener noreferrer"}>
+                                  <i className={"fab fa-instagram"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.linkedin.com/company/109134933/admin/dashboard/"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-linkedin-in"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
-                                  <i className={"fab fa-behance"}></i>
+                                <a href={"https://www.youtube.com/@radhikaskillforge"} target={"_blank"} rel={"noopener noreferrer"}>
+                                  <i className={"fab fa-youtube"}></i>
                                 </a>
                               </div>
                             </div>
@@ -388,13 +388,13 @@ export default function TeamSection() {
                                 <i className={"flaticon-plus"}></i>
                               </div>
                               <div className={"pxl-social--icon"}>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.facebook.com/profile.php?id=61580600206501"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-facebook-f"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
-                                  <i className={"fab fa-twitter"}></i>
+                                <a href={"https://www.instagram.com/radhikaskillforge2026/"} target={"_blank"} rel={"noopener noreferrer"}>
+                                  <i className={"fab fa-instagram"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.linkedin.com/company/109134933/admin/dashboard/"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-linkedin-in"}></i>
                                 </a>
                               </div>
@@ -449,13 +449,13 @@ export default function TeamSection() {
                                 <i className={"flaticon-plus"}></i>
                               </div>
                               <div className={"pxl-social--icon"}>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.facebook.com/profile.php?id=61580600206501"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-facebook-f"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
-                                  <i className={"fab fa-twitter"}></i>
+                                <a href={"https://www.instagram.com/radhikaskillforge2026/"} target={"_blank"} rel={"noopener noreferrer"}>
+                                  <i className={"fab fa-instagram"}></i>
                                 </a>
-                                <a href={"/about-us#"} target={"_blank"}>
+                                <a href={"https://www.linkedin.com/company/109134933/admin/dashboard/"} target={"_blank"} rel={"noopener noreferrer"}>
                                   <i className={"fab fa-linkedin-in"}></i>
                                 </a>
                               </div>

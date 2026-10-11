@@ -572,7 +572,7 @@ export default function BlogSection() {
                     className={"pxl-social-icons pxl-social-icons1 "}
                     data-wow-delay={"ms"}
                   >
-                    <a href={"https://www.linkedin.com/"} target={"_blank"}>
+                    <a href={"https://www.linkedin.com/company/109134933/admin/dashboard/"} target={"_blank"} rel={"noopener noreferrer"}>
                       <i
                         aria-hidden={"true"}
                         className={"fab fa-linkedin-in"}
@@ -590,7 +590,7 @@ export default function BlogSection() {
                       ></i>
                       <span>{"Phone"}</span>
                     </a>
-                    <a href={"https://www.instagram.com/"} target={"_blank"}>
+                    <a href={"https://www.instagram.com/radhikaskillforge2026/"} target={"_blank"} rel={"noopener noreferrer"}>
                       <i
                         aria-hidden={"true"}
                         className={"fab fa-instagram"}

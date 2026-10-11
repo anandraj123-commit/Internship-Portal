@@ -393,7 +393,7 @@ function Page({ header }) {
                                                                                         children: [
                                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
                                                                                                 className: "pxl-item--title el-empty",
-                                                                                                children: "Call Us: +91 6203253537"
+                                                                                                children: "Call Us: +91-6203253537"
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/components/home/Page.jsx",
                                                                                                 lineNumber: 186,
@@ -653,7 +653,9 @@ function Page({ header }) {
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                     className: "elementor-repeater-item-8724752 ps-top",
-                                                                                    href: "/#",
+                                                                                    href: "https://www.facebook.com/profile.php?id=61580600206501",
+                                                                                    target: "_blank",
+                                                                                    rel: "noopener noreferrer",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                                         "aria-hidden": "true",
                                                                                         className: "fab fa-facebook-f"
@@ -669,10 +671,12 @@ function Page({ header }) {
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                     className: "elementor-repeater-item-102e270 ps-top",
-                                                                                    href: "/#",
+                                                                                    href: "https://www.instagram.com/radhikaskillforge2026/",
+                                                                                    target: "_blank",
+                                                                                    rel: "noopener noreferrer",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                                         "aria-hidden": "true",
-                                                                                        className: "fab fa-twitter"
+                                                                                        className: "fab fa-instagram"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/Page.jsx",
                                                                                         lineNumber: 308,
@@ -685,10 +689,12 @@ function Page({ header }) {
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                     className: "elementor-repeater-item-17f3012 ps-top",
-                                                                                    href: "/#",
+                                                                                    href: "https://www.linkedin.com/company/109134933/admin/dashboard/",
+                                                                                    target: "_blank",
+                                                                                    rel: "noopener noreferrer",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                                         "aria-hidden": "true",
-                                                                                        className: "fab fa-dribbble"
+                                                                                        className: "fab fa-linkedin-in"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/Page.jsx",
                                                                                         lineNumber: 319,
@@ -701,10 +707,12 @@ function Page({ header }) {
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                                                     className: "elementor-repeater-item-90368fa ps-top",
-                                                                                    href: "/#",
+                                                                                    href: "https://www.youtube.com/@radhikaskillforge",
+                                                                                    target: "_blank",
+                                                                                    rel: "noopener noreferrer",
                                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                                         "aria-hidden": "true",
-                                                                                        className: "fab fa-behance"
+                                                                                        className: "fab fa-youtube"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/components/home/Page.jsx",
                                                                                         lineNumber: 330,
@@ -1002,7 +1010,7 @@ function Page({ header }) {
                                                                                                 lineNumber: 509,
                                                                                                 columnNumber: 35
                                                                                             }, this),
-                                                                                            "\n                        +91 6203253537                    "
+                                                                                            "\n                        +91-6203253537                    "
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/components/home/Page.jsx",

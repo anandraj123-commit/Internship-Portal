@@ -184,7 +184,7 @@ export default function Page({ header }) {
                                 </div>
                                 <div className={"pxl-item--holder"}>
                                   <h5 className={"pxl-item--title el-empty"}>
-                                    {"Call Us: +91 6203253537"}
+                                    {"Call Us: +91-6203253537"}
                                   </h5>
                                   <div
                                     className={"pxl-item--description el-empty"}
@@ -292,7 +292,7 @@ export default function Page({ header }) {
                                 className={
                                   "elementor-repeater-item-8724752 ps-top"
                                 }
-                                href={"/#"}
+                                href={"https://www.facebook.com/profile.php?id=61580600206501"} target={"_blank"} rel={"noopener noreferrer"}
                               >
                                 <i
                                   aria-hidden={"true"}
@@ -303,33 +303,33 @@ export default function Page({ header }) {
                                 className={
                                   "elementor-repeater-item-102e270 ps-top"
                                 }
-                                href={"/#"}
+                                href={"https://www.instagram.com/radhikaskillforge2026/"} target={"_blank"} rel={"noopener noreferrer"}
                               >
                                 <i
                                   aria-hidden={"true"}
-                                  className={"fab fa-twitter"}
+                                  className={"fab fa-instagram"}
                                 ></i>
                               </a>
                               <a
                                 className={
                                   "elementor-repeater-item-17f3012 ps-top"
                                 }
-                                href={"/#"}
+                                href={"https://www.linkedin.com/company/109134933/admin/dashboard/"} target={"_blank"} rel={"noopener noreferrer"}
                               >
                                 <i
                                   aria-hidden={"true"}
-                                  className={"fab fa-dribbble"}
+                                  className={"fab fa-linkedin-in"}
                                 ></i>
                               </a>
                               <a
                                 className={
                                   "elementor-repeater-item-90368fa ps-top"
                                 }
-                                href={"/#"}
+                                href={"https://www.youtube.com/@radhikaskillforge"} target={"_blank"} rel={"noopener noreferrer"}
                               >
                                 <i
                                   aria-hidden={"true"}
-                                  className={"fab fa-behance"}
+                                  className={"fab fa-youtube"}
                                 ></i>
                               </a>
                             </div>
@@ -510,7 +510,7 @@ export default function Page({ header }) {
                                     {"Gaya, Bihar:"}
                                   </label>
                                   {
-                                    "\n                        +91 6203253537                    "
+                                    "\n                        +91-6203253537                    "
                                   }
                                 </div>
                               </div>
@@ -520,7 +520,7 @@ export default function Page({ header }) {
                                     {"WhatsApp:"}
                                   </label>
                                   {
-                                    "\n                        +91 6203253537                    "
+                                    "\n                        +91-6203253537                    "
                                   }
                                 </div>
                               </div> */}

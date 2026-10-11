@@ -766,7 +766,7 @@ export default function DetailContent({ service }) {
                                     ></i>
                                   </div>
                                   <div className={"pxl-phone--number"}>
-                                    {"+91 6203253537"}
+                                    {"+91-6203253537"}
                                   </div>
                                   <div className={"pxl-item--desc"}>
                                     {

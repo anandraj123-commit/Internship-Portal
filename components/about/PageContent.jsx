@@ -1,6 +1,5 @@
 import IntroductionSection from "./IntroductionSection";
 import ServicesSection from "./ServicesSection";
-import TeamSection from "./TeamSection";
 import FunFactsSection from "./FunFactsSection";
 import CaseStudiesSection from "./CaseStudiesSection";
 export default function PageContent() {
@@ -26,7 +25,6 @@ export default function PageContent() {
                     >
                       <IntroductionSection />
                       <ServicesSection />
-                      <TeamSection />
                       <FunFactsSection />
                       <CaseStudiesSection />
                     </div>

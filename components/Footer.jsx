@@ -12,11 +12,10 @@ const usefulLinks = [
 const internships = services.map(({ title, slug }) => [title, `/service/${slug}`]);
 
 const socialLinks = [
-  ["X", null],
-  ["Facebook", "fab fa-facebook-f"],
-  ["Instagram", "fab fa-instagram"],
-  ["LinkedIn", "fab fa-linkedin-in"],
-  ["YouTube", "fab fa-youtube"],
+  ["Facebook", "fab fa-facebook-f", "https://www.facebook.com/profile.php?id=61580600206501"],
+  ["YouTube", "fab fa-youtube", "https://www.youtube.com/@radhikaskillforge"],
+  ["Instagram", "fab fa-instagram", "https://www.instagram.com/radhikaskillforge2026/"],
+  ["LinkedIn", "fab fa-linkedin-in", "https://www.linkedin.com/company/109134933/admin/dashboard/"],
 ];
 
 function FooterLinks({ title, links }) {
@@ -52,16 +51,16 @@ export default function Footer() {
               <p>Veer Kuwar Singh Colony</p>
               <p>Gaya, Bihar</p>
               <div className={styles.contact}>
-                <p><strong>Phone:</strong> <a href="tel:+916203253537">+91 6203253537</a></p>
+                <p><strong>Phone:</strong> <a href="tel:+916203253537">+91-6203253537</a></p>
                 <p><strong>WhatsApp:</strong> <a href="https://wa.me/918797044416" target="_blank" rel="noopener noreferrer">+91 8797044416</a></p>
                 <p><strong>Email:</strong> <a className={styles.email} href="mailto:supports@apurvasoftwaresolutions.com">supports@apurvasoftwaresolutions.com</a></p>
               </div>
             </address>
             <div className={styles.socials} aria-label="Social profiles">
-              {socialLinks.map(([label, icon]) => (
-                <span key={label} className={styles.social} role="img" aria-label={`${label} — profile link coming soon`} title={`${label} — profile link coming soon`}>
-                  {icon ? <i className={icon} aria-hidden="true" /> : <span aria-hidden="true">𝕏</span>}
-                </span>
+              {socialLinks.map(([label, icon, href]) => (
+                <a key={label} className={styles.social} href={href} target="_blank" rel="noopener noreferrer" aria-label={`Visit Radhika SkillForge on ${label}`} title={label}>
+                  <i className={icon} aria-hidden="true" />
+                </a>
               ))}
             </div>
           </section>

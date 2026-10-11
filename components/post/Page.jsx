@@ -191,7 +191,7 @@ export default function PostPage() {
                                     {"Gaya, Bihar:"}
                                   </label>
                                   {
-                                    "\n                        +91 6203253537                    "
+                                    "\n                        +91-6203253537                    "
                                   }
                                 </div>
                               </div>
@@ -201,7 +201,7 @@ export default function PostPage() {
                                     {"WhatsApp:"}
                                   </label>
                                   {
-                                    "\n                        +91 6203253537                    "
+                                    "\n                        +91-6203253537                    "
                                   }
                                 </div>
                               </div>

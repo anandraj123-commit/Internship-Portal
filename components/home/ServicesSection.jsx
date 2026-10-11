@@ -498,7 +498,7 @@ export default function ServicesSection() {
                           {"Call For Emergency"}
                         </h5>
                         <div className={"pxl-item--description el-empty"}>
-                          {"(+91) 6203253537"}
+                          {"+91-6203253537"}
                         </div>
                       </div>
                     </div>

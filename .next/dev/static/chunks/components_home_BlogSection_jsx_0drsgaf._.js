@@ -936,8 +936,9 @@ function BlogSection() {
                                         "data-wow-delay": "ms",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "https://www.linkedin.com/",
+                                                href: "https://www.linkedin.com/company/109134933/admin/dashboard/",
                                                 target: "_blank",
+                                                rel: "noopener noreferrer",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                         "aria-hidden": "true",
@@ -1009,8 +1010,9 @@ function BlogSection() {
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "https://www.instagram.com/",
+                                                href: "https://www.instagram.com/radhikaskillforge2026/",
                                                 target: "_blank",
+                                                rel: "noopener noreferrer",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                         "aria-hidden": "true",

@@ -12,6 +12,6 @@ R.c("server/chunks/ssr/[externals]__0mly4vc._.js")
 R.c("server/chunks/ssr/node_modules_0y9-9ms._.js")
 R.c("server/chunks/ssr/[root-of-the-server]__0_57dm2._.js")
 R.c("server/chunks/ssr/node_modules_1_aarlg._.js")
-R.c("server/chunks/ssr/pages__app_jsx_05ih_-d._.js")
+R.c("server/chunks/ssr/_1g218mc._.js")
 R.m("[project]/node_modules/next/dist/esm/build/templates/pages.js { INNER_PAGE => \"[project]/pages/index.jsx [ssr] (ecmascript)\", INNER_DOCUMENT => \"[project]/pages/_document.jsx [ssr] (ecmascript)\", INNER_APP => \"[project]/pages/_app.jsx [ssr] (ecmascript)\" } [ssr] (ecmascript)")
 module.exports=R.m("[project]/node_modules/next/dist/esm/build/templates/pages.js { INNER_PAGE => \"[project]/pages/index.jsx [ssr] (ecmascript)\", INNER_DOCUMENT => \"[project]/pages/_document.jsx [ssr] (ecmascript)\", INNER_APP => \"[project]/pages/_app.jsx [ssr] (ecmascript)\" } [ssr] (ecmascript)").exports

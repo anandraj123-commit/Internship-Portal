@@ -71,22 +71,10 @@ export default function IntroductionSection() {
                                     data-parallax={'{"y":-60}'}
                                     style={{
                                       backgroundImage:
-                                        "url(/images/internship-mentorship.jpg)",
+                                        "url(/images/internship-college-team-portrait.jpg)",
                                     }}
                                   ></div>
                                 </div>
-                              </div>
-                              <div className={"btn-video-wrap p-center"}>
-                                <a
-                                  className={
-                                    "pxl-btn-video pxl-action-popup style-outline"
-                                  }
-                                  href={
-                                    "https://www.youtube.com/watch?v=SF4aHwxHtZ0"
-                                  }
-                                >
-                                  <i className={"caseicon-play1"}></i>
-                                </a>
                               </div>
                             </div>
                           </div>

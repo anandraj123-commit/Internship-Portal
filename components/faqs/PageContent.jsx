@@ -1274,15 +1274,15 @@ export default function PageContent() {
                                                             "no-lazyload "
                                                           }
                                                           src={
-                                                            "/wp-content/uploads/2023/08/testimonial-small-img1-120x120.jpg"
+                                                            "/images/internship-profile-mentor-thumb.jpg"
                                                           }
                                                           width={"120"}
                                                           height={"120"}
                                                           alt={
-                                                            "testimonial-small-img1"
+                                                            "Internship mentor portrait"
                                                           }
                                                           title={
-                                                            "testimonial-small-img1"
+                                                            "Internship mentor portrait"
                                                           }
                                                         />
                                                       </div>
@@ -1405,15 +1405,15 @@ export default function PageContent() {
                                                             "no-lazyload "
                                                           }
                                                           src={
-                                                            "/wp-content/uploads/2023/08/testimonial-small-img2-120x120.jpg"
+                                                            "/images/internship-profile-coordinator-thumb.jpg"
                                                           }
                                                           width={"120"}
                                                           height={"120"}
                                                           alt={
-                                                            "testimonial-small-img2"
+                                                            "Internship programme coordinator portrait"
                                                           }
                                                           title={
-                                                            "testimonial-small-img2"
+                                                            "Internship programme coordinator portrait"
                                                           }
                                                         />
                                                       </div>
@@ -1536,15 +1536,15 @@ export default function PageContent() {
                                                             "no-lazyload "
                                                           }
                                                           src={
-                                                            "/wp-content/uploads/2023/08/testimonial-small-img3-120x120.jpg"
+                                                            "/images/internship-profile-webdev-thumb.jpg"
                                                           }
                                                           width={"120"}
                                                           height={"120"}
                                                           alt={
-                                                            "testimonial-small-img3"
+                                                            "Web development intern portrait"
                                                           }
                                                           title={
-                                                            "testimonial-small-img3"
+                                                            "Web development intern portrait"
                                                           }
                                                         />
                                                       </div>
@@ -1649,14 +1649,14 @@ export default function PageContent() {
                                                       width={"498"}
                                                       height={"738"}
                                                       src={
-                                                        "/wp-content/uploads/2023/08/testimonial-img1.png"
+                                                        "/images/internship-profile-mentor.jpg"
                                                       }
                                                       className={
                                                         "no-lazyload attachment-full"
                                                       }
-                                                      alt={""}
+                                                      alt={"Internship mentor portrait"}
                                                       srcSet={
-                                                        "/wp-content/uploads/2023/08/testimonial-img1.png 498w, /wp-content/uploads/2023/08/testimonial-img1-202x300.png 202w, /wp-content/uploads/2023/08/testimonial-img1-479x710.png 479w"
+                                                        "/images/internship-profile-mentor.jpg 1024w"
                                                       }
                                                       sizes={
                                                         "(max-width: 498px) 100vw, 498px"
@@ -1683,14 +1683,14 @@ export default function PageContent() {
                                                       width={"486"}
                                                       height={"738"}
                                                       src={
-                                                        "/wp-content/uploads/2023/08/testimonial-img2.png"
+                                                        "/images/internship-profile-coordinator.jpg"
                                                       }
                                                       className={
                                                         "no-lazyload attachment-full"
                                                       }
-                                                      alt={""}
+                                                      alt={"Internship programme coordinator portrait"}
                                                       srcSet={
-                                                        "/wp-content/uploads/2023/08/testimonial-img2.png 486w, /wp-content/uploads/2023/08/testimonial-img2-198x300.png 198w, /wp-content/uploads/2023/08/testimonial-img2-468x710.png 468w"
+                                                        "/images/internship-profile-coordinator.jpg 1024w"
                                                       }
                                                       sizes={
                                                         "(max-width: 486px) 100vw, 486px"
@@ -1717,14 +1717,14 @@ export default function PageContent() {
                                                       width={"530"}
                                                       height={"738"}
                                                       src={
-                                                        "/wp-content/uploads/2023/08/testimonial-img3.png"
+                                                        "/images/internship-profile-webdev.jpg"
                                                       }
                                                       className={
                                                         "no-lazyload attachment-full"
                                                       }
-                                                      alt={""}
+                                                      alt={"Web development intern portrait"}
                                                       srcSet={
-                                                        "/wp-content/uploads/2023/08/testimonial-img3.png 530w, /wp-content/uploads/2023/08/testimonial-img3-215x300.png 215w, /wp-content/uploads/2023/08/testimonial-img3-510x710.png 510w"
+                                                        "/images/internship-profile-webdev.jpg 1024w"
                                                       }
                                                       sizes={
                                                         "(max-width: 530px) 100vw, 530px"

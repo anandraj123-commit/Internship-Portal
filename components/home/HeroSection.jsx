@@ -82,7 +82,9 @@ export default function HeroSection() {
                   >
                     <a
                       className={"elementor-repeater-item-1b713b3 ps-top"}
-                      href={"/#"}
+                      href={"https://www.instagram.com/radhikaskillforge2026/"}
+                      target={"_blank"}
+                      rel={"noopener noreferrer"}
                     >
                       <i
                         aria-hidden={"true"}
@@ -91,7 +93,9 @@ export default function HeroSection() {
                     </a>
                     <a
                       className={"elementor-repeater-item-f38c69c ps-top"}
-                      href={"/#"}
+                      href={"https://www.linkedin.com/company/109134933/admin/dashboard/"}
+                      target={"_blank"}
+                      rel={"noopener noreferrer"}
                     >
                       <i
                         aria-hidden={"true"}
@@ -100,7 +104,9 @@ export default function HeroSection() {
                     </a>
                     <a
                       className={"elementor-repeater-item-42b099a ps-top"}
-                      href={"/#"}
+                      href={"https://www.facebook.com/profile.php?id=61580600206501"}
+                      target={"_blank"}
+                      rel={"noopener noreferrer"}
                     >
                       <i
                         aria-hidden={"true"}

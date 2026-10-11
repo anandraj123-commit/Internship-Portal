@@ -36,12 +36,6 @@ export function PostShare() {
       `https://www.facebook.com/sharer/sharer.php?u=${url}`,
     ],
     [
-      "tw-social",
-      "Twitter",
-      "twitter",
-      `https://twitter.com/intent/tweet?url=${url}&text=${title}`,
-    ],
-    [
       "pin-social",
       "Pinterest",
       "pinterest",

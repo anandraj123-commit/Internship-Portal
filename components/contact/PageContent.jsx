@@ -188,7 +188,7 @@ export default function PageContent() {
                                               <p>
                                                 <a href="mailto:supports@apurvasoftwaresolutions.com">supports@apurvasoftwaresolutions.com</a>
                                                 <br />
-                                                <a href="tel:+916203253537">+91 6203253537</a>
+                                                <a href="tel:+916203253537">+91-6203253537</a>
                                                 <br />
                                                 <a href="https://wa.me/918797044416">WhatsApp: +91 8797044416</a>
                                               </p>
@@ -333,7 +333,9 @@ export default function PageContent() {
                                       className={
                                         "elementor-repeater-item-b9d5da2 ps-bottom"
                                       }
-                                      href={"/contact-us#"}
+                                      href={"https://www.facebook.com/profile.php?id=61580600206501"}
+                                      target={"_blank"}
+                                      rel={"noopener noreferrer"}
                                     >
                                       <i
                                         aria-hidden={"true"}
@@ -345,19 +347,23 @@ export default function PageContent() {
                                       className={
                                         "elementor-repeater-item-916c9a2 ps-bottom"
                                       }
-                                      href={"/contact-us#"}
+                                      href={"https://www.youtube.com/@radhikaskillforge"}
+                                      target={"_blank"}
+                                      rel={"noopener noreferrer"}
                                     >
                                       <i
                                         aria-hidden={"true"}
-                                        className={"fab fa-twitter"}
+                                        className={"fab fa-youtube"}
                                       ></i>
-                                      <span>{"Twitter"}</span>
+                                      <span>{"YouTube"}</span>
                                     </a>
                                     <a
                                       className={
                                         "elementor-repeater-item-e5d47ac ps-bottom"
                                       }
-                                      href={"/contact-us#"}
+                                      href={"https://www.linkedin.com/company/109134933/admin/dashboard/"}
+                                      target={"_blank"}
+                                      rel={"noopener noreferrer"}
                                     >
                                       <i
                                         aria-hidden={"true"}
@@ -369,7 +375,9 @@ export default function PageContent() {
                                       className={
                                         "elementor-repeater-item-f103317 ps-bottom"
                                       }
-                                      href={"/contact-us#"}
+                                      href={"https://www.instagram.com/radhikaskillforge2026/"}
+                                      target={"_blank"}
+                                      rel={"noopener noreferrer"}
                                     >
                                       <i
                                         aria-hidden={"true"}
