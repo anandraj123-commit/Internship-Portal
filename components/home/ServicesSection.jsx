@@ -288,45 +288,6 @@ export default function ServicesSection() {
                     >
                       <div
                         className={
-                          "elementor-element elementor-element-0c473ae elementor-align-center elementor-widget elementor-widget-pxl_button"
-                        }
-                        data-id={"0c473ae"}
-                        data-element_type={"widget"}
-                        data-e-type={"widget"}
-                        data-widget_type={"pxl_button.default"}
-                      >
-                        <div className={"elementor-widget-container"}>
-                          <div
-                            id={"pxl-pxl_button-0c473ae-6229"}
-                            className={"pxl-button pxl-atc-link "}
-                            data-wow-delay={"ms"}
-                          >
-                            <a
-                              href={"index.html%3Fp=1137.html"}
-                              className={
-                                "btn pxl-icon-active btn-text-nina btn-gradient-vertical  pxl-icon--left"
-                              }
-                              data-wow-delay={"ms"}
-                            >
-                              <span
-                                className={"pxl--btn-text"}
-                                data-text={"Our Team"}
-                              >
-                                <span>{"O"}</span>
-                                <span>{"u"}</span>
-                                <span>{"r"}</span>
-                                <span className={"spacer"}></span>
-                                <span>{"T"}</span>
-                                <span>{"e"}</span>
-                                <span>{"a"}</span>
-                                <span>{"m"}</span>
-                              </span>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                      <div
-                        className={
                           "elementor-element elementor-element-863ecac elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-pxl_image"
                         }
                         data-id={"863ecac"}
