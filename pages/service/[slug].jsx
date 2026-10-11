@@ -10,6 +10,8 @@ export default function ServiceDetails({ service }) {
       Styles={DetailStyles}
       title={service.seo.title}
       description={service.seo.description}
+      canonicalPath={`/service/${service.slug}`}
+      image={service.media[0]?.image?.src}
     >
       <DetailPage service={service} />
     </Root>

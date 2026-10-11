@@ -40,7 +40,7 @@ export default class SiteDocument extends Document {
   }
   render() {
     return (
-      <Html lang="en-US">
+      <Html lang="en-IN">
         <Head />
         <body
           className={

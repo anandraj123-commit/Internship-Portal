@@ -3,9 +3,16 @@ import CategoryPage from "../../components/category/Page";
 import PageStyles from "../../components/category/PageStyles";
 import data from "../../data/blogs.json";
 
-export default function Category({ name }) {
+export default function Category({ name, description, canonicalPath, image }) {
   return (
-    <Root pageKey="category" Styles={PageStyles} title={`${name} – Radhika SkillForge`}>
+    <Root
+      pageKey="category"
+      Styles={PageStyles}
+      title={`${name} Guides for Students | Radhika SkillForge`}
+      description={description}
+      canonicalPath={canonicalPath}
+      image={image}
+    >
       <CategoryPage />
     </Root>
   );
@@ -13,5 +20,15 @@ export default function Category({ name }) {
 export function getServerSideProps({ params }) {
   const category = data.categories.find((item) => item.slug === params.slug);
   if (!category) return { notFound: true };
-  return { props: { name: category.name } };
+  const categoryPosts = data.posts.filter((post) =>
+    post.categories.includes(category.id),
+  );
+  return {
+    props: {
+      name: category.name,
+      description: `Read ${category.name.toLowerCase()} guides and practical tips for college students exploring internships with Radhika SkillForge.`,
+      canonicalPath: `/category/${category.slug}`,
+      image: categoryPosts[0]?.image || "/images/internship-career-prep.jpg",
+    },
+  };
 }

@@ -1,26 +1,42 @@
 {
   "home": {
     "title": "Online Internships for College Students | Radhika SkillForge",
-    "description": "Explore online internships for college students in India at Radhika SkillForge, an initiative of Apurva Software Solutions, an AICTE approved company for internships."
+    "description": "Explore online internships for college students in India at Radhika SkillForge, an initiative of Apurva Software Solutions, an AICTE approved company for internships.",
+    "image": "/images/internship-hero.jpg"
   },
   "about": {
     "title": "AICTE Approved Parent Company | Radhika SkillForge",
-    "description": "Radhika SkillForge offers student internship training in India. Our parent company, Apurva Software Solutions, is AICTE approved for internships."
+    "description": "Radhika SkillForge offers student internship training in India. Our parent company, Apurva Software Solutions, is AICTE approved for internships.",
+    "image": "/images/internship-college-team-wide.jpg"
   },
   "services": {
     "title": "IT Internship Domains for Students | Radhika SkillForge",
-    "description": "Explore IT internships for college students in web, frontend, backend, full stack, mobile app development and digital marketing with mentor-guided projects."
+    "description": "Explore IT internships for college students in web, frontend, backend, full stack, mobile app development and digital marketing with mentor-guided projects.",
+    "image": "/images/internship-college-team-wide.jpg"
   },
   "applyJob": {
     "title": "Apply for Online Internship Training | Radhika SkillForge",
-    "description": "Apply for online internship training in India through Radhika SkillForge, an initiative of AICTE approved Apurva Software Solutions. Check domain eligibility."
+    "description": "Apply for online internship training in India through Radhika SkillForge, an initiative of AICTE approved Apurva Software Solutions. Check domain eligibility.",
+    "image": "/images/internship-career-prep.jpg"
   },
   "faqs": {
     "title": "Internship Eligibility & Certificate FAQs | Radhika SkillForge",
-    "description": "Find answers about online internships with certificate, internship eligibility for college students and our AICTE approved parent company, Apurva Software Solutions."
+    "description": "Find answers about online internships with certificate, internship eligibility for college students and our AICTE approved parent company, Apurva Software Solutions.",
+    "image": "/images/internship-mentorship.jpg"
   },
   "contact": {
     "title": "Student Internship Enquiries | Radhika SkillForge",
-    "description": "Contact Radhika SkillForge for student internship enquiries, domain eligibility and online training under parent company Apurva Software Solutions."
+    "description": "Contact Radhika SkillForge for student internship enquiries, domain eligibility and online training under parent company Apurva Software Solutions.",
+    "image": "/images/internship-footer-students.jpg"
+  },
+  "blog": {
+    "title": "Internship Guides & Student Career Tips | Radhika SkillForge",
+    "description": "Read practical guides on student internships, web and mobile development, digital marketing, projects and career preparation from Radhika SkillForge.",
+    "image": "/images/internship-career-prep.jpg"
+  },
+  "testimonial": {
+    "title": "Student Internship Experiences | Radhika SkillForge",
+    "description": "Explore experiences and learning perspectives related to practical assignments, mentor support and internship training at Radhika SkillForge.",
+    "image": "/images/internship-profile-mentor.jpg"
   }
 }
